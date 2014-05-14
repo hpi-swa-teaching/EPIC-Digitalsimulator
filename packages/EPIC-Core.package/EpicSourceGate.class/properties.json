@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ak 7/23/2010 22:14:50.512",
+	"instvars" : [
+		 ],
+	"name" : "EpicSourceGate",
+	"pools" : [
+		 ],
+	"super" : "EpicGate",
+	"type" : "normal" }

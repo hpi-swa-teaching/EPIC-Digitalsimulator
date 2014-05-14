@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"circleDiameter" : "sv 7/22/2010 22:19:49.305",
+		"gateSize" : "tb 7/23/2010 18:57:03.904" },
+	"instance" : {
+		"createInputPorts" : "tb 6/11/2010 11:23:40.685",
+		"createOutputPorts" : "tb 6/11/2010 11:23:43.14",
+		"drawAsANSIOn:" : "tb 7/23/2010 17:46:35.903",
+		"drawAsDINOn:" : "tb 7/23/2010 17:46:43.326",
+		"drawAsEPICOn:" : "tb 7/23/2010 17:46:53.006",
+		"drawAsIECOn:" : "tb 7/23/2010 17:46:27.471",
+		"drawBoxOn:" : "f.z 7/23/2010 09:42:33.954",
+		"drawOn:" : "tb 7/23/2010 18:58:30.155",
+		"drawPolyLine:on:" : "tb 7/23/2010 18:46:16.812",
+		"drawPolygon:on:" : "tb 7/23/2010 17:40:34.355",
+		"gateBoxANSI" : "tb 7/23/2010 17:53:19.441",
+		"gateBoxDIN" : "tb 7/23/2010 19:09:37.02",
+		"gateBoxIEC" : "tb 7/23/2010 20:47:21.488",
+		"initialize" : "tb 7/23/2010 17:58:53.887",
+		"innerBounds" : "sv 7/22/2010 21:24:35.017",
+		"notDotANSI" : "tb 7/23/2010 17:53:04.523",
+		"notDotDIN" : "tb 7/23/2010 19:17:15.973",
+		"notDotDiameter" : "tb 7/23/2010 17:52:43.457",
+		"notDotIEC" : "tb 7/23/2010 20:44:24.654",
+		"notDotSize" : "tb 7/23/2010 17:52:51.778" } }

@@ -1,0 +1,1 @@
+Ich sorge dafür, dass die benutzdefinierten Schaltkreise auch im PrototypePanel bereits geladen werden können. Da dem PrototypePanel kein Simulator bekannt ist, würde es dort bei rückgekoppelten Schaltungen zu einer Endlosschleife kommen. Ich sorge dafür, dass nur das Interface des XML-Dokuments geparset wird.

@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Serialization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicXMLWriter",
+	"pools" : [
+		 ],
+	"super" : "XMLWriter",
+	"type" : "normal" }

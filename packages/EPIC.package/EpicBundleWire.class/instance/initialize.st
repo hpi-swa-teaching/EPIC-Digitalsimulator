@@ -1,0 +1,9 @@
+initialization
+initialize
+	super initialize.
+	self
+		addAnchorPoint: 0@0;
+		addAnchorPoint: 0@0;
+		generateDrawAnchors;
+		wireColor;
+		lineWidth: self class wireThickness

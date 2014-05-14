@@ -1,0 +1,1 @@
+Ich bin ein verneintes logisches Oder.

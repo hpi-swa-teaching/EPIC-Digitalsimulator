@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sv 7/23/2010 20:56:50.944",
+	"instvars" : [
+		"editorPanel",
+		"navigationBar" ],
+	"name" : "EpicEditorBox",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

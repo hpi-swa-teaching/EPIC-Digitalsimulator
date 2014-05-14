@@ -1,0 +1,1 @@
+Ich, das EpicPolygon, bin eine Hilfsklasse zur Darstellung der verschiedenen Primitven Gatter in verschiedenen Styles (ANSI, DIN).

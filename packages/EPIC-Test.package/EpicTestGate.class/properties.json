@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "m.s. 7/23/2010 21:17:01.159",
+	"instvars" : [
+		 ],
+	"name" : "EpicTestGate",
+	"pools" : [
+		 ],
+	"super" : "EpicGate",
+	"type" : "normal" }

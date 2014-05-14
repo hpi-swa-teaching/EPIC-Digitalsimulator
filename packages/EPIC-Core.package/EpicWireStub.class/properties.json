@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ak 7/23/2010 18:35:55.459",
+	"instvars" : [
+		"endPoint" ],
+	"name" : "EpicWireStub",
+	"pools" : [
+		 ],
+	"super" : "EpicAbstractWire",
+	"type" : "normal" }

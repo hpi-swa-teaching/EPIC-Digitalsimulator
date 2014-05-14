@@ -1,0 +1,3 @@
+helper messages
+circuitName
+	^ 'self'

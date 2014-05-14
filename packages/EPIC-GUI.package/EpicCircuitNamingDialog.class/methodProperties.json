@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"getCircuitNameWithTitle:label:" : "tb 6/25/2010 14:58:27.196",
+		"getPortNameWithTitle:label:" : "ak 7/22/2010 22:28:18.382",
+		"isValidName:" : "tb 6/25/2010 14:54:54.833",
+		"nameRegex" : "sv 6/30/2010 15:01:37.612" },
+	"instance" : {
+		"askOnceForCircuitName" : "tb 6/25/2010 15:00:32.192",
+		"displayError" : "tb 6/25/2010 16:25:55.36",
+		"getCircuitName" : "tb 6/25/2010 15:01:42.959",
+		"getPortName" : "ak 7/22/2010 22:27:12.906",
+		"label" : "tb 6/25/2010 14:57:41.088",
+		"label:" : "tb 6/25/2010 14:57:41.142",
+		"title" : "tb 6/25/2010 14:57:41.175",
+		"title:" : "tb 6/25/2010 14:57:49.901" } }

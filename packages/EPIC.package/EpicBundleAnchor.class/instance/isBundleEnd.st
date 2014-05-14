@@ -1,0 +1,3 @@
+accessing
+isBundleEnd
+	^ isBundleEnd

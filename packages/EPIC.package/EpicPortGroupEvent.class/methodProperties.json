@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"of:when:" : "tb 6/11/2010 18:17:40.383" },
+	"instance" : {
+		"add:" : "tb 6/11/2010 18:00:14.209",
+		"affectedComponent" : "tb 6/11/2010 17:15:24",
+		"affectedComponent:" : "tb 6/11/2010 17:15:24.032",
+		"isPortEvent" : "tb 6/11/2010 18:02:26.471",
+		"portEvents" : "tb 6/11/2010 17:15:23.904",
+		"portEvents:" : "tb 6/11/2010 17:15:23.967",
+		"restoredInputValues" : "tb 6/11/2010 17:59:14.1",
+		"timeStamp" : "tb 6/11/2010 18:00:21.091",
+		"timeStamp:" : "tb 6/11/2010 18:00:21.142",
+		"triggerSimulation" : "tb 6/11/2010 18:31:09.244" } }

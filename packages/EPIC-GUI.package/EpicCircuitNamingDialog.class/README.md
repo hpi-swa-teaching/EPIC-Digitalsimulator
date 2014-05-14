@@ -1,0 +1,1 @@
+Ich bin ein Dialog zum Erfragen eines Namens für einen neuen Schaltkreis. Ich erscheine, wenn der Benutzer einen neuen Schaltkreis per collapse (c) erzeugt. Das EditorPanel erzeugt mich, wenn ich gebraucht werde.

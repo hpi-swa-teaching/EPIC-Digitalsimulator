@@ -1,0 +1,3 @@
+simulation
+simulateWith: aCollection
+	^ self

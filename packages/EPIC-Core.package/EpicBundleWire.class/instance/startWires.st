@@ -1,0 +1,3 @@
+bundling
+startWires
+	^startWires

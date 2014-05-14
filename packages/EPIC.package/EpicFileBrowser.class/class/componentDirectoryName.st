@@ -1,0 +1,3 @@
+magic strings
+componentDirectoryName
+	^ 'epic'

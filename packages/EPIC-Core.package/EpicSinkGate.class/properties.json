@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicSinkGate",
+	"pools" : [
+		 ],
+	"super" : "EpicGate",
+	"type" : "normal" }

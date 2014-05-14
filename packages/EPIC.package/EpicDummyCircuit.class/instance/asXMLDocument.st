@@ -1,0 +1,3 @@
+serialization
+asXMLDocument
+	^ self xmlDocument

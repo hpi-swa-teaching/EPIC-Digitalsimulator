@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isBundleEnd" ],
+	"name" : "EpicBundleAnchor",
+	"pools" : [
+		 ],
+	"super" : "EpicAnchor",
+	"type" : "normal" }

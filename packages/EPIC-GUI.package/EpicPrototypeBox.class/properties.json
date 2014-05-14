@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sv 7/23/2010 21:03:07.192",
+	"instvars" : [
+		"activePanel",
+		"tabBar" ],
+	"name" : "EpicPrototypeBox",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

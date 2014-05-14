@@ -1,0 +1,16 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ak 7/23/2010 21:50:15.714",
+	"instvars" : [
+		"inputPorts",
+		"outputPorts",
+		"selected" ],
+	"name" : "EpicComponent",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

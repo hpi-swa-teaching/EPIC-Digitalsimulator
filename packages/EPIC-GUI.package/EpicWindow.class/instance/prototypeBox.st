@@ -1,0 +1,3 @@
+accessing
+prototypeBox
+	^ prototypeBox

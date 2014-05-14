@@ -1,0 +1,3 @@
+simulation
+delay
+	^ 1

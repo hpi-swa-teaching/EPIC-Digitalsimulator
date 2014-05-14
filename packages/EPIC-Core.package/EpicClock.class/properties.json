@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ak 7/23/2010 22:18:12.489",
+	"instvars" : [
+		"agent",
+		"value" ],
+	"name" : "EpicClock",
+	"pools" : [
+		 ],
+	"super" : "EpicSourceGate",
+	"type" : "normal" }

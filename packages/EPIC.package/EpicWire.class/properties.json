@@ -1,0 +1,19 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CF 5/28/2013 01:18:06.391",
+	"instvars" : [
+		"endPort",
+		"grabbedAnchorIndex",
+		"lineWidth",
+		"selected",
+		"includingBundles",
+		"hoverBundle" ],
+	"name" : "EpicWire",
+	"pools" : [
+		 ],
+	"super" : "EpicAbstractWire",
+	"type" : "normal" }

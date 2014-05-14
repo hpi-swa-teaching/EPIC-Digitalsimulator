@@ -1,0 +1,3 @@
+selection
+selectAllComponentsAndWires
+	self selectComponents: self componentsAndWires 

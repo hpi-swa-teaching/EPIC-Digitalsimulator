@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"firstTabPosition" : "f.z 5/27/2010 15:21:36.298",
+		"tabSpacing" : "f.z 5/20/2010 20:33:22.319" },
+	"instance" : {
+		"addTab:" : "f.z 5/20/2010 20:09:17.377",
+		"calculatePositionForNewTab" : "f.z 5/27/2010 15:21:07.157",
+		"delete" : "tb 6/11/2010 17:51:47.886",
+		"drawSubmorphsOn:" : "f.z 5/27/2010 13:23:42.503",
+		"initialize" : "f.z 5/20/2010 20:35:25.923",
+		"setActiveTab:" : "f.z 5/27/2010 15:32:49.886",
+		"tabClicked:" : "f.z 5/20/2010 19:42:17.037",
+		"tabs" : "f.z 5/20/2010 19:34:59.357",
+		"tabs:" : "f.z 5/20/2010 19:34:59.392" } }

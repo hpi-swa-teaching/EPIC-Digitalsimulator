@@ -1,0 +1,3 @@
+as yet unclassified
+clearStackButtons
+	self removeAllMorphs

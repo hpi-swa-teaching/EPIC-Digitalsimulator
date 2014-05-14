@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addComponent:" : "sv 7/23/2010 16:15:25.431",
+		"addComponents:" : "tb 6/30/2010 18:26:15.601",
+		"addWire:" : "f.z 6/24/2010 18:03:03.441",
+		"autoLayout" : "tb 6/13/2010 15:20:37.533",
+		"componentHandler" : "f.z 5/27/2010 15:53:23.531",
+		"componentHandler:" : "f.z 5/27/2010 15:53:23.564",
+		"drawSubmorphsOn:" : "GW 5/15/2013 10:39:43.581",
+		"initialize" : "sv 7/23/2010 16:15:39.166",
+		"initializeEventHandlers" : "f.z 5/27/2010 16:07:50.203",
+		"layoutChanged" : "tb 6/13/2010 15:17:32.633",
+		"portHandler" : "f.z 5/27/2010 15:53:23.596",
+		"portHandler:" : "f.z 5/27/2010 15:53:23.63",
+		"registerForEvents" : "tb 5/27/2010 14:32:01.446",
+		"relayout" : "tb 6/13/2010 15:20:11.646",
+		"removeComponent:" : "ak 6/17/2010 20:59:34.842",
+		"removeWire:" : "ak 6/17/2010 20:44:08.519",
+		"showComponent:" : "f.z 6/24/2010 18:02:31.962",
+		"showWire:" : "f.z 6/24/2010 18:03:25.833",
+		"suppressRelayout" : "tb 6/13/2010 15:18:06.901",
+		"suppressRelayout:" : "tb 6/13/2010 15:18:06.951",
+		"wireHandler" : "f.z 5/27/2010 15:53:23.666",
+		"wireHandler:" : "f.z 5/27/2010 15:53:23.699" } }

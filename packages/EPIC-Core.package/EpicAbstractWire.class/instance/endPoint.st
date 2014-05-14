@@ -1,0 +1,3 @@
+accessing
+endPoint
+	self subclassResponsibility

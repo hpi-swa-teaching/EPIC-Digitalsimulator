@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"panel" ],
+	"name" : "EpicEditorPanelTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+Ich bin die PrototypeTabBar und bin ein Container für PrototypeTabButtons. Mein Owner Morph, die PrototypeBox, enthält das PrototypePanel, das gerade angezeit wird. Wählt der Benutzer einen meine TabButtons, so ändert sich das angezeigte Panel.

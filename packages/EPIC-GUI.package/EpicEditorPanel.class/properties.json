@@ -1,0 +1,21 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CF 6/3/2013 19:15:31.668",
+	"instvars" : [
+		"isSnappingSet",
+		"circuits",
+		"expectedMorph",
+		"grid",
+		"selector",
+		"snapToGrid",
+		"orthogonalWires",
+		"wireStub" ],
+	"name" : "EpicEditorPanel",
+	"pools" : [
+		 ],
+	"super" : "EpicCircuitPanel",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+testing
+isOutput
+	self subclassResponsibility

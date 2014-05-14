@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"default" : "sv 7/23/2010 14:58:51.37",
+		"instanceDict" : "f.z 7/23/2010 20:52:34.176",
+		"instanceDict:" : "sv 7/23/2010 16:02:50.219",
+		"instanceFor:" : "f.z 7/23/2010 20:54:41.9",
+		"lazyInstanceDict" : "f.z 7/23/2010 20:53:14.902",
+		"registerInstance:" : "tb 7/23/2010 21:00:32.626",
+		"registerInstance:with:" : "f.z 7/23/2010 21:54:34.1",
+		"unregisterInstance:" : "f.z 7/23/2010 20:53:30.064" },
+	"instance" : {
+		"componentStyle" : "sv 7/22/2010 19:14:36.877",
+		"componentStyle:" : "sv 7/23/2010 17:21:34.247" } }

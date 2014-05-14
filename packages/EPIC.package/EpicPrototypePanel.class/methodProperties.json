@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"customComponents" : "f.z 7/1/2010 19:31:28.252",
+		"gatePanel" : "CF 7/8/2013 16:37:59.258",
+		"lampPanel" : "f.z 7/23/2010 16:10:16.089",
+		"margin" : "f.z 6/1/2010 16:16:51.526",
+		"switchPanel" : "f.z 6/10/2010 13:46:42.878",
+		"userPanel" : "tb 6/30/2010 18:26:32.763" },
+	"instance" : {
+		"delete" : "tb 6/13/2010 14:49:27.225",
+		"initializeEventHandlers" : "f.z 5/27/2010 16:02:17.51",
+		"registerForEvents" : "tb 5/27/2010 17:29:00.19",
+		"relayout" : "tb 6/13/2010 15:20:25.007",
+		"startDrag:onComponent:" : "tb 5/27/2010 17:29:11.039" } }

@@ -1,0 +1,3 @@
+selection
+isBundle
+	^true.

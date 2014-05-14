@@ -1,0 +1,3 @@
+initialization
+wireColor
+	^Color black

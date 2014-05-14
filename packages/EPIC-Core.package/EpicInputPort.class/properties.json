@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ak 7/23/2010 18:49:58.37",
+	"instvars" : [
+		 ],
+	"name" : "EpicInputPort",
+	"pools" : [
+		 ],
+	"super" : "EpicPort",
+	"type" : "normal" }

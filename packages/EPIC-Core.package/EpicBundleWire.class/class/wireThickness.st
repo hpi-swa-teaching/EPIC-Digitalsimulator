@@ -1,0 +1,3 @@
+drawing
+wireThickness
+	^4

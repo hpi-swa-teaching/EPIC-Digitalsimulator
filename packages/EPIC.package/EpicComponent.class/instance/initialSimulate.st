@@ -1,0 +1,3 @@
+initialization
+initialSimulate
+	self simulate

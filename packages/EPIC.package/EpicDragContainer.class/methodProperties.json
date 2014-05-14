@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"containingCopyOf:" : "tb 7/23/2010 20:59:11.138" },
+	"instance" : {
+		"adoptConfigurationFor:" : "tb 7/23/2010 21:01:06.759",
+		"canOnlyDragOnto:" : "f.z 6/1/2010 15:54:24.332",
+		"component" : "tb 5/27/2010 13:52:33.494",
+		"component:" : "tb 5/27/2010 13:52:31.839",
+		"delete" : "tb 7/23/2010 21:19:11.193",
+		"expectedDropTarget" : "tb 5/27/2010 15:02:26.416",
+		"expectedDropTarget:" : "tb 5/27/2010 15:02:26.454",
+		"initialize" : "tb 5/28/2010 15:18:50.464",
+		"justDroppedInto:event:" : "tb 7/23/2010 21:18:37.975",
+		"rejectDropMorphEvent:" : "tb 7/23/2010 21:18:49.917",
+		"removeConfiguration" : "tb 7/23/2010 21:01:51.557",
+		"setClonedComponent:" : "tb 6/30/2010 18:04:50.469",
+		"wantsToBeDroppedInto:" : "tb 5/27/2010 15:04:21.595" } }

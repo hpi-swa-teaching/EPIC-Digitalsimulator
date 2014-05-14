@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Simulation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tb 7/23/2010 21:46:10.079",
+	"instvars" : [
+		 ],
+	"name" : "EpicNilEvent",
+	"pools" : [
+		 ],
+	"super" : "EpicEvent",
+	"type" : "normal" }

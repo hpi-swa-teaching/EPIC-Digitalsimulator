@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tb 7/23/2010 21:32:39.978",
+	"instvars" : [
+		"simulationCycles",
+		"maxSimulationCycles" ],
+	"name" : "EpicInstrumentedTestGate",
+	"pools" : [
+		 ],
+	"super" : "EpicGate",
+	"type" : "normal" }

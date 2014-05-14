@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sv 7/23/2010 21:07:28.65",
+	"instvars" : [
+		"startPoint" ],
+	"name" : "EpicSelector",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

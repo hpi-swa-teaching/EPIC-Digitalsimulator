@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ak 7/23/2010 21:17:21.876",
+	"instvars" : [
+		"label",
+		"title" ],
+	"name" : "EpicCircuitNamingDialog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

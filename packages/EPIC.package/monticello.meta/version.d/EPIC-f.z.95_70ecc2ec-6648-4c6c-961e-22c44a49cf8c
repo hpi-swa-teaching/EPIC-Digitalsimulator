@@ -1,0 +1,1 @@
+(name 'EPIC-f.z.95'message 'Der grabbedPointIndex des Wires ist jetzt im Standardfall 0 (und nicht mehr nil).Dadurch sparen wir uns das ewige #ifNil ... (wir haben ja eh schon #anchorIsValid: )'id '70ecc2ec-6648-4c6c-961e-22c44a49cf8c'date '28 June 2010'time '10:47:45.212 pm'author 'f.z'ancestors ((id '0f979624-712d-4a66-a704-49130047b17a'))stepChildren ())

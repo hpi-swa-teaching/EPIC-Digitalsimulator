@@ -1,0 +1,3 @@
+simulation
+triggerSimulation
+	self affectedComponent simulateWith: self restoredInputValues

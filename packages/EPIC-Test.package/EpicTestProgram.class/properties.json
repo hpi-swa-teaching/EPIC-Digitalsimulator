@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "f.z 7/19/2010 17:29:51.349",
+	"instvars" : [
+		 ],
+	"name" : "EpicTestProgram",
+	"pools" : [
+		 ],
+	"super" : "EPIC",
+	"type" : "normal" }

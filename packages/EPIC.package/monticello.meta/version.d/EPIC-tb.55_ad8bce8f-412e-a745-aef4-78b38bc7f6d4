@@ -1,0 +1,1 @@
+(name 'EPIC-tb.55'message 'WireEvents werden nun immer zuerst simuliert (wenn dieses WireEvent wieder ein neues WireEvent erzeugt, wird dies dann auch noch vor dem nächsten PortEvent ausgeführt)'id 'ad8bce8f-412e-a745-aef4-78b38bc7f6d4'date '13 June 2010'time '2:15:51.612 pm'author 'tb'ancestors ((id '6a9d849f-752b-2946-bfe1-7c16c05709e1'))stepChildren ())

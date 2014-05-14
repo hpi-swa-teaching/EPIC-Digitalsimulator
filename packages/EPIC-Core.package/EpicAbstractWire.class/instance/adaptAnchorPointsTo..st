@@ -1,0 +1,3 @@
+geometry
+adaptAnchorPointsTo: aRectangle
+	^ self

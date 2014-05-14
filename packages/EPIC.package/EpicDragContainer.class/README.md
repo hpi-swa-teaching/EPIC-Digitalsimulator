@@ -1,0 +1,1 @@
+Ich bin ein Container für diejenigen Komponenten (Gatter), die der Benutzer selektiert hat.

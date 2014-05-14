@@ -1,0 +1,3 @@
+naming
+getPortName
+	^ self askOnceForCircuitName.

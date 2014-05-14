@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "f.z 6/11/2010 14:59:07.304",
+	"instvars" : [
+		 ],
+	"name" : "EpicMenu",
+	"pools" : [
+		 ],
+	"super" : "DockingBarMenuMorph",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ak 7/23/2010 18:47:11.193",
+	"instvars" : [
+		"component",
+		"portName",
+		"value",
+		"wires" ],
+	"name" : "EpicPort",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

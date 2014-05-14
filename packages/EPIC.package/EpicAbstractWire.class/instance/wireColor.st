@@ -1,0 +1,3 @@
+accessing
+wireColor
+	self subclassResponsibility

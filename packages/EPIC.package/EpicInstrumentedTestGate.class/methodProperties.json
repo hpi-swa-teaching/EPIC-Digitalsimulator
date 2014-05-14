@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createInputPorts" : "tb 6/29/2010 13:03:00.476",
+		"createOutputPorts" : "tb 6/29/2010 13:03:04.267",
+		"delay" : "tb 6/29/2010 13:36:25.47",
+		"initialSimulate" : "tb 6/29/2010 13:28:08.698",
+		"initialize" : "tb 6/29/2010 13:02:23.902",
+		"maxSimulationCycles" : "tb 6/29/2010 13:02:41.405",
+		"maxSimulationCycles:" : "tb 6/29/2010 13:02:41.424",
+		"shouldSimulate" : "tb 6/29/2010 13:02:53.757",
+		"simulateWith:" : "tb 6/29/2010 14:55:48.011",
+		"simulationCycles" : "tb 6/29/2010 13:02:41.364",
+		"simulationCycles:" : "tb 6/29/2010 13:02:41.385" } }

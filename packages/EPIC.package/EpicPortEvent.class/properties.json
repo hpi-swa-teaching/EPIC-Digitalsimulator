@@ -1,0 +1,16 @@
+{
+	"category" : "EPIC-Simulation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tb 7/23/2010 22:09:28.141",
+	"instvars" : [
+		"port",
+		"value",
+		"timeStamp" ],
+	"name" : "EpicPortEvent",
+	"pools" : [
+		 ],
+	"super" : "EpicEvent",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+geometry
+triggerChangeOfPosition
+	self triggerEvent: #positionChanged
