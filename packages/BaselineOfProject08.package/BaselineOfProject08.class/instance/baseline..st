@@ -9,6 +9,6 @@ baseline: spec
 				package: 'EPIC-Test' with: [ spec requires: #('default') ].
 			spec
 				group: 'default' with: 
-					#('EPIC-Core', 'EPIC', 'EPIC-GUI', 'EPIC-Serialization', 'EPIC-Simulation');
+					#('EPIC-Core', 'EPIC', 'EPIC-GUI', 'EPIC-Serialization');
 				group: 'Tests' with: #('EPIC-Test');
 				group: 'TravisCI' with: #('Tests')]
