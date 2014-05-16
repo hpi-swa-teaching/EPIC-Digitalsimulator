@@ -9,6 +9,7 @@ baseline: spec
 				package: 'EPIC-GUI';
 				package: 'Project08-Tests' with: [ spec requires: #('default') ].
 			spec
-				group: 'default' with: #('EPIC-Core', 'EPIC-GUI');
+				group: 'default' with: #('EPIC-Core');
+				group: 'default' with: #('EPIC-GUI');
 				group: 'Tests' with: #('Project08-Tests');
 				group: 'TravisCI' with: #('Tests')]
