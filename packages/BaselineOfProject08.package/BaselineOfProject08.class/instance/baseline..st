@@ -5,10 +5,9 @@ baseline: spec
 		for: #'common'
 		do: [
 			spec
-				package: 'EPIC-Core';
-				package: 'EPIC-Test' with: [ spec requires: #('default') ].
+				package: 'Project08-Core';
+				package: 'Project08-Tests' with: [ spec requires: #('default') ].
 			spec
-				group: 'default' with: 
-					#('EPIC-Core', 'EPIC', 'EPIC-GUI', 'EPIC-Serialization');
-				group: 'Tests' with: #('EPIC-Test');
+				group: 'default' with: #('Project08-Core');
+				group: 'Tests' with: #('Project-08-Test');
 				group: 'TravisCI' with: #('Tests')]
