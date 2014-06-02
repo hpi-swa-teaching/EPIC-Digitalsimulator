@@ -8,3 +8,4 @@ createXmlFile
 	(FileStream forceNewFileNamed: fileName)
 		print: self xmlFileContent;
 		close.
+	Transcript show: ((FileDirectory default directoryNamed: (FileDirectory dirPathFor: fileName)) fileExists: ('test.xml' asFileName)). 
