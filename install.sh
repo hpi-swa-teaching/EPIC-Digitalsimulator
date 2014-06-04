@@ -17,9 +17,11 @@ export PROJECT_HOME="$(pwd)"
 #unzip -q builderCI.zip
 #cd SWTI2014-builderCI*
 
-cp -r ~/Sites/tests/builderCI .
+cp -r ~/Sites/tests/builderCI ./
 cd builderCI
 
 source build_env_vars
 ln -s $PROJECT_HOME $GIT_PATH
 ./build_image.sh
+
+./testTravisCI.sh
