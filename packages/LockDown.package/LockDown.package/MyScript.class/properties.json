@@ -1,0 +1,14 @@
+{
+	"category" : "LockDown",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"program" ],
+	"name" : "MyScript",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
