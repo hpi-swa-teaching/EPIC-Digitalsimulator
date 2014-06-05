@@ -2,9 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"deploy" : "lk 6/4/2014 13:37",
-		"initialize" : "lk 6/4/2014 13:55",
+		"deploy" : "BM 6/5/2014 11:57",
+		"initialize" : "BM 6/5/2014 11:52",
+		"initializeProgram" : "BM 6/5/2014 11:52",
 		"program" : "lk 6/4/2014 13:16",
-		"program:" : "lk 6/4/2014 13:15",
-		"step" : "lk 6/4/2014 13:45",
-		"stepTime" : "lk 6/4/2014 13:17" } }
+		"program:" : "lk 6/4/2014 13:15" } }

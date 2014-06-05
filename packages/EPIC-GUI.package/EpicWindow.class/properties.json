@@ -11,7 +11,8 @@
 		"simulationMenu",
 		"settingsMenu",
 		"simulator",
-		"editorBox" ],
+		"editorBox",
+		"changeWithWorld" ],
 	"name" : "EpicWindow",
 	"pools" : [
 		 ],

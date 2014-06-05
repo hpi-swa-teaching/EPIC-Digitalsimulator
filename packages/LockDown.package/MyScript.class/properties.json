@@ -10,5 +10,5 @@
 	"name" : "MyScript",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "Object",
 	"type" : "normal" }

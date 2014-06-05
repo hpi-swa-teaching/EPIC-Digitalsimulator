@@ -1,7 +1,7 @@
-as yet unclassified
+deploying
 deploy
 
-	World submorphs do: [:each | each visible: false].
-	self program: (EPIC startProgram).
 	self program sticky: true.
-	"self startStepping."
+	(self program submorphs select: [:submorph | submorph isMemberOf: AlignmentMorph])
+		first visible: false.
+	self program changeWithWorld: true

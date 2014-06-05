@@ -1,4 +1,4 @@
-as yet unclassified
+geometry
 ownerChanged
 
-	"self bounds: World bounds."
+	self changeWithWorld ifTrue: [self bounds: World bounds]
