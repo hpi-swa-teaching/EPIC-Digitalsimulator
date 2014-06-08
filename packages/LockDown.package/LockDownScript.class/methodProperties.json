@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addPreferences" : "lk 6/8/2014 21:01",
+		"blueButtonDown:" : "lk 6/8/2014 20:16",
+		"deploy" : "lk 6/8/2014 21:07",
+		"handleMouseDown:" : "lk 6/8/2014 19:57",
+		"initBlueButtonDownTemplate" : "lk 6/8/2014 21:01",
+		"initHandleMouseDownTemplate" : "lk 6/8/2014 21:00",
+		"initMethodTemplates" : "lk 6/8/2014 21:06",
+		"initOwnerChangedTemplate" : "lk 6/8/2014 21:06",
+		"initialize" : "lk 6/8/2014 21:02",
+		"initializeProgram" : "lk 6/8/2014 21:02",
+		"ownerChanged" : "lk 6/8/2014 21:04",
+		"program" : "lk 6/4/2014 13:16",
+		"program:" : "lk 6/4/2014 13:15",
+		"setPreferences" : "lk 6/8/2014 21:02" } }

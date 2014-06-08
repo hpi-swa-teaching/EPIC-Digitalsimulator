@@ -3,11 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"CurrentProjectRefactoring" ],
 	"commentStamp" : "",
 	"instvars" : [
 		"program" ],
-	"name" : "MyScript",
+	"name" : "LockDownScript",
 	"pools" : [
 		 ],
 	"super" : "Object",
