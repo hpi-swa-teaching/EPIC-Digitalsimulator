@@ -2,5 +2,5 @@ initialization
 initialize
 
 	self initializeProgram.
-	self deploy
-	
+	self deploy.
+	self end

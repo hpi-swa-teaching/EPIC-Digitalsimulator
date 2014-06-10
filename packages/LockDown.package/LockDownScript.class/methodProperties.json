@@ -1,17 +1,20 @@
 {
 	"class" : {
-		 },
+		"shouldSave" : "BM 6/10/2014 16:20" },
 	"instance" : {
 		"addPreferences" : "lk 6/8/2014 21:01",
 		"blueButtonDown:" : "lk 6/8/2014 20:16",
 		"deploy" : "lk 6/8/2014 21:07",
+		"end" : "BM 6/10/2014 16:20",
 		"handleMouseDown:" : "lk 6/8/2014 19:57",
 		"handlerForYellowButtonDown:" : "BM 6/9/2014 14:15",
-		"initMethodTemplate:" : "BM 6/9/2014 13:49",
-		"initMethodTemplates" : "BM 6/9/2014 13:59",
-		"initialize" : "lk 6/8/2014 21:02",
+		"initMethodTemplate:in:" : "BM 6/10/2014 15:50",
+		"initMethodTemplateInProgram:" : "BM 6/10/2014 15:51",
+		"initMethodTemplates" : "BM 6/10/2014 16:14",
+		"initialize" : "BM 6/10/2014 16:17",
 		"initializeProgram" : "lk 6/8/2014 21:02",
 		"ownerChanged" : "lk 6/8/2014 21:04",
 		"program" : "lk 6/4/2014 13:16",
 		"program:" : "lk 6/4/2014 13:15",
+		"quitSession" : "BM 6/10/2014 15:47",
 		"setPreferences" : "lk 6/8/2014 21:02" } }
