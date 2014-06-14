@@ -1,3 +1,3 @@
 naming
 displayName
-	^ (self fullyQualifiedName splitBy: '.') last truncateWithElipsisTo: 5
+	^ (self fullyQualifiedName splitBy: '.') last truncateWithElipsisTo: 8
