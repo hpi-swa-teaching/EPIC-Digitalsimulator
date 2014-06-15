@@ -1,20 +1,26 @@
 {
 	"class" : {
+		"defaultStartingClass" : "BM 6/12/2014 12:10",
+		"newWith:" : "BM 6/12/2014 12:14",
 		"shouldSave" : "BM 6/10/2014 16:20" },
 	"instance" : {
 		"addPreferences" : "lk 6/8/2014 21:01",
 		"blueButtonDown:" : "lk 6/8/2014 20:16",
-		"deploy" : "lk 6/8/2014 21:07",
+		"deploy" : "BM 6/15/2014 18:37",
+		"disableDockingBarShortcuts" : "BM 6/15/2014 18:47",
 		"end" : "BM 6/10/2014 16:20",
 		"handleMouseDown:" : "lk 6/8/2014 19:57",
 		"handlerForYellowButtonDown:" : "BM 6/9/2014 14:15",
 		"initMethodTemplate:in:" : "BM 6/10/2014 15:50",
-		"initMethodTemplateInProgram:" : "BM 6/10/2014 15:51",
+		"initMethodTemplateInProgram:" : "BM 6/12/2014 12:12",
 		"initMethodTemplates" : "BM 6/10/2014 16:14",
-		"initialize" : "BM 6/10/2014 16:17",
-		"initializeProgram" : "lk 6/8/2014 21:02",
+		"initialize" : "BM 6/12/2014 12:13",
+		"initializeProgram" : "BM 6/15/2014 17:54",
+		"lockDown" : "BM 6/12/2014 12:06",
 		"ownerChanged" : "lk 6/8/2014 21:04",
 		"program" : "lk 6/4/2014 13:16",
 		"program:" : "lk 6/4/2014 13:15",
 		"quitSession" : "BM 6/10/2014 15:47",
-		"setPreferences" : "lk 6/8/2014 21:02" } }
+		"setPreferences" : "BM 6/15/2014 18:21",
+		"startingClass" : "BM 6/12/2014 12:13",
+		"startingClass:" : "BM 6/12/2014 12:13" } }

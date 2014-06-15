@@ -1,6 +1,4 @@
 initialization
 initialize
 
-	self initializeProgram.
-	self deploy.
-	self end
+	self startingClass: LockDownScript defaultStartingClass.

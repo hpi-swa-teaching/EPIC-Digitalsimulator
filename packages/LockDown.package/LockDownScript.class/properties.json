@@ -6,7 +6,8 @@
 		"CurrentProjectRefactoring" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"program" ],
+		"program",
+		"startingClass" ],
 	"name" : "LockDownScript",
 	"pools" : [
 		 ],

@@ -2,5 +2,5 @@ initialization
 initializeProgram
 
 	World submorphs do: [:each | each visible: false].
-	self program: (EPIC startProgram)
+	self program: (self startingClass startProgram)
 	

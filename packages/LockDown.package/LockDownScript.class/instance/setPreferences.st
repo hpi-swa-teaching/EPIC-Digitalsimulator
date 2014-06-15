@@ -3,8 +3,8 @@ setPreferences
 
 	Preferences disable: #cmdDotEnabled.
 	Preferences disable: #cmdGesturesEnabled.
-	"Preferences disable: #cmdKeysInText.
-	Preferences enable: #noviceMode.
+	Preferences disable: #cmdKeysInText.
+	"Preferences enable: #noviceMode.
 	Preferences disable: #warnIfNoSourcesFile.
 	Preferences disable: #warnIfNoChangesFile.
 	Preferences enable: #eToyFriendly.
