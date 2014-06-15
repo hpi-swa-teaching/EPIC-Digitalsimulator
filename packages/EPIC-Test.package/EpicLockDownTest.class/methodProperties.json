@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "BM 6/15/2014 20:18",
+		"tearDown" : "BM 6/15/2014 20:18",
+		"testDynamicFullscreen" : "BM 6/15/2014 20:38",
+		"testMorphHiding" : "BM 6/15/2014 20:44",
+		"testPreferences" : "BM 6/15/2014 21:06",
+		"window" : "BM 6/15/2014 20:19",
+		"window:" : "BM 6/15/2014 20:19" } }
