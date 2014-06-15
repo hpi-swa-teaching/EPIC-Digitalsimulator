@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "BM 6/15/2014 20:18",
+		"setUp" : "BM 6/15/2014 21:36",
 		"tearDown" : "BM 6/15/2014 20:18",
 		"testDynamicFullscreen" : "BM 6/15/2014 21:29",
 		"testMorphHiding" : "BM 6/15/2014 20:44",
