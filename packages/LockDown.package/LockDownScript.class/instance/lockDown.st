@@ -1,4 +1,4 @@
-initialization
+deploying
 lockDown
 
 	self initializeProgram.
