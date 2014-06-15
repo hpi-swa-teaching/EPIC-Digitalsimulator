@@ -1,12 +1,5 @@
 #! /bin/bash
 
-#mkdir -p Digitalsimulator
-#cd Digitalsimulator
-#wget -q http://ftp.squeak.org/4.5/Squeak4.5-13680.zip
-#unzip Squeak4.5-13680.zip
-#wget -q http://ftp.squeak.org/4.5/SqueakV41.sources.gz
-#gunzip SqueakV41.sources.gz
-
 export ST="Squeak-4.5"
 export PROJECT_HOME="$(pwd)"
 
@@ -27,28 +20,23 @@ wget http://ftp.squeak.org/4.5/SqueakV41.sources.gz
 gunzip SqueakV41.sources.gz
 rm SqueakV41.sources.gz
 
-# Unix (x86)
-wget http://www.squeakvm.org/unix/release/Squeak-4.10.2.2614-linux_x86_64.tar.gz
-
-# Windows
-wget http://www.squeakvm.org/win32/release/SqueakVM-Win32-4.1.1-bin.zip
-
-# Mac
-wget https://ci.lille.inria.fr/pharo/job/Cog-VM/Architecture=32,OS=mac\
-    /lastSuccessfulBuild/artifact/Cog-mac.zip
-
 IMAGE_BASE_NAME=Squeak4.5-13680
 
-#cd $HOME
-#wget -q -O builderCI.zip https://github.com/SWTI2014/builderCI/zipball/master
-#unzip -q builderCI.zip
-#cd SWTI2014-builderCI*
+# TODO: Create .image, .changes and .sources
 
-#cp -r ~/Sites/tests/builderCI ./
-#cd builderCI
+mv *.image Squeak-All-In-One
+mv *.changes Squeak-All-In-One
+mv *.sources Squeak-All-In-One
 
-#source build_env_vars
-#ln -s $PROJECT_HOME $GIT_PATH
-#./build_image.sh
+cd Squeak-All-In-One
 
-#$BUILDER_CI_HOME/testTravisCI.sh
+./createNewAllInOne 4.5 3000 14.23
+
+cd Digitalsimulator.app
+
+if [[ $(uname) == 'Darwin' ]]
+then
+    ./Contents/MacOS/Resources/Squeak ./Contents/Resources/Squeak.image ../../applyLockDown.st
+else
+    ./Contents/Linux-i686/bin/squeak ./Contents/Resources/Squeak.image ../../applyLockDown.st
+fi

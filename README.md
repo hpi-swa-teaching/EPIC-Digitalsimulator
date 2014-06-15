@@ -7,8 +7,8 @@
 
 - `$ git clone`
 - `$ git submodule init` (Initializes your local configuration file)
-- `$ git submodule update` (Fetches all the data from that project and checks out the appropriate commit listed in your superproject.)
-- 
+- `$ git submodule update` (Fetches all the data from that project and checks out the appropriate commit listed in your superproject.) 
+
 
 ## Installation
 
