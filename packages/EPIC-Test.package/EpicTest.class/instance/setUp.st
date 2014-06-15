@@ -1,10 +1,6 @@
 running
 setUp
 	| lockDownScript |
-	self 
-		createPanel;
-		addComponents.
+		
 	lockDownScript := LockDownScript new lockDown.
-	lockDownScript program delete
-	
-	
+	lockDownScript program delete.
