@@ -45,7 +45,7 @@ cp $APP_NAME.zip ../
 rm -r $APP_NAME.app
 rm $APP_NAME.zip
 
-rm *.sources *.changes *.image
+rm *.sources *.changes *.image *.icns *.bmp
 
 cd ../$APP_NAME.app
 

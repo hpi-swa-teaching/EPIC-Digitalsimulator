@@ -1,4 +1,4 @@
-LockDownScript new.
+LockDownScript new lockDown.
 
 "Quit"
 Smalltalk at: #WorldState ifPresent: [:global |
