@@ -1,9 +1,9 @@
 deploying
 setPreferences
 
-	Preferences disable: #cmdDotEnabled.
-	Preferences disable: #cmdGesturesEnabled.
-	Preferences disable: #cmdKeysInText.
+	Preferences disable: #cmdDotEnabled;
+		disable: #cmdGesturesEnabled;
+		disable: #cmdKeysInText.
 	"Preferences enable: #noviceMode.
 	Preferences disable: #warnIfNoSourcesFile.
 	Preferences disable: #warnIfNoChangesFile.

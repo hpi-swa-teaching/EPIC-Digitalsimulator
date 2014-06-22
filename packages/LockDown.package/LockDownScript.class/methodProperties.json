@@ -6,7 +6,7 @@
 	"instance" : {
 		"addPreferences" : "lk 6/8/2014 21:01",
 		"blueButtonDown:" : "lk 6/8/2014 20:16",
-		"deploy" : "BM 6/15/2014 18:37",
+		"deploy" : "BM 6/22/2014 19:22:30.331",
 		"disableDockingBarShortcuts" : "BM 6/15/2014 18:47",
 		"end" : "BM 6/10/2014 16:20",
 		"handleMouseDown:" : "lk 6/8/2014 19:57",
@@ -14,12 +14,12 @@
 		"initMethodTemplate:in:" : "BM 6/10/2014 15:50",
 		"initMethodTemplates" : "BM 6/19/2014 10:36",
 		"initialize" : "BM 6/12/2014 12:13",
-		"initializeProgram" : "BM 6/15/2014 17:54",
+		"initializeProgram" : "BM 6/22/2014 19:19:28.475",
 		"lockDown" : "BM 6/12/2014 12:06",
 		"ownerChanged" : "lk 6/8/2014 21:04",
 		"program" : "lk 6/4/2014 13:16",
 		"program:" : "lk 6/4/2014 13:15",
 		"quitSession" : "BM 6/10/2014 15:47",
-		"setPreferences" : "BM 6/15/2014 18:21",
+		"setPreferences" : "BM 6/22/2014 19:23:43.626",
 		"startingClass" : "BM 6/12/2014 12:13",
 		"startingClass:" : "BM 6/12/2014 12:13" } }
