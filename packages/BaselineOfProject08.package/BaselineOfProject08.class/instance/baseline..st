@@ -10,9 +10,9 @@ baseline: spec
 				package: 'EPIC-GUI';
 				package: 'EPIC-Simulation';
 				package: 'EPIC-Serialization';
-				package: 'EPICLockDown';
+				package: 'EPIC-LockDown';
 				package: 'EPIC-Test' with: [ spec requires: #('default') ].
 			spec
-				group: 'default' with: #('EPIC' 'EPIC-Core' 'EPIC-GUI' 'EPIC-Simulation' 'EPIC-Serialization' 'EPICLockDown');
+				group: 'default' with: #('EPIC' 'EPIC-Core' 'EPIC-GUI' 'EPIC-Simulation' 'EPIC-Serialization' 'EPIC-LockDown');
 				group: 'Tests' with: #('EPIC-Test');
 				group: 'TravisCI' with: #('Tests')]

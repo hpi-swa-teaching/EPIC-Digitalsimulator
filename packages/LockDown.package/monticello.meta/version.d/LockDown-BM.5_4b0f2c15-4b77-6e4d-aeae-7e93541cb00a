@@ -1,1 +1,0 @@
-(name 'LockDown-BM.5'message 'Lockdown Script unterdrückt nun "Save changes"-Dialog beim schließen.Lockdown Script speichert VM nach lockdown, wenn LockDownScript shouldChange true ist.'id '4b0f2c15-4b77-6e4d-aeae-7e93541cb00a'date '10 June 2014'time '4:27:00.576 pm'author 'BM'ancestors ((id 'd600dec7-b441-7942-9e78-54d6956baec9'))stepChildren ())
