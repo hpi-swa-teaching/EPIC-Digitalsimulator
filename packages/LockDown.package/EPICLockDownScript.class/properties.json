@@ -8,7 +8,7 @@
 	"instvars" : [
 		"program",
 		"startingClass" ],
-	"name" : "LockDownScript",
+	"name" : "EPICLockDownScript",
 	"pools" : [
 		 ],
 	"super" : "Object",

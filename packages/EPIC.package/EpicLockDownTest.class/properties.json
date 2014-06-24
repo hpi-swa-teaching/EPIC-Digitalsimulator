@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"window" ],
+	"name" : "EpicLockDownTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

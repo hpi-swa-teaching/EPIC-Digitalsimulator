@@ -1,3 +1,4 @@
 naming
 askOnceForCircuitName
-	^ SwaInputDialog getTextWithTitle: self title label: self label
+	 
+	^ FillInTheBlankMorph request: self name initialAnswer: '' centerAt: ActiveHand cursorPoint inWorld: ActiveWorld onCancelReturn: nil acceptOnCR: true answerHeight: 25

@@ -1,7 +1,10 @@
 running
 setUp
+	| lockDownScript |
 	self 
 		createPanel;
-		addComponents
+		addComponents.
+	lockDownScript := EPICLockDownScript new lockDown.
+	lockDownScript program delete
 	
 	

@@ -1,4 +1,8 @@
 running
 setUp
+	| lockDownScript |
+	
 	self createXmlFile.
-	self window: EpicTestProgram startProgram
+	lockDownScript := EPICLockDownScript newWith: EpicTestProgram.
+	lockDownScript lockDown.
+	self window: lockDownScript program
