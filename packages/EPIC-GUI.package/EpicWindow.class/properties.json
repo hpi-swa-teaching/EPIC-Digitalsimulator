@@ -15,5 +15,5 @@
 	"name" : "EpicWindow",
 	"pools" : [
 		 ],
-	"super" : "MorphicModel",
+	"super" : "Morph",
 	"type" : "normal" }
