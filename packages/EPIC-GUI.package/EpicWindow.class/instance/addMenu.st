@@ -1,6 +1,7 @@
 initialization
 addMenu
-	self 
-		menuBar: self createMenuBar;
-		addMorph: self menuBar fullFrame: self menuBarFrame;
-		addMenuEntries
+	self menuBar: self createMenuBar.
+	self menuBar
+		layoutFrame: self menuBarFrame;
+		hResizing: #spaceFill;
+		vResizing: #shrinkWrap.

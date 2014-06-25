@@ -1,4 +1,7 @@
 initialization
 addEditorBox
-	self editorBox: self createEditorBox;
-		addMorph: self editorBox fullFrame: self editorFrame
+	self editorBox: self createEditorBox.
+	self editorBox
+		layoutFrame: self editorFrame;
+		hResizing: #spaceFill;
+		vResizing: #spaceFill.
