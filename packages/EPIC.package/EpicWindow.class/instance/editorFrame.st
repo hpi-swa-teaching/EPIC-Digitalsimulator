@@ -4,5 +4,5 @@ editorFrame
 	von dort aus zur unteren rechten Ecke des Fensters. Offset von 20 Pixel in den
 	Vertikalen für die Menüleiste."
 	^ LayoutFrame 
-		fractions: (0.4@0 corner: 1@1) 
-		offsets: (0@20 corner: 0@0)
+		fractions: (0@0 corner: 1@1) 
+		offsets: (200@20 corner: 0@0)

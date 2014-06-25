@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-LockDown",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CurrentProjectRefactoring" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"program",
+		"startingClass" ],
+	"name" : "EPICLockDownScript",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

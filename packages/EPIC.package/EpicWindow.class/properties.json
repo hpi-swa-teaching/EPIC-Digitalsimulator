@@ -15,5 +15,5 @@
 	"name" : "EpicWindow",
 	"pools" : [
 		 ],
-	"super" : "SystemWindow",
+	"super" : "Morph",
 	"type" : "normal" }

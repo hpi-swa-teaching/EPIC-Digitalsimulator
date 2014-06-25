@@ -7,5 +7,7 @@ postOpenInitialize
 		addSimulator;
 		addConfiguration;
 		addMenu;
+		addMenuEntries;
+		addSubmorphs;
 		simulationStateChanged;
 		configurationStateChanged
