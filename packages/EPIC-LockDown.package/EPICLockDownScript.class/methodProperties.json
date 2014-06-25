@@ -10,9 +10,8 @@
 		"disableDockingBarShortcuts" : "BM 6/15/2014 18:47",
 		"end" : "lk 6/24/2014 14:20",
 		"handleMouseDown:" : "lk 6/8/2014 19:57",
-		"handlerForYellowButtonDown:" : "BM 6/9/2014 14:15",
 		"initMethodTemplate:in:" : "lk 6/24/2014 14:21",
-		"initMethodTemplates" : "lk 6/25/2014 11:28",
+		"initMethodTemplates" : "BM 6/25/2014 15:27",
 		"initialize" : "lk 6/24/2014 14:21",
 		"initializeProgram" : "lk 6/25/2014 14:34",
 		"lockDown" : "BM 6/12/2014 12:06",
@@ -22,4 +21,5 @@
 		"quitSession" : "BM 6/10/2014 15:47",
 		"setPreferences" : "BM 6/22/2014 19:23:43.626",
 		"startingClass" : "BM 6/12/2014 12:13",
-		"startingClass:" : "BM 6/12/2014 12:13" } }
+		"startingClass:" : "BM 6/12/2014 12:13",
+		"yellowButtonActivity:" : "BM 6/25/2014 15:26" } }
