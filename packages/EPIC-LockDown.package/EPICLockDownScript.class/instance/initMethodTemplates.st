@@ -1,6 +1,7 @@
 deploying
 initMethodTemplates
 
+	self initErrorHandling.
 	#((ownerChanged EpicWindow) 
 	blueButtonDown: 
 	handleMouseDown: 

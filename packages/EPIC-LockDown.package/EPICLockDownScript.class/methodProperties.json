@@ -1,17 +1,20 @@
 {
 	"class" : {
 		"defaultStartingClass" : "BM 6/12/2014 12:10",
+		"logfileMode" : "BM 7/1/2014 21:21",
 		"newWith:" : "BM 6/12/2014 12:14",
 		"shouldSave" : "BM 6/10/2014 16:20" },
 	"instance" : {
 		"addPreferences" : "lk 6/8/2014 21:01",
 		"blueButtonDown:" : "lk 6/8/2014 20:16",
-		"deploy" : "lk 6/24/2014 21:03",
+		"defaultAction" : "BM 7/1/2014 20:55",
+		"deploy" : "BM 7/1/2014 21:15",
 		"disableDockingBarShortcuts" : "BM 6/15/2014 18:47",
 		"end" : "lk 6/24/2014 14:20",
 		"handleMouseDown:" : "lk 6/8/2014 19:57",
+		"initErrorHandling" : "BM 7/1/2014 21:15",
 		"initMethodTemplate:in:" : "lk 6/24/2014 14:21",
-		"initMethodTemplates" : "BM 6/25/2014 15:27",
+		"initMethodTemplates" : "BM 7/1/2014 21:16",
 		"initialize" : "lk 6/24/2014 14:21",
 		"initializeProgram" : "lk 6/25/2014 14:34",
 		"lockDown" : "BM 6/12/2014 12:06",
