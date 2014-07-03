@@ -1,4 +1,4 @@
 options
 debugStackTreshold
 
-	^ 5
+	^ 10

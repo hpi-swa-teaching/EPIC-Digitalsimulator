@@ -1,14 +1,14 @@
 {
 	"class" : {
-		"debugStackTreshold" : "lk 7/2/2014 11:56",
+		"debugStackTreshold" : "lk 7/3/2014 13:19",
 		"defaultStartingClass" : "BM 6/12/2014 12:10",
-		"logfileMode" : "lk 7/2/2014 12:05",
+		"logfileMode" : "lk 7/3/2014 13:19",
 		"newWith:" : "BM 6/12/2014 12:14",
 		"shouldSave" : "BM 6/10/2014 16:20" },
 	"instance" : {
 		"addPreferences" : "lk 6/8/2014 21:01",
 		"blueButtonDown:" : "lk 6/8/2014 20:16",
-		"defaultAction" : "lk 7/2/2014 12:03",
+		"defaultAction" : "lk 7/3/2014 13:17",
 		"deploy" : "BM 7/1/2014 21:15",
 		"disableDockingBarShortcuts" : "BM 6/15/2014 18:47",
 		"end" : "lk 6/24/2014 14:20",

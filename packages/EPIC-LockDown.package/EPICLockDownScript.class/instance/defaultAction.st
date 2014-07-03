@@ -5,7 +5,7 @@ defaultAction
 	aStream setToEnd.
 	DateAndTime now printOn: aStream.
 	':', String tab, self exception messageText, Character linefeed putOn: aStream.
-	currentStackLevel := self exception receiver outerContext.
+	currentStackLevel := self exception signalerContext.
 	x := EPICLockDownScript debugStackTreshold.
 	[(x > 0) & (currentStackLevel notNil)] whileTrue:
 		[String tab, currentStackLevel, Character linefeed putOn: aStream.
