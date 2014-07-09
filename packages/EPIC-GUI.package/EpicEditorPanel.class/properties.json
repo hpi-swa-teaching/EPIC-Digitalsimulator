@@ -6,6 +6,7 @@
 		 ],
 	"commentStamp" : "CF 6/3/2013 19:15:31.668",
 	"instvars" : [
+		"simulator",
 		"isSnappingSet",
 		"circuits",
 		"expectedMorph",
