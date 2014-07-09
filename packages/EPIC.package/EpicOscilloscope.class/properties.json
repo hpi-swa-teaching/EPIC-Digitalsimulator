@@ -1,0 +1,18 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"values",
+		"port",
+		"closeButton",
+		"closeButtonHandler",
+		"oscilloscopeBox" ],
+	"name" : "EpicOscilloscope",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

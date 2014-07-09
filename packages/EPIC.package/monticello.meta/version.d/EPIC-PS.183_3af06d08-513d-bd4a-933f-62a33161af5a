@@ -1,0 +1,1 @@
+(name 'EPIC-PS.183'message '- fix TestFailure for WireJunction drawing (WireJunction is now EpicGate)- TestCases for Highlighting (Wire supposed to fail atm)'id '3af06d08-513d-bd4a-933f-62a33161af5a'date '22 May 2013'time '3:45:36.121 pm'author 'PS'ancestors ((id 'f93379b4-39ec-3547-b12a-f27a697c00c5'))stepChildren ())

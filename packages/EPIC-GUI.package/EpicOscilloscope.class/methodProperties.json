@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"minHeight" : "JK 7/3/2013 20:22:04.11",
+		"paintedIntervalLength" : "JK 7/3/2013 13:04:27.16" },
+	"instance" : {
+		"addCloseButton" : "JK 7/4/2013 20:56:12.728",
+		"closeButton" : "JK 7/4/2013 20:46:07.476",
+		"closeButton:" : "JK 7/4/2013 20:46:07.504",
+		"closeButtonFrame" : "JK 7/4/2013 20:52:32.864",
+		"closeButtonHandler" : "JK 7/4/2013 20:46:07.518",
+		"closeButtonHandler:" : "JK 7/4/2013 20:46:07.534",
+		"drawOn:" : "PS 7/20/2013 15:21:47.832",
+		"initialize" : "JK 7/4/2013 20:54:08.73",
+		"maximalPrintableValues" : "PS 7/20/2013 14:31:28.448",
+		"mouseDown:onButton:" : "JK 7/21/2013 20:43:05.391",
+		"oscilloscopeBox" : "JK 7/21/2013 20:42:52.737",
+		"oscilloscopeBox:" : "JK 7/21/2013 20:42:52.771",
+		"port" : "JK 7/3/2013 13:56:20.748",
+		"port:" : "JK 7/3/2013 13:56:20.774",
+		"registerButtonEvents" : "JK 7/4/2013 20:47:23.322",
+		"timeStep" : "JK 7/3/2013 15:42:36.696",
+		"values" : "JK 7/3/2013 13:10:02.69",
+		"values:" : "JK 7/3/2013 13:10:02.722" } }

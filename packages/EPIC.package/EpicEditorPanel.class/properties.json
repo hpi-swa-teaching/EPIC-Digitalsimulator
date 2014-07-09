@@ -13,7 +13,11 @@
 		"selector",
 		"snapToGrid",
 		"orthogonalWires",
-		"wireStub" ],
+		"wireStub",
+		"autoTesting",
+		"testLight",
+		"testAgent",
+		"oscilloscope" ],
 	"name" : "EpicEditorPanel",
 	"pools" : [
 		 ],

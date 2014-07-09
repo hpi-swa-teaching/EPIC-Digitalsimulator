@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultHeight" : "lk 7/9/2014 16:08:53.883",
+		"defaultWidth" : "lk 7/9/2014 16:09:00.034",
+		"getDialogWithValues:" : "lk 7/9/2014 16:09:10.95" },
+	"instance" : {
+		"createTableFor:" : "lk 7/9/2014 16:07:50.943",
+		"getTableValues" : "lk 7/9/2014 16:08:03.829",
+		"humanReadableToTestCaseData:" : "lk 7/9/2014 16:08:14.07",
+		"initialize" : "lk 7/9/2014 16:08:20.876",
+		"initializeWithTitle:withData:" : "lk 7/9/2014 16:08:27.244",
+		"open" : "lk 7/9/2014 16:08:36.056",
+		"testCaseDataToHumanReadable:" : "lk 7/9/2014 16:08:41.462" } }

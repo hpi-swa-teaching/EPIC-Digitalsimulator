@@ -1,0 +1,1 @@
+(name 'EPIC-PS.238'message '- remove unused port name (not label)- Oscilloscope displays label of observed port- OscilloscopeBox resize also shrinks- remove debug print in resizeOscilloscope'id 'b23778bb-9c13-d549-b9ee-299c60d1c084'date '20 July 2013'time '3:25:54.395 pm'author 'PS'ancestors ((id '18bd3b7f-4b11-c447-a7e3-a5b3a6039b80'))stepChildren ())

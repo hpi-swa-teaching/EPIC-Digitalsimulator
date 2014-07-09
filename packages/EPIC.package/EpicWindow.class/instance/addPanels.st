@@ -3,4 +3,7 @@ addPanels
 	self
 		addEditorBox;
 		addPrototypeBox;
-		connectPanels
+		addOscilloscopeBox;
+		connectPanels.
+	self editorPanel oscilloscope: self oscilloscopeBox.
+	self editorPanel setTestLight.

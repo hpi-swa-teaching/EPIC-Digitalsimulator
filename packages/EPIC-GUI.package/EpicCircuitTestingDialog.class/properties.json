@@ -1,0 +1,16 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"testcases",
+		"contents" ],
+	"name" : "EpicCircuitTestingDialog",
+	"pools" : [
+		 ],
+	"super" : "SwaDialog",
+	"type" : "normal" }

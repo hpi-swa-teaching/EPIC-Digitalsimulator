@@ -1,0 +1,4 @@
+options
+logfileMode
+
+	^ false

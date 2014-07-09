@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createOutputPorts" : "PS 4/27/2013 18:21:14.718",
+		"drawAsANSIOn:" : "SG 5/15/2013 08:52:54.769",
+		"drawAsDINOn:" : "PS 4/27/2013 18:11:48.037",
+		"drawAsEPICOn:" : "SG 5/15/2013 09:47:59.519",
+		"drawAsIECOn:" : "PS 4/27/2013 18:12:13.206",
+		"initialize" : "SG 5/15/2013 09:07:32.422",
+		"simulateWith:" : "SG 5/7/2013 12:09:14.566" } }

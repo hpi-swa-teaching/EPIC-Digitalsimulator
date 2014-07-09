@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"gateSize" : "SG 5/20/2013 17:14:53.696" },
+	"instance" : {
+		"createInputPorts" : "TF 5/2/2013 18:32:40.092",
+		"createOutputPorts" : "johannes.koch 5/7/2013 15:12:25.421",
+		"delay" : "TF 5/2/2013 19:22:05.101",
+		"deletePorts" : "JK 5/24/2013 18:35:07.264",
+		"drawOn:" : "JK 5/23/2013 11:01:35.52",
+		"duplicate" : "TF 5/2/2013 18:31:47.349",
+		"initialize" : "PS 6/16/2013 17:29:24.572",
+		"isCircuit" : "TF 5/2/2013 18:42:40.506",
+		"layoutPorts:onLineFrom:to:" : "JK 5/23/2013 11:00:45.05",
+		"simulateWith:" : "johannes.koch 5/7/2013 15:23:33.139" } }
