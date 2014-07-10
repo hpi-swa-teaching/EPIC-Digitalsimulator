@@ -33,7 +33,7 @@ find $2 -name '*.image' -exec cp {} ./Squeak-All-In-One \;
 find $2 -name '*.changes' -exec cp {} ./Squeak-All-In-One \;
 find $2 -name '*.sources' -exec cp {} ./Squeak-All-In-One \;
 
-cp img/* ./Squeak-All-In-One
+cp img/index.icns img/splash.bmp ./Squeak-All-In-One
 
 cd Squeak-All-In-One
 
@@ -49,9 +49,14 @@ rm *.sources *.changes *.image *.icns *.bmp
 
 cd ../$APP_NAME.app
 
+imgPath="./Contents/Resources/epic/resources"
+mkdir -p $imgPath
+cp ../img/glyphicon* $imgPath
+
+
 if [[ $(uname) == 'Darwin' ]]
 then
     ./Contents/MacOS/Squeak -headless ./Contents/Resources/Squeak.image $PROJECT_HOME/applyLockDown.st
 else
-    ./Contents/Linux-i686/bin/squeak ./Contents/Resources/Squeak.image ../../applyLockDown.st
+    ./Contents/Linux-i686/bin/squeak -headless ./Contents/Resources/Squeak.image $PROJECT_HOME/applyLockDown.st
 fi

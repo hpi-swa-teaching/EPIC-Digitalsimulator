@@ -1,4 +1,4 @@
-LockDownScript new lockDown.
+EPICLockDownScript new lockDown.
 
 "Quit"
 Smalltalk at: #WorldState ifPresent: [:global |
