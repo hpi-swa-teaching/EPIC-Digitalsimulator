@@ -13,7 +13,6 @@
 		"testingMenu",
 		"simulator",
 		"editorBox",
-		"oscilloscopeBox",
 		"isToggledSnapToGrid",
 		"autoTestingPhase" ],
 	"name" : "EpicWindow",

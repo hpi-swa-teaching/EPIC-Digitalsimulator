@@ -7,5 +7,5 @@ combineSelectedComponentsToNamedCircuit
 	(EpicCircuitNamingDialog 
 		getCircuitNameWithTitle: 'Collapsed circuit name' 
 		label: 'Enter circuit name')
-			ifNotNilDo: [:name | self combineSelectedComponentsToNamedCircuit: name]
+			ifNotNilDo: [:name | self combineSelectedComponentsToNamedCircuitAskPortNumbers: name]
 	

@@ -9,7 +9,8 @@
 		"component",
 		"portName",
 		"value",
-		"wires" ],
+		"wires",
+		"originalLabel" ],
 	"name" : "EpicPort",
 	"pools" : [
 		 ],
