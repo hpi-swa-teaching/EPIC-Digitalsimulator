@@ -6,14 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"title",
-		"testcases",
-		"contents",
-		"contentMorph",
-		"buttons",
-		"cancelled" ],
-	"name" : "EpicCircuitTestingDialog",
+		 ],
+	"name" : "EpicPanel",
 	"pools" : [
 		 ],
-	"super" : "SystemWindow",
+	"super" : "Morph",
 	"type" : "normal" }
