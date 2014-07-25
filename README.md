@@ -22,7 +22,7 @@
 	**Attention:**
 	This will modify your image and delete code!
 	To be able to reset the image make sure to save if before the lockdown.
-	(And don't save it afterwards!)
+	(And deactivate the flag to save it afterwards!)
 	
 	Execute `EPIC LockDownScript new lockDown.` in a workspace window.
 	
@@ -33,7 +33,7 @@
 	- Open the Digitalsimulator in fullscreen inside the squeak window
 	- Prevent panning inside the squeak window
 	- Suppresses error messages and writes them to the `SqueakDebug.log` logfile in the Resources directory instead. (Configurable via flags)
-	- Reduces app size by deleting `*.changes` and `*.sources` files
+	- make it possible to reduce app size by allowing to delete `*.changes` and `*.sources` files without problems
 	
 - For an automated lockdown use the buildscript like this: ´$ ./buildScript.sh Digitalsimulator <pathToYourSqueak>´
 	
