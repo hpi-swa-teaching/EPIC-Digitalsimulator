@@ -1,22 +1,15 @@
 {
 	"class" : {
 		"getCircuitNameWithTitle:label:" : "tb 6/25/2010 14:58:27.196",
-		"getPortCountWithTitle:label:text:" : "SG 6/3/2013 19:31:26.052",
 		"getPortNameWithTitle:label:" : "ak 7/22/2010 22:28:18.382",
-		"getPortNameWithTitle:label:text:" : "PS 5/9/2013 13:09:14.039",
 		"isValidName:" : "tb 6/25/2010 14:54:54.833",
-		"isValidNumber:" : "SG 6/3/2013 19:29:05.088",
-		"nameRegex" : "sv 6/30/2010 15:01:37.612",
-		"numberRegex" : "SG 6/3/2013 19:32:56.27" },
+		"nameRegex" : "sv 6/30/2010 15:01:37.612" },
 	"instance" : {
-		"askOnceForCircuitName" : "lk 7/23/2014 10:36:40.731",
+		"askOnceForCircuitName" : "BM 6/9/2014 15:48",
 		"displayError" : "tb 6/25/2010 16:25:55.36",
 		"getCircuitName" : "tb 6/25/2010 15:01:42.959",
-		"getPortCount" : "JK 7/21/2013 20:59:00.541",
 		"getPortName" : "ak 7/22/2010 22:27:12.906",
 		"label" : "tb 6/25/2010 14:57:41.088",
 		"label:" : "tb 6/25/2010 14:57:41.142",
-		"text" : "PS 5/9/2013 13:08:57.358",
-		"text:" : "PS 5/9/2013 13:08:57.405",
 		"title" : "tb 6/25/2010 14:57:41.175",
 		"title:" : "tb 6/25/2010 14:57:49.901" } }

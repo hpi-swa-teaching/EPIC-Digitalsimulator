@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "CF 6/3/2013 19:15:31.668",
 	"instvars" : [
-		"simulator",
 		"isSnappingSet",
 		"circuits",
 		"expectedMorph",
@@ -14,11 +13,7 @@
 		"selector",
 		"snapToGrid",
 		"orthogonalWires",
-		"wireStub",
-		"autoTesting",
-		"testLight",
-		"testAgent",
-		"oscilloscope" ],
+		"wireStub" ],
 	"name" : "EpicEditorPanel",
 	"pools" : [
 		 ],

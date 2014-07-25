@@ -8,6 +8,6 @@ subWires
 	
 	bundleList := (wireList gather: [ :wire| 
 		wire includingBundles
-	]) asOrderedCollection distinct.
+	]) distinct.
 
 	^ wireList, bundleList

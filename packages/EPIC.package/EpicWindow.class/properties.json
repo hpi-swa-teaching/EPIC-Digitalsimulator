@@ -10,11 +10,8 @@
 		"prototypeBox",
 		"simulationMenu",
 		"settingsMenu",
-		"testingMenu",
 		"simulator",
-		"editorBox",
-		"isToggledSnapToGrid",
-		"autoTestingPhase" ],
+		"editorBox" ],
 	"name" : "EpicWindow",
 	"pools" : [
 		 ],

@@ -1,2 +1,0 @@
-(name 'EPIC-SG.227'message 'added play and pause button. needs play.png and pause.png in resource folder. (to be found in the dropbox folder) 
-Still needs testing, 2 Testcases fail in testrunner but not when run manually.'id '1f3cf094-a523-4749-89a2-95afb5922bf8'date '27 June 2013'time '12:13:54.702 pm'author 'SG'ancestors ((id '8872e7d2-aefe-1b41-9ae4-aa4086e75dd4'))stepChildren ())

@@ -1,7 +1,7 @@
 deletion
 delete
 	self includingBundles do: [ :each |
-		each wires remove: self ifAbsent: [].
+		each wires remove: self.
 		(each wires size = 0) ifTrue:[
 			each delete.
 		].

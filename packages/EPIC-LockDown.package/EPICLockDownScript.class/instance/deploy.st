@@ -4,4 +4,5 @@ deploy
 	self initMethodTemplates;
 		addPreferences;
 		setPreferences;
-		disableDockingBarShortcuts
+		disableDockingBarShortcuts.
+	self program sticky: true.

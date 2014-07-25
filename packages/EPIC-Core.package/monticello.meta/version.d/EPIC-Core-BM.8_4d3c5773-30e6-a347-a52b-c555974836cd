@@ -1,1 +1,0 @@
-(name 'EPIC-Core-BM.8'message 'Fixed bug, that caused an error message when deleting bundled wires and the components that they were attached to.'id '4d3c5773-30e6-a347-a52b-c555974836cd'date '25 July 2014'time '12:07:05.905 pm'author 'BM'ancestors ((id 'ccda03f6-59ac-4b0c-b2db-b88275c60da7'))stepChildren ())

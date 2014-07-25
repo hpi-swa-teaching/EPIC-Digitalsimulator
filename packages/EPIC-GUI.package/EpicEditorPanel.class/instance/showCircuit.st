@@ -8,5 +8,4 @@ showCircuit
 	].
 	self components do: [:eachComponent | 
 		self showComponent: eachComponent
-	].
-	self showTestLight: self testLight.
+	]

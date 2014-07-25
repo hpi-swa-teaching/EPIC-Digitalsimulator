@@ -1,1 +1,0 @@
-(name 'EPIC-JK.184'message 'Ticket 3743 - "Undefined Object: center"at junction creation, old wire has to be pluged off before reconnecting it to a new port'id '3cea369c-0029-4cf3-b9e4-351eaba43ba3'date '22 May 2013'time '6:49:21.964 pm'author 'JK'ancestors ((id '3af06d08-513d-bd4a-933f-62a33161af5a'))stepChildren ())

@@ -36,7 +36,6 @@
 		"startSimulation" : "f.z 6/11/2010 16:34:30.284",
 		"stopSimulation" : "f.z 6/11/2010 17:14:25.478",
 		"timeStampAfter:" : "tb 5/28/2010 16:42:50.088",
-		"triggerMissedSimulationOf:" : "PS 6/16/2013 16:53:47.991",
 		"waitBounded:" : "tb 6/13/2010 13:49:47.393",
 		"waitForFirstEvent" : "tb 6/13/2010 13:53:42.632",
 		"waitUnbounded" : "f.z 6/3/2010 18:07:15.237",

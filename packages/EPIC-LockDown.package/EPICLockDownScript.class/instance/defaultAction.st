@@ -1,16 +1,16 @@
 method-templates
 defaultAction
-	| aStream currentStackContent contentNumber |
+	| aStream currentStackLevel x |
 	aStream := FileStream fileNamed: 'ErrorLog.txt'.
 	aStream setToEnd.
 	DateAndTime now printOn: aStream.
 	':', String tab, self exception messageText, Character linefeed putOn: aStream.
-	currentStackContent := self exception signalerContext.
-	contentNumber := EPICLockDownScript debugStackTreshold.
-	[(contentNumber > 0) & (currentStackContent notNil)] whileTrue:
-		[String tab, currentStackContent, Character linefeed putOn: aStream.
-		currentStackContent := currentStackContent sender.
-		contentNumber := contentNumber - 1].
+	currentStackLevel := self exception signalerContext.
+	x := EPICLockDownScript debugStackTreshold.
+	[(x > 0) & (currentStackLevel notNil)] whileTrue:
+		[String tab, currentStackLevel, Character linefeed putOn: aStream.
+		currentStackLevel := currentStackLevel sender.
+		x := x - 1].
 	Character linefeed putOn: aStream.
 	aStream close.
 	
