@@ -10,4 +10,4 @@ postOpenInitialize
 		addMenuEntries;
 		addSubmorphs;
 		simulationStateChanged;
-		configurationStateChanged
+		configurationStateChanged.

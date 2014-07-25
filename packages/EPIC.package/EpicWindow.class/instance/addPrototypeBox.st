@@ -1,3 +1,8 @@
-initialization
+panel creation
 addPrototypeBox
-	self prototypeBox:  self createPrototypeBox.
+
+	self prototypeBox: (EpicPrototypeBox new
+		layoutFrame: self prototypeFrame;
+		hResizing: #spaceFill;
+		vResizing: #spaceFill).
+		

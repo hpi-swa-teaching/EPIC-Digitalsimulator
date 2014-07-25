@@ -1,4 +1,4 @@
 accessing
 startingClass
 
-	^ startingClass
+	^ startingClass.

@@ -3,6 +3,6 @@ setUp
 	| lockDownScript |
 	EpicInterfaceTest new createXmlFile.
 	
-	lockDownScript := EPICLockDownScript new.
+	lockDownScript := EpicLockDownScript new.
 	lockDownScript lockDown.
 	self window: lockDownScript program

@@ -1,3 +1,4 @@
 accessing
 startingClass: aClass
-	startingClass := aClass
+
+	startingClass := aClass.

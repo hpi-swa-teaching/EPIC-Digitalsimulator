@@ -1,3 +1,4 @@
 method-templates
 quitSession
-	Smalltalk snapshot: false andQuit: true
+
+	Smalltalk snapshot: false andQuit: true.

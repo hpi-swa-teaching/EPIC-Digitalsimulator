@@ -1,3 +1,7 @@
 initialization
 addMenu
-	self menuBar: self createMenuBar.
+
+	self menuBar: (DockingBarMorph new
+		layoutFrame: self menuBarFrame;
+		hResizing: #spaceFill;
+		vResizing: #shrinkWrap).

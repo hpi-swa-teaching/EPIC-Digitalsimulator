@@ -1,3 +1,7 @@
-initialization
+panel creation
 addEditorBox
-	self editorBox: self createEditorBox.
+
+	self editorBox: (EpicEditorBox new
+		layoutFrame: self editorFrame;
+		hResizing: #spaceFill;
+		vResizing: #spaceFill)

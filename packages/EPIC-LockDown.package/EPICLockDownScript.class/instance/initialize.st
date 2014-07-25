@@ -1,4 +1,4 @@
 initialization
 initialize
 
-	self startingClass: EPICLockDownScript defaultStartingClass.
+	self startingClass: EpicLockDownScript defaultStartingClass.

@@ -1,6 +1,8 @@
 deploying
 lockDown
 
-	self initializeProgram.
-	self deploy.
-	self end
+	self
+		initializeProgram;
+		deploy.
+	EpicLockDownScript shouldSave ifTrue:
+		[Smalltalk saveSession].
