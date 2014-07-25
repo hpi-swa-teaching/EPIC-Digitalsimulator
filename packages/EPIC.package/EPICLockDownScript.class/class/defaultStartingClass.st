@@ -1,4 +1,4 @@
 instance creation
 defaultStartingClass
 
-	^ EPIC
+	^ EPIC.

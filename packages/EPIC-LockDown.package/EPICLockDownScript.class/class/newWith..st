@@ -1,4 +1,4 @@
 instance creation
 newWith: aClass
 
-	^ self new startingClass: aClass
+	^ self new startingClass: aClass.

@@ -1,4 +1,4 @@
 deploying
 disableDockingBarShortcuts
 
-	World activeHand keyboardListeners: WeakArray new
+	World activeHand keyboardListeners: WeakArray new.
