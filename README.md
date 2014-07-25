@@ -3,29 +3,51 @@
 [![Build Status](https://travis-ci.org/SWTI2014/SWTI2014-Project-08.svg)](https://travis-ci.org/SWTI2014/SWTI2014-Project-08)
 
 
-## Build process
-
-- `$ git clone`
-- `$ git submodule init` (Initializes your local configuration file)
-- `$ git submodule update` (Fetches all the data from that project and checks out the appropriate commit listed in your superproject.) 
-
-
 ## Installation
 
-=== Not working yet! ===
+- `$ git clone <link to repo>`
+- `$ git submodule init` (Initializes your local configuration file)
+- `$ git submodule update` (Fetches all the data from that project and checks out the appropriate commit listed in your superproject.)
 
-`curl --silent https://raw.githubusercontent.com/SWTI2014/SWTI2014-Project-08/master/install.sh | bash`
+- Download a new squeak 4.5 image
+- Open image and open Tools > Monticello Browser
+- Click on "+Repository" and the `filetree://
+- In the following pop-up select the `package` directory in the git repository
+- Select the newly created filetree entry and click on "open"
+- Go through the packages and click load for each
+
+- You can now verify the installation by executing `EPIC startProgram` in the workspace window
+- In order to build a deployable version of the simulator you can lock down the Digitalsimulator
+
+	**Attention:**
+	This will modify your image and delete code!
+	To be able to reset the image make sure to save if before the lockdown.
+	(And don't save it afterwards!)
+	
+	Execute `EPIC LockDownScript new lockDown.` in a workspace window.
+	
+	In detail this will …
+	
+	- Remove squeak specific GUI elements like the menu-bar, systemWindow, etc.
+	- Suppress secondary mouse buttons and keyboard shortcuts
+	- Open the Digitalsimulator in fullscreen inside the squeak window
+	- Prevent panning inside the squeak window
+	- Suppresses error messages and writes them to the `SqueakDebug.log` logfile in the Resources directory instead. (Configurable via flags)
+	- Reduces app size by deleting `*.changes` and `*.sources` files
+	
+- For an automated lockdown use the buildscript like this: ´$ ./buildScript.sh Digitalsimulator <pathToYourSqueak>´
+	
+	This will download a unmodified vm for Mac, Linux and Windows and bundle it with all the necessary files from your squeak image to a new deployable image.
 
 
-## Path in builderCI
+## Changes in legacy system
 
-1. `build_image.sh`
-1. `build_client_image.sh`
-1. `testTravisCI.sh`
+- Ported from Squeak 4.4 to Squeak 4.5
+- EpicWindow inherits from Morph instead of systemWindow
+- Bugfixes
 
 
-## Dependencies
+## Credits
 
-- wget
-- unzip
-- gunzip
+- Inspiration for lockdown-script: http://map.squeak.org/package/0c6d3bda-adbb-496a-ae84-8d4c145d14b5
+- Original deployment script: https://github.com/pdebruic/Squeak-All-In-One

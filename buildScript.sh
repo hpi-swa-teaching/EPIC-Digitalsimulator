@@ -49,9 +49,15 @@ rm *.sources *.changes *.image *.icns *.bmp
 
 cd ../$APP_NAME.app
 
+echo 'test'
+
 if [[ $(uname) == 'Darwin' ]]
 then
-    ./Contents/MacOS/Squeak -headless ./Contents/Resources/Squeak.image $PROJECT_HOME/applyLockDown.st
+    ./Contents/MacOS/Squeak -headless \
+    ./Contents/Resources/Squeak.image \
+        $PROJECT_HOME/applyLockDown.st
 else
-    ./Contents/Linux-i686/bin/squeak ./Contents/Resources/Squeak.image ../../applyLockDown.st
+    ./Contents/Linux-i686/bin/squeak -headless \
+    ./Contents/Resources/Squeak.image \
+        $PROJECT_HOME/applyLockDown.st
 fi
