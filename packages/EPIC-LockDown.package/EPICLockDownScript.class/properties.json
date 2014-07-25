@@ -6,8 +6,7 @@
 		"CurrentProjectRefactoring" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"program",
-		"startingClass" ],
+		"program" ],
 	"name" : "EPICLockDownScript",
 	"pools" : [
 		 ],
