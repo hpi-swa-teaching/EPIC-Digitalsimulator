@@ -1,1 +1,0 @@
-(name 'EPIC-tb.56'message 'Fix für Endlosschleife beim Zeichnen.(#drawOn rief über #updateAnchorPointsAndBounds indirekt #changed auf, was wieder für ein #drawOn sorgte ...)'id '2e125e7a-5dd0-4d44-a8ff-a9b65506c01e'date '13 June 2010'time '3:09:40.606 pm'author 'tb'ancestors ((id 'ad8bce8f-412e-a745-aef4-78b38bc7f6d4'))stepChildren ())

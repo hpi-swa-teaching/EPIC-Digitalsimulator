@@ -1,1 +1,0 @@
-(name 'EPIC-f.z.104'message 'Wires werden beim collapsen nun einigermaßen korrekt erzeugt.Dazu bekommen die innerPorts beim hinzufügen von outerPorts die Position der letzteren aufgedrückt.'id '18ba812a-9c90-ff4b-8176-a6ba8596342f'date '29 June 2010'time '5:08:49.254 pm'author 'f.z'ancestors ((id '1ebe7605-a804-3e46-a847-bfc31c3cd6ce'))stepChildren ())

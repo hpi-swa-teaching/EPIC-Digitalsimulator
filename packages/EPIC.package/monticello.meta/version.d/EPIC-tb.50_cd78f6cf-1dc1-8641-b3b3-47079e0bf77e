@@ -1,1 +1,0 @@
-(name 'EPIC-tb.50'message 'Wire-Propagation wird nun ebenfalls simuliert (damit können Wires ein Delay haben)Und Fix für das Aufrufen von delete aller Components'id 'cd78f6cf-1dc1-8641-b3b3-47079e0bf77e'date '11 June 2010'time '5:52:54.346 pm'author 'tb'ancestors ((id 'aba8b360-df6b-3d48-a7e6-87765cfda3de'))stepChildren ())

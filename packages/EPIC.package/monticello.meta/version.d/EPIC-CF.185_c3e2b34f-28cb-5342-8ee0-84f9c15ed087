@@ -1,2 +1,0 @@
-(name 'EPIC-CF.185'message 'added possibility to remove single wires from a bundle.
-fixed error when trying to bundle zero wires.'id 'c3e2b34f-28cb-5342-8ee0-84f9c15ed087'date '24 June 2013'time '9:42:24.473 pm'author 'CF'ancestors ((id 'fcfb9d10-3bb5-48f6-89fd-98f98dd81fff'))stepChildren ())
