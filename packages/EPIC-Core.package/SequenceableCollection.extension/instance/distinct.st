@@ -1,4 +1,4 @@
-*EPIC-Main
+*EPIC-Core
 distinct
 	| newCollection |
 	newCollection := self species new.
