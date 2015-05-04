@@ -1,6 +1,6 @@
 # EPIC-Digitalsimulator
 
-[![Build Status](https://travis-ci.org/HPI-SWA-Teaching/EPIC-Digitalsimulator.svg)](https://travis-ci.org/HPI-SWA-Teaching/EPIC-Digitalsimulator)
+[![Build Status](https://travis-ci.org/HPI-SWA-Teaching/SWT15-Project-14.svg)](https://travis-ci.org/HPI-SWA-Teaching/SWT15-Project-14)
 
 
 ## Installation
