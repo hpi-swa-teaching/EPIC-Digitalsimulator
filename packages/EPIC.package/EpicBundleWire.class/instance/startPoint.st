@@ -1,3 +1,0 @@
-drawing
-startPoint
-	^self startBundlePoint 

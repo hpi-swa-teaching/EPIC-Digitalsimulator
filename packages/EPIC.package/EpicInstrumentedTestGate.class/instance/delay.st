@@ -1,3 +1,0 @@
-simulation
-delay
-	^ 1

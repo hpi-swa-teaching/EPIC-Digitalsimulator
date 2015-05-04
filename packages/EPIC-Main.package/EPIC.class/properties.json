@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Main",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EPIC",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

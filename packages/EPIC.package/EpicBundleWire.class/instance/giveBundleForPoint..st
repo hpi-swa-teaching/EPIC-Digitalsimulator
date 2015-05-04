@@ -1,3 +1,0 @@
-drawing
-giveBundleForPoint: aPoint
-	^ self

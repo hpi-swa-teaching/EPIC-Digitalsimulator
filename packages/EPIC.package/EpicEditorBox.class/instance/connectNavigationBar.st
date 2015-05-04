@@ -1,3 +1,0 @@
-initialization
-connectNavigationBar
-	self navigationBar setEditorPanel: self editorPanel

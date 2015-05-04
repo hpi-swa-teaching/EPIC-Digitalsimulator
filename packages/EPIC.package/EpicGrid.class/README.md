@@ -1,1 +1,0 @@
-Mit meiner Hilfe können einzelne Schaltkreiselemente in fixen Abständen ausgerichtet werden.

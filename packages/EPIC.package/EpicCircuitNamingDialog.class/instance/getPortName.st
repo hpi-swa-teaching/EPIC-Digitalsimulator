@@ -1,3 +1,0 @@
-naming
-getPortName
-	^ self askOnceForCircuitName.

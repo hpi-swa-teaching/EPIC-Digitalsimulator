@@ -1,1 +1,0 @@
-Dummy"Ich, der FileBrowser, erlaube es dem Benutzer, einen zu ladenden Schaltkreis aus dem Dateisystem auszuwählen. 

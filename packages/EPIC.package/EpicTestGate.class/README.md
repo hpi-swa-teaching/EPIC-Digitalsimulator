@@ -1,1 +1,0 @@
-Dummy für den EpicEditorPanelTest, damit der sich nicht auf irgendwelche echten Gatter verlassen muss. Ignoriert Simulationsaufrufe.

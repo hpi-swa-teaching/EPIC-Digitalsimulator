@@ -1,3 +1,0 @@
-geometry testing
-includingBundles
-	^includingBundles

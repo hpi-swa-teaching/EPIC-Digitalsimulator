@@ -1,3 +1,0 @@
-accessing
-queueMutex
-	^ queueMutex

@@ -1,3 +1,0 @@
-drawing
-maximumLineWidth
-	^ 8

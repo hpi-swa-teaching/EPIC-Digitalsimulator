@@ -1,1 +1,0 @@
-Ich bin ein Gatter, welches als Quelle für Werte dient. Ich habe keine InputPorts.

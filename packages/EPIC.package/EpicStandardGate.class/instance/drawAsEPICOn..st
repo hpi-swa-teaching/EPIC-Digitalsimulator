@@ -1,2 +1,0 @@
-drawing
-drawAsEPICOn: aCanvas

@@ -1,3 +1,0 @@
-event registration
-registerForEvents
-	self subclassResponsibility

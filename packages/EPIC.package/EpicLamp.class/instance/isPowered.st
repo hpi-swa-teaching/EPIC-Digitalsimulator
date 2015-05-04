@@ -1,3 +1,0 @@
-accessing
-isPowered
-	^ self powered

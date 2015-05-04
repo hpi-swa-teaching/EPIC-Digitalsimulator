@@ -1,3 +1,0 @@
-initialization
-initialSimulate
-	self simulate

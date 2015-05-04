@@ -1,3 +1,0 @@
-helper messages
-circuitName
-	^ 'self'

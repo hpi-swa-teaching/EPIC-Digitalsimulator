@@ -1,3 +1,0 @@
-accessing
-affectedComponent
-	^ affectedComponent

@@ -1,3 +1,0 @@
-initialization
-initializeEventHandlers
-	self subclassResponsibility

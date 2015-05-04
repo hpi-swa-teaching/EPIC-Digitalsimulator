@@ -1,3 +1,0 @@
-testing
-isInput
-	^ false

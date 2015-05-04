@@ -1,1 +1,0 @@
-This class locks down your image and starts a given program.

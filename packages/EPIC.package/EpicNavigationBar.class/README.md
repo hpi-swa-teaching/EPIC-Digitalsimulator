@@ -1,1 +1,0 @@
-Ich bin die NavigationBar. Ich befinde mich oberhalb des Editorpanels und zeuge dem Benutzer an, an welcher stelle des kaskadierten Schaltkreises er sich befindet, d.h. in welcher Tiefe der Circuit ist, der gerade angezeigt wird. Ich enthalte Buttons, über die der Benutzer direkt an eine höhergelegene Stelle springen kann.

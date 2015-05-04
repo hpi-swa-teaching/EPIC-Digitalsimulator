@@ -1,3 +1,0 @@
-event registration
-unregisterForMouseMove
-	self currentHand removeMouseListener: self

@@ -1,3 +1,0 @@
-serialization
-asXMLDocument
-	^ self xmlDocument

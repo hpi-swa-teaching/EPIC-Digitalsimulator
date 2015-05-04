@@ -1,1 +1,0 @@
-Ich, der PrototypeTabButton, bin ein Button der in der PrototypeTabBar enthalten ist. Indem der Nutzer auf mich klickt, wählt er das mir zugeordnete PrototypePanel aus, und es wird angezeigt.

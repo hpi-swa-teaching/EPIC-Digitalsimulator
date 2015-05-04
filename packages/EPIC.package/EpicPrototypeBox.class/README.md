@@ -1,1 +1,0 @@
-Ich bin die PrototypeBox. Ich kapsele eine EpicTabBar und ein EpicPrototypePanel und bilde damit die linke Hälfte des Fensters. Mein Bruder, die EditorBox, tut das gleiche mit dem EditorPanel und der NavigationBar. Ich habe außerdem weitere PrototypePanels als Submorphs, die jedoch nur angezeigt werden, wenn der entsprechende TabButton aus meiner TabBar angeklickt wird.

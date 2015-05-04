@@ -1,1 +1,0 @@
-Ich bin ein Mockup-Gate zum Testen und zähle deshalb unter anderem mit, wie oft bei mir die Simulation/Berechnung angestoßen wurde.

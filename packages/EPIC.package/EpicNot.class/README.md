@@ -1,1 +1,0 @@
-ich negiere meinen Eingang.

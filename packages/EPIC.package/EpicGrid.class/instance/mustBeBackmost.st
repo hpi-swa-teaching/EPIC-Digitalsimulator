@@ -1,3 +1,0 @@
-magic numbers
-mustBeBackmost
-	^ true

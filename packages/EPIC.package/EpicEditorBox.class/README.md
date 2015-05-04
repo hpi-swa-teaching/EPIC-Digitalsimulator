@@ -1,1 +1,0 @@
-Ich bin der Container für das EditorPanel und die NavigationBar und kapsele so alles, was in der rechten Fensterhälfte enthalten ist. Ich bin, neben meinem Bruder, der PrototypeBox, im Window enthalten.

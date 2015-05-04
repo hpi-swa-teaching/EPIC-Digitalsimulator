@@ -1,1 +1,0 @@
-Ich liefere immer True - ich bin die Wahrheit.

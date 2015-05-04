@@ -1,3 +1,0 @@
-geometry
-boundsInset
-	^ 5

@@ -1,3 +1,0 @@
-naming
-namespace
-	^ 'epic.primitives'

@@ -1,3 +1,0 @@
-simulation
-triggerSimulation
-	^ self subclassResponsibility

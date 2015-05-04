@@ -1,1 +1,0 @@
-Logisches Und.

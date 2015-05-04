@@ -1,1 +1,0 @@
-Ich bin der EpicSelector. Ich erlaube es dem Nutzer, mehrere Komponenten einer Schaltung mit einem Rechteck zu markieren. Dazu speichere ich den Punkt, an dem der Benutzer die Linke Maustaste gedrückt hat.

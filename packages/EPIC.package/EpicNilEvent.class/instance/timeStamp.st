@@ -1,3 +1,0 @@
-accessing
-timeStamp
-	^ 0

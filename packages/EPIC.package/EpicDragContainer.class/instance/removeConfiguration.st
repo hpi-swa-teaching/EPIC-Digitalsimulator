@@ -1,3 +1,0 @@
-configuration
-removeConfiguration
-	EpicConfiguration unregisterInstance: self
