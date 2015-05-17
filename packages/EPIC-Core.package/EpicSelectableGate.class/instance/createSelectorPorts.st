@@ -1,3 +1,3 @@
-as yet unclassified
+initialization
 createSelectorPorts 
 	self addUnnamedSelectorPorts: 2

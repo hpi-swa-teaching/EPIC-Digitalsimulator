@@ -11,5 +11,6 @@ gatePanel
 		addComponent: EpicAnd new;
 		addComponent: EpicNand new;
 		addComponent: EpicMux new;
+		addComponent: EpicDemux new;
 		autoLayout;
 		yourself

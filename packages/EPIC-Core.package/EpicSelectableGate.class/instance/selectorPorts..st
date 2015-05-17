@@ -1,3 +1,3 @@
-as yet unclassified
+port layout
 selectorPorts: aPort
 	selectorPorts := aPort
