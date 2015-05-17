@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectorPorts" ],
+	"name" : "EpicSelectableGate",
+	"pools" : [
+		 ],
+	"super" : "EpicStandardGate",
+	"type" : "normal" }

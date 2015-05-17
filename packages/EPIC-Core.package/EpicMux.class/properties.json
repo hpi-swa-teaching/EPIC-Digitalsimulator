@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicMux",
+	"pools" : [
+		 ],
+	"super" : "EpicSelectableGate",
+	"type" : "normal" }

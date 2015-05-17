@@ -2,9 +2,7 @@ initialization
 initialize
 	super initialize.
 	self 
-		inputPorts: OrderedCollection new;
-		outputPorts: OrderedCollection new;
+		initializePorts;
 		deselect;
-		createInputPorts;
-		createOutputPorts;
+		createPorts;
 		initialSimulate
