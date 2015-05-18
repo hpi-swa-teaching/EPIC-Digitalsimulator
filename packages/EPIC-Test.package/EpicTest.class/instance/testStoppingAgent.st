@@ -3,7 +3,7 @@ testStoppingAgent
 	| agent |
 	agent := EpicConcurrencyAgent new.
 	agent
-		 startConcurrentInLoop: [nil];
+		startConcurrentInLoop: [nil];
 		abort;
 		waitForIdle.
 	self assert: [agent isIdle]
