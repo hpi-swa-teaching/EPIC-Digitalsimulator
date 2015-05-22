@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "EpicDFlipFlop",
+		"state" ],
+	"name" : "EpicFlipFlop",
 	"pools" : [
 		 ],
-	"super" : "EpicFlipFlop",
+	"super" : "EpicStandardGate",
 	"type" : "normal" }

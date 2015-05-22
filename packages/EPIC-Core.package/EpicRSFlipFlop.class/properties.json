@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "EpicDFlipFlop",
+	"name" : "EpicRSFlipFlop",
 	"pools" : [
 		 ],
 	"super" : "EpicFlipFlop",
