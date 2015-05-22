@@ -10,5 +10,6 @@ gatePanel
 		addComponent: EpicXnor new;
 		addComponent: EpicAnd new;
 		addComponent: EpicNand new;
+		addComponent: EpicHalfAdder new;
 		autoLayout;
 		yourself

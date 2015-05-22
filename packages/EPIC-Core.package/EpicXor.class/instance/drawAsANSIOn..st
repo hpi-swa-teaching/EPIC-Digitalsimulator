@@ -1,4 +1,4 @@
-simulation
+drawing
 drawAsANSIOn: aCanvas
 	| p q upperBox lowerBox v leftBox|
 	v := ((1 - (3 sqrt / 2)) * self gateBoxANSI width) rounded asInteger.
