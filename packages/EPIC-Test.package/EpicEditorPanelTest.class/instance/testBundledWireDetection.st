@@ -12,4 +12,4 @@ testBundledWireDetection
 	
 	self
 		assert: ((self panel isBundleWithWires: wireList) = false);
-		assert: ((self panel isBundleWithWires: wireList) = false).
+		assert: ((self panel isBundleWithWires: wireList) = false)
