@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AK 5/18/2015 12:45",
+	"instvars" : [
+		 ],
+	"name" : "EpicHalfAdder",
+	"pools" : [
+		 ],
+	"super" : "EpicStandardGate",
+	"type" : "normal" }

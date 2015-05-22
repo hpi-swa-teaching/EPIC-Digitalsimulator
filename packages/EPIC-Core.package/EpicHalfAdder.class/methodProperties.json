@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createOutputPorts" : "AK 5/18/2015 12:22",
+		"drawAsANSIOn:" : "AK 5/19/2015 19:43",
+		"drawAsDINOn:" : "AK 5/19/2015 02:29",
+		"drawAsEPICOn:" : "AK 5/18/2015 12:14",
+		"drawAsIECOn:" : "AK 5/19/2015 19:40",
+		"gateBoxANSI" : "AK 5/19/2015 19:42",
+		"gateBoxDIN" : "AK 5/19/2015 02:34",
+		"simulateWith:" : "AK 5/20/2015 23:23" } }

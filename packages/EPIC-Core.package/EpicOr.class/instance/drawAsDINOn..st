@@ -1,4 +1,4 @@
-simulation
+drawing
 drawAsDINOn:aCanvas
 	| p arcBox |
 	arcBox := Rectangle 
