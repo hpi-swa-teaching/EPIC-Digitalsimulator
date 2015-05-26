@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"window" ],
+		"window",
+		"preferences",
+		"keyboardListeners" ],
 	"name" : "EpicLockDownTest",
 	"pools" : [
 		 ],
