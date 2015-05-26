@@ -1,6 +1,5 @@
 as yet unclassified
 setState
-	self inputValues second ifTrue: [
-		((self inputValues first) and: (self inputValues third)) ifTrue: [^ self].
-		self inputValues first ifTrue: [self state: true].
-		self inputValues third ifTrue: [self state: false]]
+	(self inputValues first xor: self inputValues second) ifFalse: [^ self].
+	self inputValues first ifTrue: [self state: true].
+	self inputValues second ifTrue: [self state: false]
