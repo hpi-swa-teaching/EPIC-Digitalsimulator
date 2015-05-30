@@ -1,1 +1,1 @@
-(name 'EPIC-Serialization-js.1' message 'initial commit' id '85ea7ede-119a-d74b-a8b3-f1a58b792750' date '14 May 2014' time '10:10:11.868 pm' author 'js' ancestors () stepChildren ())
+(name 'EPIC-Serialization-ME.2' message 'empty log message' id 'dbbbfdfe-0da5-b444-8977-4d9af334ecdc' date '30 May 2015' time '4:12:13.603 pm' author 'ME' ancestors ((name 'EPIC-Serialization-js.1' message 'initial commit' id '85ea7ede-119a-d74b-a8b3-f1a58b792750' date '14 May 2014' time '10:10:11.868 pm' author 'js' ancestors () stepChildren ())) stepChildren ())
