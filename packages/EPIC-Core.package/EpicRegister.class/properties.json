@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"state",
-		"clockState" ],
-	"name" : "EpicFlipFlop",
+		 ],
+	"name" : "EpicRegister",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicFlipFlop",
 	"type" : "normal" }

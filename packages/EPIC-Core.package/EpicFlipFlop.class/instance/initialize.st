@@ -1,4 +1,4 @@
 as yet unclassified
 initialize
-	self state: false.
+	self initializeStates.
 	super initialize

@@ -1,4 +1,4 @@
 running
 tearDown
-	self window delete.
-	World submorphsDo: [:each | each visible: true]
+
+	self window delete

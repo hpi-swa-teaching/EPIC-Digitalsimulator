@@ -1,9 +1,15 @@
 {
 	"class" : {
-		 },
+		"needBackup" : "ME 5/26/2015 14:30" },
 	"instance" : {
-		"setUp" : "lk 7/25/2014 14:31",
-		"tearDown" : "BM 6/15/2014 20:18",
+		"backupPeferences" : "ME 5/26/2015 14:34",
+		"keyboardListeners" : "ME 5/26/2015 14:44",
+		"keyboardListeners:" : "ME 5/26/2015 14:44",
+		"preferences" : "ME 5/26/2015 14:21",
+		"preferences:" : "ME 5/26/2015 14:21",
+		"resetPreferences" : "ME 5/26/2015 14:37",
+		"setUp" : "ME 5/26/2015 14:44",
+		"tearDown" : "ME 5/26/2015 14:45",
 		"testDynamicFullscreen" : "BM 6/15/2014 21:29",
 		"testMorphHiding" : "BM 6/15/2014 20:44",
 		"testPreferences" : "BM 6/15/2014 21:06",

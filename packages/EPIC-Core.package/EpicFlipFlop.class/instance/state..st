@@ -1,3 +1,3 @@
 as yet unclassified
-state: aBoolean
-	state := aBoolean
+state: anObject
+	state := anObject
