@@ -2,9 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
+		"clockState" : "JvD 5/31/2015 14:30",
+		"clockState:" : "JvD 5/31/2015 14:30",
 		"createOutputPorts" : "JvD 5/22/2015 17:23",
-		"initialize" : "JvD 5/22/2015 17:22",
+		"initialize" : "JvD 5/31/2015 14:30",
 		"setState" : "JvD 5/22/2015 17:22",
-		"simulateWith:" : "JvD 5/25/2015 20:34",
+		"simulateWith:" : "JvD 5/31/2015 14:42",
 		"state" : "JvD 5/22/2015 17:21",
 		"state:" : "JvD 5/22/2015 17:21" } }
