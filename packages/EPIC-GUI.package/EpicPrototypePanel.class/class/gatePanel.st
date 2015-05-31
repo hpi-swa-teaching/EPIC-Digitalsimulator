@@ -2,7 +2,6 @@ instance creation
 gatePanel
 	^ (self new)
 		color: Color white;
-		"addComponent: EpicRegister new;"
 		addComponent: EpicRSFlipFlop new;
 		addComponent: EpicTFlipFlop new;
 		addComponent: EpicDFlipFlop new;
