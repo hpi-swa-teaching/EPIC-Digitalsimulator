@@ -1,7 +1,7 @@
 drawing
 drawAsANSIOn: aCanvas
 
-	| p xyratio |
+	| p xyratio gateBoxANSIWidth|
 	p := EpicPolygon new.
 	xyratio := 0.
 	p
@@ -18,9 +18,11 @@ drawAsANSIOn: aCanvas
 			to: (self gateBoxANSI right) @ (eachPort center y)
 			color: Color black
 	].
-
+	
+	gateBoxANSIWidth := (self gateBoxANSI bottomRight x - self gateBoxANSI bottomLeft x).
+	(gateBoxANSIWidth = 0) ifTrue: [gateBoxANSIWidth := 1].
 	self selectorPorts do: [:eachPort |
-		xyratio := (self gateBoxANSI bottomRight x - eachPort center x) / 1."(self gateBoxANSI bottomRight x - self gateBoxANSI bottomLeft x)."
+		xyratio := (self gateBoxANSI bottomRight x - eachPort center x) / gateBoxANSIWidth.
 		aCanvas
 			line: eachPort center
 			to: (eachPort center x) @ (self gateBoxANSI bottomLeft y - (self gateBoxANSI extent y / 3 * xyratio))
