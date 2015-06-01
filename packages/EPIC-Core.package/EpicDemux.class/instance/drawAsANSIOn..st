@@ -20,11 +20,11 @@ drawAsANSIOn: aCanvas
 	].
 
 	self selectorPorts do: [:eachPort |
-		"xyratio := (self gateBoxANSI bottomRight x - eachPort center x) / (self gateBoxANSI bottomRight x - self gateBoxANSI bottomLeft x).
+		xyratio := 1."(self gateBoxANSI bottomRight x - eachPort center x) / (self gateBoxANSI bottomRight x - self gateBoxANSI bottomLeft x)."
 		aCanvas
 			line: eachPort center
 			to: (eachPort center x) @ (self gateBoxANSI bottomLeft y - (self gateBoxANSI extent y / 3 * xyratio))
-			color: Color black"
+			color: Color black
 	].
 
 	aCanvas 
