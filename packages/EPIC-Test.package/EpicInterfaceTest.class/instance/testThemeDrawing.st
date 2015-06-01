@@ -11,6 +11,6 @@ testThemeDrawing
 	self iterateThemesFor: EpicMux new."
 	self iterateThemesFor: EpicXnor new.
 	self iterateThemesFor: EpicXor new.
-	"self iterateThemesFor: EpicDFlipFlop new.
+	self iterateThemesFor: EpicDFlipFlop new.
 	self iterateThemesFor: EpicTFlipFlop new.
-	self iterateThemesFor: EpicRSFlipFlop new"
+	self iterateThemesFor: EpicRSFlipFlop new
