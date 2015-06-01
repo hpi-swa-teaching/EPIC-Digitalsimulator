@@ -1,6 +1,8 @@
 drawing
 drawAsANSIOn: aCanvas
-	| p xyratio |
+
+	self drawAsEPICOn: aCanvas
+	"| p xyratio |
 	p := EpicPolygon new.
 	xyratio := 0.
 	p
@@ -29,4 +31,4 @@ drawAsANSIOn: aCanvas
 	aCanvas 
 		line: self inputPorts first center 
 		to: (self gateBoxANSI left) @ (self inputPorts first center y)
-		color: Color black
+		color: Color black"
