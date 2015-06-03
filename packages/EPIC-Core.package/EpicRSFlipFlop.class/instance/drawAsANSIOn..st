@@ -25,11 +25,20 @@ drawAsANSIOn: aCanvas
 	].
 
 	aCanvas drawString: 'S' at: (self gateBoxANSI bottomLeft x @ self inputPorts first center y) + (2 @ -6).
-	aCanvas drawString: 'R' at: (self gateBoxANSI bottomLeft x @ self inputPorts second center y) + (2 @ -6).
+	aCanvas drawString: 'R' at: (self gateBoxANSI bottomLeft x @ self inputPorts third center y) + (2 @ -6).
 	aCanvas drawString: 'Q' at: (self gateBoxANSI bottomRight x @ self outputPorts first center y) + (-12 @ -6).
-	aCanvas drawString: 'Q' at: (self gateBoxANSI bottomRight x @ self outputPorts second center y) + (-12 @ -6).
+	aCanvas drawString: 'Q' at: (self gateBoxANSI bottomRight x @ self outputPorts second center y) + (-12 @ -6).	
 
 	aCanvas
 		line: (self gateBoxANSI bottomRight x - 3 @ self outputPorts second topLeft y)
 		to: (self gateBoxANSI bottomRight x - 12 @ self outputPorts second topLeft y)
-		color: Color black
+		color: Color black.
+
+	aCanvas
+		 line: (self gateBoxANSI bottomLeft x @ self inputPorts second topRight y)
+		 to: (self gateBoxANSI bottomLeft x + 10 @ self inputPorts second center y)
+		 color: Color black.
+	aCanvas
+		 line: (self gateBoxANSI bottomLeft x @ self inputPorts second bottomRight y)
+		 to: (self gateBoxANSI bottomLeft x + 10 @ self inputPorts second center y)
+		 color: Color black

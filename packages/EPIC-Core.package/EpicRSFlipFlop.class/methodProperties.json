@@ -2,8 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"drawAsANSIOn:" : "JvD 5/26/2015 14:04",
+		"createInputPorts" : "JvD 6/2/2015 14:04",
+		"drawAsANSIOn:" : "JvD 6/2/2015 14:14",
 		"drawAsDINOn:" : "JvD 5/25/2015 19:18",
 		"drawAsEPICOn:" : "JvD 5/22/2015 17:42",
 		"drawAsIECOn:" : "JvD 5/25/2015 19:17",
-		"setState" : "JvD 5/26/2015 14:13" } }
+		"setState" : "JvD 6/2/2015 14:07" } }

@@ -27,5 +27,5 @@ testTFlipFlop
 	component inputPorts first value: true.
 	component inputPorts second value: true.
 	component simulateWith: #(true true).
-	self assert: [component state = false].
-	self assert: [component outputValues asArray = #(false true)]
+	self assert: [component state = true].
+	self assert: [component outputValues asArray = #(true false)].

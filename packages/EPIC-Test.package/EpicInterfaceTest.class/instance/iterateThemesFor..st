@@ -12,7 +12,6 @@ iterateThemesFor: aGate
 		lastImageForm := currentImageForm.
 		(EpicConfiguration instanceFor: morph ) componentStyle: style.
 		self shouldnt: [ currentImageForm := aGate imageForm  ] raise: Error.
-		"self assert: [ (currentImageForm bits = lastImageForm bits) not]."
-		].
+		"self assert: [ (currentImageForm bits = lastImageForm bits) not]."].
 	self assert: [originalImageForm bits = currentImageForm bits].
 	EpicConfiguration unregisterInstance: morph
