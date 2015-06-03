@@ -1,4 +1,4 @@
 running
 tearDown
 
-	self window delete
+	self window owner delete

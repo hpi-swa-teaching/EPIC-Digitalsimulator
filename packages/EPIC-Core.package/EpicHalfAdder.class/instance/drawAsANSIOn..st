@@ -6,22 +6,17 @@ drawAsANSIOn: aCanvas
 		frameRectangle: self gateBoxANSI color: Color black.
 		
 	aCanvas drawString: '1-bit' at: self gateBoxANSI center - (18@18).
-	aCanvas drawString: 'half' at: self gateBoxANSI center - (18@(5)).
+	aCanvas drawString: 'half' at: self gateBoxANSI center - (18@5).
       aCanvas drawString: 'adder' at: self gateBoxANSI center - (18@(-7)).
 	
 	self inputPorts do: [:eachPort |
 		aCanvas 
 			line: eachPort center 
 			to: (self gateBoxANSI left) @ (eachPort center y)
-			color: Color black
-	].
+			color: Color black].
 	
-	aCanvas 
-		line: self outputPorts first center 
-		to: (self gateBoxANSI right) @ (self outputPorts first center y)
-		color: Color black.
-
-	aCanvas 
-		line: self outputPorts second center 
-		to: (self gateBoxANSI right) @ (self outputPorts second center y)
-		color: Color black.
+	self outputPorts do: [:eachPort |
+		aCanvas 
+			line: eachPort center 
+			to: (self gateBoxANSI right) @ (eachPort center y)
+			color: Color black].
