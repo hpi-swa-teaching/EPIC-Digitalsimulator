@@ -2,13 +2,13 @@
 	"class" : {
 		"needBackup" : "ME 5/26/2015 14:30" },
 	"instance" : {
-		"backupPeferences" : "ME 5/26/2015 14:34",
+		"backupPeferences" : "ME 6/7/2015 16:45",
 		"keyboardListeners" : "ME 5/26/2015 14:44",
 		"keyboardListeners:" : "ME 5/26/2015 14:44",
 		"preferences" : "ME 5/26/2015 14:21",
 		"preferences:" : "ME 5/26/2015 14:21",
 		"resetPreferences" : "ME 5/26/2015 14:37",
-		"setUp" : "ME 5/26/2015 14:44",
+		"setUp" : "ME 6/7/2015 16:17",
 		"tearDown" : "ME 5/26/2015 14:45",
 		"testDynamicFullscreen" : "BM 6/15/2014 21:29",
 		"testMorphHiding" : "BM 6/15/2014 20:44",
