@@ -1,5 +1,6 @@
 running
 setUp
+
 	| lockDownScript |
 	EpicInterfaceTest new createXmlFile.
 	

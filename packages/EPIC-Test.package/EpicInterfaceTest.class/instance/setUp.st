@@ -1,6 +1,13 @@
 running
 setUp
 	
-	self createXmlFile.
-	self window: EPIC startProgram.
-	self window extent: 1276 @ 730
+	| lockDownScript |
+	EpicInterfaceTest new createXmlFile.
+	
+	self preferences: Dictionary new.	
+	self backupPeferences.	
+	self keyboardListeners: World activeHand keyboardListeners.
+	
+	lockDownScript := EpicLockDownScript new.
+	lockDownScript lockDown.
+	self window: lockDownScript program

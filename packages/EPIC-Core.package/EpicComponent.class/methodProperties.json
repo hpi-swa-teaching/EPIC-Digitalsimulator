@@ -28,6 +28,8 @@
 		"inputValues" : "f.z 6/3/2010 16:47:31.846",
 		"isCircuit" : "ak 6/17/2010 20:51:14.959",
 		"isDummy" : "f.z 7/1/2010 19:26:48.428",
+		"isInputPort:" : "ME 5/30/2015 16:02",
+		"isOutputPort:" : "ME 5/30/2015 16:03",
 		"isSelected" : "tb 5/27/2010 16:21:22.357",
 		"layoutPorts:onLineFrom:to:" : "tb 6/13/2010 14:59:05.616",
 		"outputPorts" : "tb 5/27/2010 15:32:28.543",

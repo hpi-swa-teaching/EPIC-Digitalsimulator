@@ -1,5 +1,5 @@
 running
 backupPeferences
 	
-	self class needBackup do: [ :prefrenceName |
+	EpicLockDownTest needBackup do: [ :prefrenceName |
 		self preferences at: prefrenceName put: (Preferences valueOfPreference:  prefrenceName ifAbsent: true)]
