@@ -1,0 +1,16 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"agent",
+		"graph",
+		"lastUpdate" ],
+	"name" : "EpicGraphVisualiser",
+	"pools" : [
+		 ],
+	"super" : "EpicStandardGate",
+	"type" : "normal" }
