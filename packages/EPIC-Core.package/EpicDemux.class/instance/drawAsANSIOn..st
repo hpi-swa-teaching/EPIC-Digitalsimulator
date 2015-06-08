@@ -22,7 +22,7 @@ drawAsANSIOn: aCanvas
 		xyratio := (self gateBoxANSI right - eachPort center x) / (self gateBoxANSI width).
 		aCanvas
 			line: eachPort center
-			to: (eachPort center x) @ (self gateBoxANSI bottom - (self gateBoxANSI height / 3 * xyratio))
+			to: (eachPort center x) @ (self gateBoxANSI bottom - (self gateBoxANSI height / 3 * xyratio) rounded)
 			color: Color black].
 
 	aCanvas 
