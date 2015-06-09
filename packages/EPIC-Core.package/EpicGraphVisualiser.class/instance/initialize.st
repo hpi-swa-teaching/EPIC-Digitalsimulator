@@ -1,5 +1,5 @@
 as yet unclassified
 initialize 
 	self graph: OrderedCollection new.
-	self graph addAll: #(false false false false false).
+	1 to: self class pointAmount do: [:i | self graph addLast: false].
 	super initialize.

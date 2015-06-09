@@ -1,6 +1,7 @@
 {
 	"class" : {
-		 },
+		"gateSize" : "JvD 6/9/2015 14:38",
+		"pointAmount" : "JvD 6/9/2015 14:36" },
 	"instance" : {
 		"addInputToGraph" : "JvD 6/9/2015 13:23",
 		"canvas" : "JvD 6/9/2015 13:26",
@@ -11,10 +12,10 @@
 		"drawGraphOn:" : "JvD 6/8/2015 15:32",
 		"graph" : "JvD 6/9/2015 13:22",
 		"graph:" : "JvD 6/7/2015 20:19",
-		"initialize" : "JvD 6/9/2015 13:25",
+		"initialize" : "JvD 6/9/2015 14:36",
 		"refreshGraphWith:" : "JvD 6/9/2015 13:37",
 		"simulateWith:" : "JvD 6/9/2015 13:23",
 		"step" : "JvD 6/9/2015 13:40",
-		"stepTime" : "JvD 6/9/2015 13:52",
+		"stepTime" : "JvD 6/9/2015 14:39",
 		"toPoints:" : "JvD 6/8/2015 15:35",
 		"wantsSteps" : "JvD 6/9/2015 13:21" } }
