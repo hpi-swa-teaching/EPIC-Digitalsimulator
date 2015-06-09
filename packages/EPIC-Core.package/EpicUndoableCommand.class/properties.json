@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicUndoableCommand",
+	"pools" : [
+		 ],
+	"super" : "EpicCommand",
+	"type" : "normal" }

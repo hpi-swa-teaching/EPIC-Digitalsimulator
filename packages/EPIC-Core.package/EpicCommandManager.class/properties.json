@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"commandStack" ],
+	"name" : "EpicCommandManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
