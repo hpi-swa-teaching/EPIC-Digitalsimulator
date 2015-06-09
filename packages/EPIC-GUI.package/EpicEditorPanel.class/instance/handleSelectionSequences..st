@@ -4,5 +4,4 @@ handleSelectionSequences: anEvent
 		ifTrue: [ self selectAllComponentsAndWires ].
 	(self deleteSequenceIsPressed: anEvent)
 		ifTrue: [ 
-			self commandManager executeCommand: (EpicDeleteCommand newFor: self)
-			 "self deleteSelectedComponents" ]
+			self commandManager executeCommand: (EpicDeleteCommand newFor: self)]
