@@ -1,3 +1,3 @@
 as yet unclassified
-interval
+stepTime
 	^ 500

@@ -1,3 +1,3 @@
 as yet unclassified
-agent
-	^ agent
+wantsSteps
+	^ true
