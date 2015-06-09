@@ -6,4 +6,5 @@ initialize
 		initializeCircuit;
 		initializeGrid;
 		showGrid: self grid;
-		showCircuit
+		showCircuit;
+		commandManager: EpicCommandManager new
