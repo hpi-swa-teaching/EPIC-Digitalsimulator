@@ -4,4 +4,5 @@ keyPressed: anEvent
 		handleActionSequences: anEvent;
 		handleSelectionSequences: anEvent;
 		handleCombiningSequences: anEvent;
-		handleCopyPasteSequences: anEvent
+		handleCopyPasteSequences: anEvent;
+		handleUndoSequences: anEvent
