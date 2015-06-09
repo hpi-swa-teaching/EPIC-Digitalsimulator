@@ -4,11 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ak 7/23/2010 22:18:12.489",
+	"commentStamp" : "",
 	"instvars" : [
-		"value" ],
-	"name" : "EpicClock",
+		"graph",
+		"canvas" ],
+	"name" : "EpicGraphVisualiser",
 	"pools" : [
 		 ],
-	"super" : "EpicSourceGate",
+	"super" : "EpicStandardGate",
 	"type" : "normal" }
