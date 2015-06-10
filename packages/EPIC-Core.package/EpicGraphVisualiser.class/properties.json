@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"graph",
-		"canvas" ],
+		"graph" ],
 	"name" : "EpicGraphVisualiser",
 	"pools" : [
 		 ],

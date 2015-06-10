@@ -4,7 +4,7 @@
 	"instance" : {
 		"drawOn:" : "f.z 7/23/2010 09:38:50.115",
 		"initialize" : "JvD 6/9/2015 14:06",
-		"simulateWith:" : "JvD 6/9/2015 14:07",
+		"simulate" : "JvD 6/10/2015 18:20",
 		"step" : "JvD 6/9/2015 14:05",
 		"stepTime" : "JvD 6/9/2015 14:05",
 		"toggle" : "JvD 6/9/2015 14:06",
