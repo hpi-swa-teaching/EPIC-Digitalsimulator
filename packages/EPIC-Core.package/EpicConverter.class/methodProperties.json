@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"gateSize" : "tg 6/18/2015 19:06" },
+	"instance" : {
+		"createInputPorts" : "tg 6/18/2015 19:05",
+		"createOutputPorts" : "tg 6/18/2015 19:05",
+		"drawAsEPICOn:" : "tg 6/18/2015 19:09",
+		"simulateWith:" : "tg 6/18/2015 19:06" } }

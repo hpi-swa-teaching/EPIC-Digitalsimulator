@@ -2,6 +2,7 @@ instance creation
 switchPanel
 	^ (self new)
 		color: Color white;
+		addComponent: EpicHexKeyboard  new;
 		addComponent: EpicClock new;
 		addComponent: EpicSwitch new;
 		addComponent: EpicPushButton new;

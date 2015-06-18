@@ -1,0 +1,29 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"zeroKey",
+		"oneKey",
+		"twoKey",
+		"threeKey",
+		"fourKey",
+		"fiveKey",
+		"sixKey",
+		"sevenKey",
+		"eightKey",
+		"nineKey",
+		"AKey",
+		"BKey",
+		"CKey",
+		"DKey",
+		"EKey",
+		"FKey" ],
+	"name" : "EpicHexKeyboard",
+	"pools" : [
+		 ],
+	"super" : "EpicSourceGate",
+	"type" : "normal" }

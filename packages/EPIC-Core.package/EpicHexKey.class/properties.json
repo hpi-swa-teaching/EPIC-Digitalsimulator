@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"value" ],
+	"name" : "EpicHexKey",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
