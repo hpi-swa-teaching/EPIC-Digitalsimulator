@@ -5,7 +5,7 @@ testDeleteCommand
 	self panel addComponent: EpicTestGate new.
 	oldComponentCount := self panel components size.
 	self panel selectAllComponentsAndWires.
-	self panel handleOutsideCommand: (EpicDeleteCommand newFor: self panel).
+	self panel handleOutsideCommand: self panel createDeleteCommand.
 	
 	self assert: [self panel components size = 0].
 	

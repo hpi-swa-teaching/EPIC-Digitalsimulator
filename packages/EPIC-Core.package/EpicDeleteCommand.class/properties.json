@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"previousCircuit" ],
+		"previousCircuit",
+		"components",
+		"wires" ],
 	"name" : "EpicDeleteCommand",
 	"pools" : [
 		 ],

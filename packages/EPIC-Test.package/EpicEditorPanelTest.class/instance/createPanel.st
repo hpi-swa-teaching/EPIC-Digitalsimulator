@@ -2,6 +2,6 @@ running
 createPanel
 
 	self panel: EpicEditorPanel new.
-	self panel commandManager: EpicCommandManager new
+	self panel commandManager: EpicCommandExecutor new
 	
 	

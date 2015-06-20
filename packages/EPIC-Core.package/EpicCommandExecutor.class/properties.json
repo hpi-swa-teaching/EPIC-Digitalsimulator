@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"receiver" ],
-	"name" : "EpicUndoableCommand",
+		"commandStack" ],
+	"name" : "EpicCommandExecutor",
 	"pools" : [
 		 ],
 	"super" : "Object",
