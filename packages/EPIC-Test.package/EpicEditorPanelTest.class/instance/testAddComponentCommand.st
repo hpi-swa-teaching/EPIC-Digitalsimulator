@@ -7,6 +7,6 @@ testAddComponentCommand
 	
 	self assert: [self panel components size = (oldComponentCount + 1)].
 	
-	self panel commandManager undoLastCommand.
+	self panel commandExecutor undoLastCommand.
 
 	self assert: [self panel components size = oldComponentCount]

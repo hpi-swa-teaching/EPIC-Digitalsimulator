@@ -6,4 +6,4 @@ mouseMove: anEvent onComponent: aComponent
 	self selectedObjects do: [:eachObject | 
 		eachObject position: eachObject position + delta].
 	self selectedWires do: [:eachWire | eachWire updateBounds].
-	self commandManager verifyPresumedCommand
+	self commandExecutor verifyPresumedCommand

@@ -9,6 +9,6 @@ testDeleteCommand
 	
 	self assert: [self panel components size = 0].
 	
-	self panel commandManager undoLastCommand.
+	self panel commandExecutor undoLastCommand.
 	
 	self assert: [self panel components size = oldComponentCount]

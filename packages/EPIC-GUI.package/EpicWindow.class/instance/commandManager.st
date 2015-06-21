@@ -1,4 +1,0 @@
-accessing
-commandManager
-
-	^ commandManager
