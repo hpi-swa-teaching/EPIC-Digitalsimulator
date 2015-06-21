@@ -14,6 +14,7 @@
 		"testAddComponentCommand" : "ME 6/9/2015 22:55",
 		"testBundledWireDetection" : "ME 5/22/2015 17:25",
 		"testDeleteCommand" : "ME 6/20/2015 16:25",
+		"testMoveComponentCommand" : "ME 6/21/2015 18:57",
 		"testPanelDeletion" : "f.z 6/25/2010 10:38:17.543",
 		"testPartialComponentDeletion" : "f.z 6/25/2010 10:38:27.55",
 		"testPartialSelection" : "f.z 6/15/2010 15:49:20.938",
