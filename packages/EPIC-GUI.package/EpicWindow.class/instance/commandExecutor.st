@@ -1,0 +1,4 @@
+accessing
+commandExecutor
+
+	^ commandManager
