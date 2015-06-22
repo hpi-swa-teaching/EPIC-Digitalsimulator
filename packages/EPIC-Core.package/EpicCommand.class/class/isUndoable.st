@@ -1,3 +1,0 @@
-Constants
-isUndoable
-	^false

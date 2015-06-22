@@ -1,5 +1,9 @@
 {
 	"class" : {
-		"isUndoable" : "ME 6/9/2015 14:39" },
+		"isUndoable" : "ME 6/9/2015 14:39",
+		"newFor:" : "ME 6/20/2015 15:26" },
 	"instance" : {
+		"execute" : "ME 6/20/2015 15:24",
+		"receiver" : "ME 6/20/2015 15:25",
+		"receiver:" : "ME 6/20/2015 15:25",
 		"undo" : "ME 6/9/2015 14:36" } }

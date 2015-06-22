@@ -1,4 +1,4 @@
-Instance creation
+Constants
 newFor: anObject
 
 	^ self new receiver: anObject

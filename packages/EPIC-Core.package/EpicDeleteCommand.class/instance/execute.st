@@ -1,5 +1,5 @@
 as yet unclassified
 execute
-	
-	self previousCircuit: self receiver baseCircuit asXMLDocument.
+
+	self gatherConnectedWires.
 	self receiver deleteSelectedComponents

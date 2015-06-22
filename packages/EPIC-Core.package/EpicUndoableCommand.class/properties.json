@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"receiver" ],
 	"name" : "EpicUndoableCommand",
 	"pools" : [
 		 ],
-	"super" : "EpicCommand",
+	"super" : "Object",
 	"type" : "normal" }

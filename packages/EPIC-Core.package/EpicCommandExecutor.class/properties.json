@@ -4,10 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "ME 6/20/2015 17:52",
 	"instvars" : [
-		"commandStack" ],
-	"name" : "EpicCommandManager",
+		"commandStack",
+		"presumedCommand" ],
+	"name" : "EpicCommandExecutor",
 	"pools" : [
 		 ],
 	"super" : "Object",
