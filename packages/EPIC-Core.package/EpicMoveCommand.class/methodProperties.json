@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"componentStartPositions" : "ME 6/20/2015 17:38",
+		"componentStartPositions:" : "ME 6/20/2015 17:38",
+		"components" : "ME 6/20/2015 17:38",
+		"components:" : "ME 6/20/2015 17:38",
+		"execute" : "ME 6/20/2015 17:39",
+		"fetchComponentPositions" : "ME 6/20/2015 18:06",
+		"fetchWireAnchors" : "ME 6/20/2015 18:04",
+		"initialize" : "ME 6/20/2015 18:17",
+		"resetComponents" : "ME 6/20/2015 18:29",
+		"resetWires" : "ME 6/20/2015 18:31",
+		"undo" : "ME 6/20/2015 18:31",
+		"verified" : "ME 6/20/2015 18:16",
+		"verified:" : "ME 6/20/2015 18:16",
+		"verify" : "ME 6/20/2015 18:17",
+		"wireStartAnchors" : "ME 6/20/2015 17:38",
+		"wireStartAnchors:" : "ME 6/20/2015 17:38",
+		"wires" : "ME 6/20/2015 17:38",
+		"wires:" : "ME 6/20/2015 17:38" } }

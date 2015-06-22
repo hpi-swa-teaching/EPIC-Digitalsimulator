@@ -1,0 +1,18 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"components",
+		"wires",
+		"componentStartPositions",
+		"wireStartAnchors",
+		"verified" ],
+	"name" : "EpicMoveCommand",
+	"pools" : [
+		 ],
+	"super" : "EpicUndoableCommand",
+	"type" : "normal" }
