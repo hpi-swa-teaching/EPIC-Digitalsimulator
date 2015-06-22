@@ -14,7 +14,7 @@
 		"snapToGrid",
 		"orthogonalWires",
 		"wireStub",
-		"commandExecutor" ],
+		"commandManager" ],
 	"name" : "EpicEditorPanel",
 	"pools" : [
 		 ],

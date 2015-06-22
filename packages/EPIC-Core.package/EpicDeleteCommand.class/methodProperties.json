@@ -2,12 +2,7 @@
 	"class" : {
 		"newFor:" : "ME 6/9/2015 23:56:44.945719" },
 	"instance" : {
-		"components" : "ME 6/20/2015 15:51",
-		"components:" : "ME 6/20/2015 15:51",
-		"execute" : "ME 6/20/2015 16:09",
-		"gatherConnectedWires" : "ME 6/20/2015 16:23",
+		"execute" : "ME 6/9/2015 20:28",
 		"previousCircuit" : "ME 6/9/2015 20:18",
 		"previousCircuit:" : "ME 6/9/2015 20:18",
-		"undo" : "ME 6/20/2015 17:04",
-		"wires" : "ME 6/20/2015 15:42",
-		"wires:" : "ME 6/20/2015 15:42" } }
+		"undo" : "ME 6/9/2015 20:51" } }

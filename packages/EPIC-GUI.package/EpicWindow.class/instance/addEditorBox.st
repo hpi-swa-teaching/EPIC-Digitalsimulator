@@ -5,4 +5,4 @@ addEditorBox
 		layoutFrame: self editorFrame;
 		hResizing: #spaceFill;
 		vResizing: #spaceFill).
-	self editorBox editorPanel commandExecutor: self commandExecutor
+	self editorBox editorPanel commandManager: self commandManager

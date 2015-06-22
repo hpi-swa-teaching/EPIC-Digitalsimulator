@@ -1,4 +1,4 @@
 command handling
 handleOutsideCommand: anEpicCommand
 
-	self commandExecutor executeCommand: anEpicCommand
+	self commandManager executeCommand: anEpicCommand

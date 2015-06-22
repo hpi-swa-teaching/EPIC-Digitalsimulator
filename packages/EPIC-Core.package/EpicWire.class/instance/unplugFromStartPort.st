@@ -1,4 +1,5 @@
 deletion
 unplugFromStartPort
 	self
-		unplugFromPort: self startPort
+		unplugFromPort: self startPort;
+		startPort: nil
