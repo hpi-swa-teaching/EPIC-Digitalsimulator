@@ -1,3 +1,3 @@
 accessing
 removeWire: aWire
-	self wires remove: aWire
+	self wires remove: aWire ifAbsent: []

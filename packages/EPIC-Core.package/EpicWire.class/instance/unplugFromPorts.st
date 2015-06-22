@@ -1,5 +1,5 @@
 deletion
 unplugFromPorts
-	self 
+	self
 		unplugFromStartPort;
 		unplugFromEndPort
