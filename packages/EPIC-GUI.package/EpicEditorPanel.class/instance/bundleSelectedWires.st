@@ -1,18 +1,19 @@
 combining
 bundleSelectedWires
-	| bundleMorph wireList selectedBundle|
+	| bundle wireList selectedBundle bundleCommand|
 	(self isUnbundledWireList: self selectedWires) ifTrue: [
-		bundleMorph := EpicBundleWire new bundle: self selectedWires.
-		bundleMorph eventHandler: self wireHandler.
-		bundleMorph eventHandler: self wireHandler.
-		bundleMorph when: #deleted send: #removeWire: to: self with: bundleMorph.
-		self addMorphNearBack: bundleMorph.
-		self triggerEvent: #wireAdded with: bundleMorph.
-		self addMorphFront: bundleMorph
-	].
+		bundleCommand := self createBundleCommand.
+		self commandExecutor executeCommand: bundleCommand.
+		bundle := bundleCommand bundledWire.
+		bundle eventHandler: self wireHandler.
+		bundle eventHandler: self wireHandler.
+		bundle when: #deleted send: #removeWire: to: self with: bundle.
+		self addMorphNearBack: bundle.
+		self triggerEvent: #wireAdded with: bundle.
+		self addMorphFront: bundle	].
+
 	(self isBundleWithWires: self selectedWires) ifTrue:[
 		selectedBundle := self selectedWires detect: [ :detected | detected isBundle ].
 		wireList := self selectedWires.
 		wireList remove: selectedBundle.
-		selectedBundle addWires: wireList.
-	]
+		selectedBundle addWires: wireList]

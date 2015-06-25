@@ -1,0 +1,16 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"components",
+		"wires",
+		"combinedCircuit" ],
+	"name" : "EpicCombineCommand",
+	"pools" : [
+		 ],
+	"super" : "EpicUndoableCommand",
+	"type" : "normal" }

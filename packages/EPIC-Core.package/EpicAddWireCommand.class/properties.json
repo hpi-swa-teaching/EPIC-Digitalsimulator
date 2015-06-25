@@ -1,0 +1,17 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"startPort",
+		"endPort",
+		"wire",
+		"anchorPoints" ],
+	"name" : "EpicAddWireCommand",
+	"pools" : [
+		 ],
+	"super" : "EpicUndoableCommand",
+	"type" : "normal" }

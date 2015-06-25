@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"combinedCircuit" : "AK 6/25/2015 16:45",
+		"combinedCircuit:" : "AK 6/25/2015 16:45",
+		"components" : "AK 6/25/2015 16:39",
+		"components:" : "AK 6/25/2015 16:39",
+		"execute" : "AK 6/25/2015 16:50",
+		"gatherConnectedWires" : "AK 6/25/2015 16:39",
+		"undo" : "AK 6/25/2015 17:17",
+		"wires" : "AK 6/25/2015 16:39",
+		"wires:" : "AK 6/25/2015 16:39" } }

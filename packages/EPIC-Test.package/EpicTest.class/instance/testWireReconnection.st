@@ -2,6 +2,7 @@ port & wire testing
 testWireReconnection
 	| panel firstNot lastNot|
 	panel := EpicEditorPanel new.
+	panel commandExecutor: EpicCommandExecutor new.
 	1 to: 4 do: [ :I |
 		panel addComponent: EpicNot new
 	].

@@ -1,8 +1,8 @@
 bundling
 bundle: someWires
-	(someWires size > 0) ifTrue: [
-		self wires: someWires;
+	someWires ifNotEmpty: [
+		self 
+			wires: someWires;
 		 	calculateStartAndEnd;
-			emitChanges.
-		self generateDrawAnchors
-	]
+			emitChanges;
+			generateDrawAnchors]
