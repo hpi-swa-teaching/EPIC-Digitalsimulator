@@ -7,7 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"components",
-		"wires" ],
+		"wires",
+		"bundles",
+		"wiresInBundles" ],
 	"name" : "EpicDeleteCommand",
 	"pools" : [
 		 ],

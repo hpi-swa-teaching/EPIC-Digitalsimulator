@@ -1,5 +1,8 @@
 execution
 execute
 
-	self gatherConnectedWires.
+	self 
+		gatherConnectedWires;
+		gatherBundledWires;
+		gatherWiresFromBundles.
 	self receiver deleteSelectedComponents
