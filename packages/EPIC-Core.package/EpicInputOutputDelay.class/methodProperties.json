@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createInputPorts" : "JT 6/22/2015 13:21",
+		"drawAsANSIOn:" : "JT 6/22/2015 13:21",
+		"drawAsDINOn:" : "JT 6/22/2015 13:30",
+		"drawAsEPICOn:" : "JT 6/22/2015 13:21",
+		"drawAsIECOn:" : "JT 6/22/2015 13:21",
+		"initialize" : "JT 6/22/2015 13:21",
+		"millisecondsToWait" : "JT 6/22/2015 13:23",
+		"simulateWith:" : "JT 6/22/2015 13:21",
+		"toggle" : "JT 6/22/2015 13:23",
+		"value" : "JT 6/22/2015 13:22",
+		"value:" : "JT 6/22/2015 13:22" } }
