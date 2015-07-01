@@ -1,7 +1,7 @@
 drawing
 addWires: aWireList
 	|newWires|
-	self halt.
+
 	newWires := self wires copy.
 	newWires addAll: aWireList.
 	

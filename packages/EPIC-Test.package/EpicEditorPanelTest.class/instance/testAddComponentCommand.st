@@ -1,4 +1,4 @@
-deletion testing
+command testing
 testAddComponentCommand
 
 	| oldComponentCount |
