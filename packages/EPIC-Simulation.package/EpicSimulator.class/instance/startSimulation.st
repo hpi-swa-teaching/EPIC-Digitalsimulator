@@ -1,4 +1,7 @@
 simulation control
 startSimulation
-	self agent startConcurrentInLoop: [self simulationLoop].
+	self currentlyRunning: true.
+	self components do: [:i | 
+		i startSimulating.
+		i simulate].
 	self triggerEvent: #stateChanged

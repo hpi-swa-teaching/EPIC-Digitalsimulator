@@ -1,5 +1,6 @@
 {
 	"class" : {
+		"new" : "JvD 7/1/2015 14:04",
 		"of:when:" : "tb 6/11/2010 18:17:40.383" },
 	"instance" : {
 		"add:" : "tb 6/11/2010 18:00:14.209",
@@ -11,4 +12,4 @@
 		"restoredInputValues" : "tb 6/11/2010 17:59:14.1",
 		"timeStamp" : "tb 6/11/2010 18:00:21.091",
 		"timeStamp:" : "tb 6/11/2010 18:00:21.142",
-		"triggerSimulation" : "tb 6/11/2010 18:31:09.244" } }
+		"triggerSimulation" : "JvD 7/1/2015 14:36" } }

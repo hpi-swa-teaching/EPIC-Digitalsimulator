@@ -11,7 +11,8 @@
 		"simulationTime",
 		"agent",
 		"simulationQueue",
-		"queueMutex" ],
+		"queueMutex",
+		"currentlyRunning" ],
 	"name" : "EpicSimulator",
 	"pools" : [
 		 ],
