@@ -14,7 +14,7 @@
 		"testAddComponentCommand" : "ME 6/21/2015 19:01",
 		"testAddWireCommand" : "ME 7/1/2015 15:22",
 		"testBundleCommand" : "ME 7/1/2015 15:37",
-		"testBundledWireDetection" : "ME 5/22/2015 17:25",
+		"testBundledWireDetection" : "ME 7/4/2015 21:28",
 		"testCombineComponentCommand" : "ME 7/1/2015 14:50",
 		"testDeleteCommand" : "ME 7/1/2015 14:42",
 		"testMoveComponentCommand" : "ME 6/21/2015 19:01",
@@ -22,6 +22,6 @@
 		"testPartialComponentDeletion" : "f.z 6/25/2010 10:38:27.55",
 		"testPartialSelection" : "f.z 6/15/2010 15:49:20.938",
 		"testRemainingComponents" : "f.z 6/25/2010 10:39:08.557",
-		"testSeveralBundlesDetection" : "GW 7/21/2013 17:17:30.469",
+		"testSeveralBundlesDetection" : "ME 7/4/2015 21:28",
 		"testTotalComponentDeletion" : "f.z 6/25/2010 10:39:14.636",
 		"testTotalSelection" : "ak 6/17/2010 17:50:38.738" } }

@@ -1,5 +1,6 @@
 drawing
 drawConnectorsOn: aCanvas
+	"TODO wenn alle kabel am gleichen Punkt starten/enden kann man das hier auch weglassen"
 	|diff1 diff2 len1 len2 vector1 vector2|
 	
 	vector1 := (self anchorPoints at: 2) point - self startPoint.

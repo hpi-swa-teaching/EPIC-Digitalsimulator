@@ -1,3 +1,3 @@
 accessing
 startBundlePoint
-	^ (self anchorPoints at: 1) point
+	^ (self anchorPoints first) point

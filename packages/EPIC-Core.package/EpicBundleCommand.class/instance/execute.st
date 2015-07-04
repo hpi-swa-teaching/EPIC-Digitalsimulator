@@ -2,4 +2,4 @@ accessing
 execute
 
 	self collectAnchorPoints.
-	self bundledWire: (EpicBundleWire new bundle: self wires)
+	self bundledWire: (EpicBundleWire new addWires: self wires)

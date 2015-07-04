@@ -1,5 +1,6 @@
 drawing
 endOffsetForNumber: aNumber OutOf: count
+	"TODO vielleicht entfernen? Alle kabel an einem Punkt starten lassen?"
 	|vector diff len|
 	
 	vector := self endPoint - (self anchorPoints at: (self anchorPoints size)-1) point.

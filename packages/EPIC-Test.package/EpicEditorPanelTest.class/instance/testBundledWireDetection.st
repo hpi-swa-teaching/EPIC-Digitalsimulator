@@ -4,7 +4,7 @@ testBundledWireDetection
 	
 	wire1 := self getWire.
 	bundleWireList := OrderedCollection new add: wire1; yourself.
-	bundle := EpicBundleWire new bundle: bundleWireList.
+	bundle := EpicBundleWire new addWires: bundleWireList.
 	
 	wireList := OrderedCollection new.
 	wireList add: self getWire.

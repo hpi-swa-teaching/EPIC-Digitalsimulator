@@ -3,7 +3,7 @@ testWireBundle
 	| wireList bundle startBundlePoint endBundlePoint |
 	wireList := self getBundleSetup.
 	
-	bundle := EpicBundleWire new bundle: wireList.
+	bundle := EpicBundleWire new addWires: wireList.
 	
 	startBundlePoint := bundle startBundlePoint.
 	endBundlePoint := bundle endBundlePoint.

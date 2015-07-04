@@ -1,3 +1,3 @@
 drawing
 boundsInset
-	^ self class connectorLength*2
+	^ self class connectorLength * 2
