@@ -1,3 +1,4 @@
 selection
 isBundle
+
 	^true.

@@ -1,3 +1,4 @@
-drawing
+accessing
 startPoint
+
 	^self startBundlePoint 

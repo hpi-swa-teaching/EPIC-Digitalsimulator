@@ -4,8 +4,8 @@ testSeveralBundlesDetection
 	
 	wire1 := self getWire.
 	wire2 := self getWire.
-	bundle1 := EpicBundleWire new bundle: {wire1} asOrderedCollection.
-	bundle2 := EpicBundleWire new bundle: {wire2} asOrderedCollection.
+	bundle1 := EpicBundleWire new addWires: {wire1} asOrderedCollection.
+	bundle2 := EpicBundleWire new addWires: {wire2} asOrderedCollection.
 	
 	wireList := OrderedCollection new.
 	wireList

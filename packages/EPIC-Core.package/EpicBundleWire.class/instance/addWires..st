@@ -1,17 +1,15 @@
-drawing
+bundling
 addWires: aWireList
-	|newWires|
+
+	aWireList do: [ :eachWire | eachWire addToBundle: self].
+	self wires addAll: aWireList.
 	
-	newWires := self wires copy.
-	newWires addAll: aWireList.
+	self
+		setBundleStartAndEnd;
+		updateIncomingWireAnchors;
+		updateOutgoingWireAnchors.
+
+	self wires do: [ :eachWire |
+		eachWire updateBounds].
 	
-	self startWires: (newWires sorted: [ :a :b|
-		(a startPoint y) <= (b startPoint y) ]).
-	self endWires: (newWires sorted: [ :a :b|
-		(a endPoint y) <= (b endPoint y) ]).
-	
-	self reorderExistingWiresFor: newWires size.
-	self orderNewWires: aWireList for: newWires size.
-	
-	self wires: newWires.
 	self deselect

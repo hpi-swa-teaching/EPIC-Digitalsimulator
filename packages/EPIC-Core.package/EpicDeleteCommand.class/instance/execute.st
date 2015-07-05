@@ -1,5 +1,9 @@
-as yet unclassified
+execution
 execute
 
-	self gatherConnectedWires.
-	self receiver deleteSelectedComponents
+	self 
+		gatherConnectedWires;
+		gatherBundledWires;
+		gatherWiresFromBundles;
+		gatherUnselectedBundlesToDelete;
+		deleteAllComponents

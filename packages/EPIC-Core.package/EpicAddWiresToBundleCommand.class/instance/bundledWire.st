@@ -1,0 +1,4 @@
+accessing
+bundledWire
+
+	^ bundledWire

@@ -1,8 +1,5 @@
 running
 addComponents
-	(self panel)
-		addComponent: self createTestComponent;
-		addComponent: self createTestComponent;
-		addComponent: self createTestComponent;
-		addComponent: self createTestComponent;
-		addComponent: self createTestComponent
+	
+	1 to: self class initialComponentCount do: [ :i |
+		self panel addComponent: self createTestComponent]

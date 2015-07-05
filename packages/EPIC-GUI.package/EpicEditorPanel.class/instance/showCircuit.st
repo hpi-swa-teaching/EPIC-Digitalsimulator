@@ -1,11 +1,7 @@
 circuit stacking
 showCircuit
-	self 
-		hideCurrentlyShownCircuit;
-		updateCircuitPosition.
+	self hideCurrentlyShownCircuit..
 	self circuit innerPorts do: [:eachPort | 
-		self addInnerPort: eachPort
-	].
+		self addInnerPort: eachPort].
 	self components do: [:eachComponent | 
-		self showComponent: eachComponent
-	]
+		self showComponent: eachComponent]

@@ -5,7 +5,7 @@ tryToConnectWireStub: anEvent
 			ifNotNilDo: [ :targetPort | 
 				(stub canConnectTo: targetPort)
 					ifTrue: [ 
-						self addWire: (stub connectTo: targetPort).
+						self addWire: (stub connectTo: targetPort on: self).
 						self removeWireStub 
 					] 
 			] 

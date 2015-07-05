@@ -2,12 +2,19 @@
 	"class" : {
 		"newFor:" : "ME 6/9/2015 23:56:44.945719" },
 	"instance" : {
+		"bundles" : "AK 6/27/2015 16:01",
+		"bundles:" : "AK 6/27/2015 16:01",
+		"checkBundleDeletion:" : "AK 7/5/2015 13:49",
 		"components" : "ME 6/20/2015 15:51",
 		"components:" : "ME 6/20/2015 15:51",
-		"execute" : "ME 6/20/2015 16:09",
+		"deleteAllComponents" : "AK 7/5/2015 13:22",
+		"execute" : "AK 7/5/2015 13:46",
+		"gatherBundledWires" : "AK 6/27/2015 16:01",
 		"gatherConnectedWires" : "ME 6/20/2015 16:23",
-		"previousCircuit" : "ME 6/9/2015 20:18",
-		"previousCircuit:" : "ME 6/9/2015 20:18",
-		"undo" : "ME 6/20/2015 17:04",
+		"gatherUnselectedBundlesToDelete" : "AK 7/5/2015 13:47",
+		"gatherWiresFromBundles" : "AK 6/27/2015 16:05",
+		"undo" : "AK 7/5/2015 13:54",
 		"wires" : "ME 6/20/2015 15:42",
-		"wires:" : "ME 6/20/2015 15:42" } }
+		"wires:" : "ME 6/20/2015 15:42",
+		"wiresInBundles" : "AK 6/27/2015 16:03",
+		"wiresInBundles:" : "AK 6/27/2015 16:03" } }

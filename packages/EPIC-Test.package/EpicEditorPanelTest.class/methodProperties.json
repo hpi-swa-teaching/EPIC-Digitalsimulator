@@ -1,8 +1,8 @@
 {
 	"class" : {
-		 },
+		"initialComponentCount" : "ME 7/1/2015 14:44" },
 	"instance" : {
-		"addComponents" : "f.z 6/15/2010 15:49:58.337",
+		"addComponents" : "ME 7/1/2015 14:49",
 		"createPanel" : "ME 6/21/2015 19:02",
 		"createTestComponent" : "f.z 6/15/2010 15:32:16.062",
 		"getWire" : "GW 7/1/2013 20:00:30.981",
@@ -12,13 +12,17 @@
 		"setUp" : "ME 5/22/2015 17:22",
 		"tearDown" : "ME 6/9/2015 22:45",
 		"testAddComponentCommand" : "ME 6/21/2015 19:01",
-		"testBundledWireDetection" : "ME 5/22/2015 17:25",
-		"testDeleteCommand" : "ME 6/21/2015 19:01",
+		"testAddWireCommand" : "ME 7/1/2015 15:22",
+		"testAddWireToBundleCommand" : "AK 7/5/2015 14:24",
+		"testBundleCommand" : "ME 7/1/2015 15:37",
+		"testBundledWireDetection" : "ME 7/4/2015 21:28",
+		"testCombineComponentCommand" : "ME 7/1/2015 14:50",
+		"testDeleteCommand" : "ME 7/1/2015 14:42",
 		"testMoveComponentCommand" : "ME 6/21/2015 19:01",
 		"testPanelDeletion" : "f.z 6/25/2010 10:38:17.543",
 		"testPartialComponentDeletion" : "f.z 6/25/2010 10:38:27.55",
 		"testPartialSelection" : "f.z 6/15/2010 15:49:20.938",
 		"testRemainingComponents" : "f.z 6/25/2010 10:39:08.557",
-		"testSeveralBundlesDetection" : "GW 7/21/2013 17:17:30.469",
+		"testSeveralBundlesDetection" : "ME 7/4/2015 21:28",
 		"testTotalComponentDeletion" : "f.z 6/25/2010 10:39:14.636",
 		"testTotalSelection" : "ak 6/17/2010 17:50:38.738" } }
