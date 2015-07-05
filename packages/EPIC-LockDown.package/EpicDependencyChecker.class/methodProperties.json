@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addClassIfUnchecked:" : "ME 7/6/2015 00:03",
+		"allClasses" : "ME 7/6/2015 00:16",
+		"allEpicClasses" : "ME 7/5/2015 22:21",
+		"allPackages" : "ME 7/6/2015 00:18",
+		"allRequiredClasses" : "ME 7/6/2015 00:08",
+		"allRequiredPackages" : "ME 7/6/2015 00:10",
+		"checkClassesUntilDone" : "ME 7/6/2015 00:04",
+		"checkedClasses" : "ME 7/5/2015 23:40",
+		"checkedClasses:" : "ME 7/5/2015 23:17",
+		"epicSubclassesFrom:" : "ME 7/5/2015 22:32",
+		"gatherAllRefrencedClassesOf:" : "ME 7/5/2015 23:45",
+		"gatherAllSuperclassesOf:" : "ME 7/6/2015 00:04",
+		"gatherClassesFromLiterals:" : "ME 7/6/2015 00:03",
+		"initialize" : "ME 7/6/2015 00:07",
+		"subclassesFrom:" : "ME 7/6/2015 00:16",
+		"uncheckedClasses" : "ME 7/5/2015 23:17",
+		"uncheckedClasses:" : "ME 7/5/2015 23:17",
+		"workOffUncheckedClasses" : "ME 7/6/2015 00:00" } }

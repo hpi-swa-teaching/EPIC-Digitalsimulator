@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-LockDown",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"uncheckedClasses",
+		"checkedClasses" ],
+	"name" : "EpicDependencyChecker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
