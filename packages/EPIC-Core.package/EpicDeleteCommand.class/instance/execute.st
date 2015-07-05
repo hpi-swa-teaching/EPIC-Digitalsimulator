@@ -4,5 +4,6 @@ execute
 	self 
 		gatherConnectedWires;
 		gatherBundledWires;
-		gatherWiresFromBundles.
-	self receiver deleteSelectedComponents
+		gatherWiresFromBundles;
+		gatherUnselectedBundlesToDelete;
+		deleteAllComponents

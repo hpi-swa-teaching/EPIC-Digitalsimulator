@@ -6,6 +6,7 @@ undo
 	self wires do: [ :eachWire |
 		self receiver addWire: eachWire.
 		eachWire setStartPort: eachWire startPort.
-		eachWire setEndPort: eachWire endPort]
-
-	"TODO: Hier müssten die Bundle wiederhergestellt werden"
+		eachWire setEndPort: eachWire endPort].
+	self bundles do: [ :eachBundle |
+		self receiver addBundle: eachBundle.
+		eachBundle readdAllWires]

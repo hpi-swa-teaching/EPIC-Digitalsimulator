@@ -1,11 +1,11 @@
-as yet unclassified
+bundling
 addWires: aWireList
 
 	aWireList do: [ :eachWire | eachWire addToBundle: self].
 	self wires addAll: aWireList.
 	
 	self
-		calculateStartAndEnd;
+		setBundleStartAndEnd;
 		updateIncomingWireAnchors;
 		updateOutgoingWireAnchors.
 

@@ -13,6 +13,7 @@
 		"tearDown" : "ME 6/9/2015 22:45",
 		"testAddComponentCommand" : "ME 6/21/2015 19:01",
 		"testAddWireCommand" : "ME 7/1/2015 15:22",
+		"testAddWireToBundleCommand" : "AK 7/5/2015 14:24",
 		"testBundleCommand" : "ME 7/1/2015 15:37",
 		"testBundledWireDetection" : "ME 7/4/2015 21:28",
 		"testCombineComponentCommand" : "ME 7/1/2015 14:50",

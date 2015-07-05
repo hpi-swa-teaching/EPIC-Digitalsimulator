@@ -1,3 +1,4 @@
-initialization
+drawing
 wireColor
+
 	^Color black

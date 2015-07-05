@@ -1,9 +1,6 @@
-drawing
+deletion
 delete
 
 	self wires do: [:eachWire |
-		eachWire resetAnchorPoints.
-		eachWire generateDrawAnchors.
-		eachWire updateBounds.
-		eachWire includingBundles remove: self].
+		eachWire removeFromBundle: self].
 	super delete

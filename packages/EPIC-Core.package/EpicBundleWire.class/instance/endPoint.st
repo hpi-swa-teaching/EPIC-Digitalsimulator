@@ -1,3 +1,4 @@
-drawing
+accessing
 endPoint
+
 	^self endBundlePoint 
