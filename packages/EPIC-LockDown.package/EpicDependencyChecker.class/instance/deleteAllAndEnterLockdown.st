@@ -2,4 +2,4 @@ as yet unclassified
 deleteAllAndEnterLockdown
 
 	self deleteAllNonRequiredPackages.
-	EpicLockDownScript new lockDown.
+	EpicLockDownScript new lockDownAndShowSaveDialog: true
