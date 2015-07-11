@@ -1,4 +1,4 @@
-as yet unclassified
+class search
 gatherClassesFromLiterals: aCompiledMethod
 
 	aCompiledMethod literals do: [ :eachLiteral |

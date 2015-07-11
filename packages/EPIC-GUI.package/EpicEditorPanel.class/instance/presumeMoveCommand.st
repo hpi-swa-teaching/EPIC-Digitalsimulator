@@ -1,4 +1,4 @@
-event handling
+command handling
 presumeMoveCommand
 
 	| moveCommand |

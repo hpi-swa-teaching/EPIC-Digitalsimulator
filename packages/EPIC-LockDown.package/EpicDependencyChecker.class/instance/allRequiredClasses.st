@@ -1,4 +1,4 @@
-as yet unclassified
+class search
 allRequiredClasses
 
 	self uncheckedClasses 

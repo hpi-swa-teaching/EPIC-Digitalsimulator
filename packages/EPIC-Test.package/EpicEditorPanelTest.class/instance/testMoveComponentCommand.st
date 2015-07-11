@@ -12,9 +12,9 @@ testMoveComponentCommand
 	self panel commandExecutor verifyPresumedCommand.
 	self panel commandExecutor executePresumedCommand.
 
-	self assert: ( startPosition =  aComponent position ) not.
+	self assert: (startPosition ~=  aComponent position).
 
 	self panel commandExecutor undoLastCommand.
 
-	self assert: ( startPosition =  aComponent position )
+	self assert: (startPosition =  aComponent position)
 

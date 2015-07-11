@@ -1,2 +1,4 @@
 command handling
 execute
+
+	^ self

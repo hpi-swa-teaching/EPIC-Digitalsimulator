@@ -1,4 +1,4 @@
-as yet unclassified
+automation
 checkClassesUntilDone
 
 	[self uncheckedClasses isEmpty] whileFalse: [

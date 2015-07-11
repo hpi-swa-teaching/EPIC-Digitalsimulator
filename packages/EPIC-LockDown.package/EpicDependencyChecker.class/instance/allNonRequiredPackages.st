@@ -1,4 +1,4 @@
-as yet unclassified
+package search
 allNonRequiredPackages
 
 	^ self allPackages difference: self allRequiredPackages

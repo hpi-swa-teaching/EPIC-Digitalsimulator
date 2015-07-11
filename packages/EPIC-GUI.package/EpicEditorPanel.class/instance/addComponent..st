@@ -4,8 +4,7 @@ addComponent: aComponent
 		realComponent := (self parseCircuitFrom: aComponent xmlDocument).
 		realComponent position: aComponent position.
 		self addComponent: realComponent.
-		^ self
-	].
+		^ self].
 	super addComponent: aComponent.
 	self circuit addSubComponent: aComponent.
 	self snapToGridIfAppropriate: aComponent

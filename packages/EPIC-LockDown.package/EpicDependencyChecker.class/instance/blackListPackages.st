@@ -1,4 +1,4 @@
-as yet unclassified
+blacklists
 blackListPackages
 
 	^#('SwaLint-Core-UserInterface' 'SMBase-installer')

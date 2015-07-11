@@ -1,4 +1,4 @@
-as yet unclassified
+class search
 gatherAllClassesOf: someClasses
 
 	someClasses do: [ :eachClass |

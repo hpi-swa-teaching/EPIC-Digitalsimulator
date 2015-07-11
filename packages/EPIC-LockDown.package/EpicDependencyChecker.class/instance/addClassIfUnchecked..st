@@ -1,4 +1,4 @@
-as yet unclassified
+class search
 addClassIfUnchecked: aClass
 
 	(self checkedClasses includes: aClass) ifFalse: [

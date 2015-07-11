@@ -1,4 +1,4 @@
-as yet unclassified
+package search
 allPackages
 
 	| packages |

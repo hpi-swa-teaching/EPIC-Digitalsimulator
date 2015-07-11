@@ -1,4 +1,4 @@
-as yet unclassified
+class search
 allClasses
 
 	^ self subclassesFrom: ProtoObject

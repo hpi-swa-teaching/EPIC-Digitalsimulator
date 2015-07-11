@@ -1,4 +1,4 @@
-as yet unclassified
+package deletion
 deleteAllNonRequiredPackages
 
 	(self confirm: 'Are you sure you want to

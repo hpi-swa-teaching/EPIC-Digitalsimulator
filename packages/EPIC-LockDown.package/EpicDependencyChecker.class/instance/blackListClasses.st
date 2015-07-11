@@ -1,4 +1,4 @@
-as yet unclassified
+blacklists
 blackListClasses
 
 	^ self allClasses select: [ :eachClass |
