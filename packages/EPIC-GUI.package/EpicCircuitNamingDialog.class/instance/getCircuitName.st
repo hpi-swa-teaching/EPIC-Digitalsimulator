@@ -6,4 +6,4 @@ getCircuitName
 		whileFalse: [self displayError.
 			circuitName := self askOnceForCircuitName
 		].
-	^ circuitName.
+	^ circuitName

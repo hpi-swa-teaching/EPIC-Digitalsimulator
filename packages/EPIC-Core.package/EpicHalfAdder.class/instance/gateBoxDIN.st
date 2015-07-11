@@ -1,3 +1,3 @@
 geometry
 gateBoxDIN
-	^ (self bounds insetBy: 9@2).
+	^ (self bounds insetBy: 9@2)

@@ -1,3 +1,3 @@
 selection
 isBundle
-	^false.
+	^false

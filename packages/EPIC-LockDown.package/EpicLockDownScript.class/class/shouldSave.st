@@ -1,4 +1,4 @@
 options
 shouldSave
 
-	^ false.
+	^ false

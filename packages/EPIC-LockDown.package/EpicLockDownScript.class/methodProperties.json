@@ -1,14 +1,15 @@
 {
 	"class" : {
-		"debugStackTreshold" : "lk 7/25/2014 15:09",
-		"defaultStartingClass" : "lk 7/25/2014 15:10",
-		"logfileMode" : "lk 7/25/2014 15:09",
-		"newWith:" : "lk 7/25/2014 15:10",
-		"shouldSave" : "lk 7/25/2014 15:09" },
+		"debugStackTreshold" : "ME 7/11/2015 14:49",
+		"defaultStartingClass" : "ME 7/11/2015 14:49",
+		"logfileMode" : "ME 7/11/2015 14:49",
+		"newWith:" : "ME 7/11/2015 14:49",
+		"shouldSave" : "ME 7/11/2015 14:49" },
 	"instance" : {
 		"addPreferences" : "lk 7/25/2014 14:34",
 		"blueButtonDown:" : "lk 6/8/2014 20:16",
 		"defaultAction" : "BM 7/25/2014 19:51",
+		"deletePackagesAndlockDown" : "ME 7/11/2015 14:40",
 		"deploy" : "BM 7/1/2014 21:15",
 		"disableDockingBarShortcuts" : "lk 7/25/2014 14:36",
 		"handleMouseDown:" : "lk 6/8/2014 19:57",
@@ -20,10 +21,10 @@
 		"lockDown" : "ME 7/7/2015 16:07",
 		"lockDownAndShowSaveDialog:" : "ME 7/7/2015 16:07",
 		"ownerChanged" : "lk 6/8/2014 21:04",
-		"program" : "BM 7/25/2014 19:39",
+		"program" : "ME 7/11/2015 14:48",
 		"program:" : "lk 6/4/2014 13:15",
 		"quitSession" : "lk 7/25/2014 14:43",
 		"setPreferences" : "lk 7/25/2014 14:40",
-		"startingClass" : "lk 7/25/2014 14:50",
+		"startingClass" : "ME 7/11/2015 14:48",
 		"startingClass:" : "lk 7/25/2014 14:50",
-		"yellowButtonActivity:" : "lk 7/25/2014 14:43" } }
+		"yellowButtonActivity:" : "ME 7/11/2015 14:49" } }

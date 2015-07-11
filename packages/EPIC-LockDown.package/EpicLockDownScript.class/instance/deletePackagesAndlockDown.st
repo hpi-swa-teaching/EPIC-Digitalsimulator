@@ -1,0 +1,5 @@
+deploying
+deletePackagesAndlockDown
+
+	EpicDependencyChecker new deleteAllNonRequiredPackages.
+	self lockDownAndShowSaveDialog: true

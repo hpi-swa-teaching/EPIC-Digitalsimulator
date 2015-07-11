@@ -1,4 +1,4 @@
 method-templates
 yellowButtonActivity: shiftState
 
-	^ self.
+	^ self

@@ -1,3 +1,3 @@
 naming
 getPortName
-	^ self askOnceForCircuitName.
+	^ self askOnceForCircuitName

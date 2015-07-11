@@ -1,4 +1,4 @@
 options
 logfileMode
 
-	^ false.
+	^ false

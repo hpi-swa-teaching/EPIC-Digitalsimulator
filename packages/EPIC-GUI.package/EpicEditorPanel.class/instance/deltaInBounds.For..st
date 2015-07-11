@@ -9,4 +9,4 @@ deltaInBounds: aDelta For: aSingleComponent
 	(delta y > maxDelta y)ifTrue: [ delta := delta x @ maxDelta y].
 	(delta x <= lowDelta x)ifTrue: [ delta := 1 @ delta y].
 	(delta y <= lowDelta y)ifTrue: [ delta := delta x @ 1].
-	^delta.
+	^delta
