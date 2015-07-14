@@ -2,6 +2,6 @@ simulation testing
 testSimulationDoubleStart
 	| simulator |
 	simulator:= EpicSimulator new.
-	self should: [simulator startSimulation] raise: Error.
+	self should: [simulator initialStartSimulation] raise: Error.
 	
 	simulator stopSimulation.

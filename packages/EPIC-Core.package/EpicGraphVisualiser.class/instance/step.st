@@ -1,4 +1,5 @@
 as yet unclassified
 step
-	self addInputToGraph.
-	self layoutChanged
+	self isSimulating ifTrue: [
+		self addInputToGraph.
+		self layoutChanged]

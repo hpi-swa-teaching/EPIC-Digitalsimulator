@@ -1,3 +1,4 @@
 simulation status
 isStopped
-	^ self agent isIdle
+	"^ self agent isIdle"
+	^self currentlyRunning not

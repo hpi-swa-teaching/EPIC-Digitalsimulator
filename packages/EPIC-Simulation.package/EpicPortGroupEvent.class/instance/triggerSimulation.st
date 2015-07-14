@@ -1,3 +1,4 @@
 simulation
 triggerSimulation
-	self affectedComponent simulateWith: self restoredInputValues
+	self affectedComponent isSimulating ifTrue: [
+		self affectedComponent simulateWith: self restoredInputValues]
