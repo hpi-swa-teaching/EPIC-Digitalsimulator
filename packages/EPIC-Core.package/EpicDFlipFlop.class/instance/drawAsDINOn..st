@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 drawAsDINOn: aCanvas
 	
 	self drawAsEPICOn: aCanvas

@@ -1,4 +1,4 @@
-as yet unclassified
+simulation
 setState
 	(self inputValues fifth and: self clockState not) ifTrue:
 		[1 to: 4 do: [:i |

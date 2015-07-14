@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 state: anObject
 	state := anObject

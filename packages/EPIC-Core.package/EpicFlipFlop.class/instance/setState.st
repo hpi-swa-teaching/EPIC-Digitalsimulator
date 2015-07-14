@@ -1,3 +1,3 @@
-as yet unclassified
+simulation
 setState
 	self subclassResponsibility

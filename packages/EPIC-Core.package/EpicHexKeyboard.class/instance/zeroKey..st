@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 zeroKey: anObject
 	zeroKey := anObject

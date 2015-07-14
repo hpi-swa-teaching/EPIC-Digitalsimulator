@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 sevenKey: anObject
 	sevenKey := anObject

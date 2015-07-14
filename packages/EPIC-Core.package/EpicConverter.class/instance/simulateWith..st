@@ -1,4 +1,4 @@
-as yet unclassified
+simulation
 simulateWith: inputValues
 	|a b c d|
 	a:= inputValues first. 

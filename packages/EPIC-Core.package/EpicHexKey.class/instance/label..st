@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 label: anObject
 	label := anObject

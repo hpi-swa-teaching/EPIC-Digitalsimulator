@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 drawAsIECOn: aCanvas
 	self drawBoxOn: aCanvas.
 	self drawGraphOn: aCanvas

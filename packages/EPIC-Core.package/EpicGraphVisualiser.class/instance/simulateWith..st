@@ -1,3 +1,3 @@
-as yet unclassified
+simulation
 simulateWith: inputValues
 	self outputPorts first setValue: inputValues first

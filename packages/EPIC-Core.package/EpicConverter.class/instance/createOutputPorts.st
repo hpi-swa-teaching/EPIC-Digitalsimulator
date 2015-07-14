@@ -1,3 +1,3 @@
-as yet unclassified
+initialization
 createOutputPorts
 	self addUnnamedOutputPorts: 7

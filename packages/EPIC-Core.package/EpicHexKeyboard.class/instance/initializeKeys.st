@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeKeys
 	self zeroKey: (EpicHexKey putAt: (10@10) with: '0' and: 0).
 	self oneKey: (EpicHexKey putAt: (30@10) with: '1' and: 1).

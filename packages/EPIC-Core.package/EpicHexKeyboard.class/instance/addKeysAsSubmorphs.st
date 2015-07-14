@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 addKeysAsSubmorphs
 	self addMorph: self zeroKey.
 	self addMorph: self oneKey.

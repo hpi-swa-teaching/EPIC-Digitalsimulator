@@ -1,4 +1,4 @@
-as yet unclassified
+simulation
 setState
 	(self inputValues first xor: self inputValues second) ifFalse: [^ self].
 	self inputValues first ifTrue: [self state: true].

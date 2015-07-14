@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 twoKey: anObject
 	twoKey := anObject

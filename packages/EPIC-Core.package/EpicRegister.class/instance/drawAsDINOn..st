@@ -1,5 +1,4 @@
-as yet unclassified
+drawing
 drawAsDINOn: aCanvas
 	
-	self drawBoxOn: aCanvas.
-	aCanvas drawString: 'REGISTER' at: self center - (28@8)
+	self drawAsEPICOn: aCanvas

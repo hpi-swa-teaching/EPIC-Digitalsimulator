@@ -1,4 +1,4 @@
-as yet unclassified
+simulation
 simulateWith: inputValues
 	self
 		setState;

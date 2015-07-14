@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 drawGraphOn: aCanvas
 	| points |
 	points := self toPoints: self graph.

@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initialSimulate
 	self outputPorts first setValue: false.
 	self outputPorts second setValue: false.

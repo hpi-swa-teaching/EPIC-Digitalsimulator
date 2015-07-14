@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 DKey: anObject
 	DKey := anObject

@@ -2,9 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
+		"connectInputPortsOn:" : "JvD 7/15/2015 00:37",
+		"connectSelectorPortsOn:" : "JvD 7/15/2015 00:39",
 		"createInputPorts" : "ME 5/17/2015 19:44",
-		"drawAsANSIOn:" : "ME 6/9/2015 00:39",
+		"drawAsANSIOn:" : "JvD 7/15/2015 00:37",
 		"drawAsDINOn:" : "ME 5/19/2015 19:21",
 		"drawAsEPICOn:" : "JvD 5/16/2015 18:24",
 		"drawAsIECOn:" : "ME 5/19/2015 19:21",
-		"simulateWith:" : "ME 5/17/2015 19:31" } }
+		"drawBodyOn:" : "JvD 7/15/2015 00:35",
+		"simulateWith:" : "JvD 7/15/2015 01:09" } }

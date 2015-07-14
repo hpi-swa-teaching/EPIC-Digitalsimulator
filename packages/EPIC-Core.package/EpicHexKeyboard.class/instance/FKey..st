@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 FKey: anObject
 	FKey := anObject

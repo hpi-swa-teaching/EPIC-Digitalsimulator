@@ -1,3 +1,3 @@
-as yet unclassified
+graph handling
 addInputToGraph
 	self refreshGraphWith: self inputValues first.
