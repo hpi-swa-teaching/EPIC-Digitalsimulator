@@ -2,6 +2,7 @@ instance creation
 gatePanel
 	^ (self new)
 		color: Color white;
+		addComponent: EpicConverter new;
 		addComponent: EpicGraphVisualiser new;
 		addComponent: EpicRegister new;
 		addComponent: EpicRSFlipFlop new;

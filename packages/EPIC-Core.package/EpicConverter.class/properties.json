@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"conversionTable" ],
 	"name" : "EpicConverter",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicSelectableGate",
 	"type" : "normal" }

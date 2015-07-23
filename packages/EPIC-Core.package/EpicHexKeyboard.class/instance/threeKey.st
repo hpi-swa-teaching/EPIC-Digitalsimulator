@@ -1,3 +1,0 @@
-accessing
-threeKey
-	^ threeKey

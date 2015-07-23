@@ -2,7 +2,11 @@
 	"class" : {
 		"gateSize" : "tg 6/18/2015 19:06" },
 	"instance" : {
+		"conversionTable" : "tg 7/23/2015 19:00",
+		"conversionTable:" : "tg 7/23/2015 18:58",
+		"createConversionTable" : "tg 7/23/2015 18:59",
 		"createInputPorts" : "tg 6/18/2015 19:05",
 		"createOutputPorts" : "tg 6/18/2015 19:05",
+		"createSelectorPorts" : "tg 7/23/2015 18:59",
 		"drawAsEPICOn:" : "tg 6/18/2015 19:09",
-		"simulateWith:" : "tg 6/18/2015 19:06" } }
+		"simulateWith:" : "tg 7/23/2015 19:02" } }
