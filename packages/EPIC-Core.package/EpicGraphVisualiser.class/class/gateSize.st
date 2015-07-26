@@ -1,3 +1,3 @@
-as yet unclassified
+initialize
 gateSize
 	^120@40

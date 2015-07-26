@@ -1,4 +1,4 @@
-as yet unclassified
+initialize
 putAt: aPosition with: label and: value
 	| instance |
 	instance := self new.

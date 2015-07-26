@@ -1,3 +1,3 @@
-as yet unclassified
+execution
 clearStackButtons
 	self removeAllMorphs

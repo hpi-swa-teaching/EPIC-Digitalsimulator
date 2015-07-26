@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 popStackButton
 	self 
 		removeMorph: self submorphs last;

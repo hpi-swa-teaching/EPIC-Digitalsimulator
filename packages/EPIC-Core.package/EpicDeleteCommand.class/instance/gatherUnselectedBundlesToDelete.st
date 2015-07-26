@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 gatherUnselectedBundlesToDelete
 	
 	self wires do: [ :eachWire |

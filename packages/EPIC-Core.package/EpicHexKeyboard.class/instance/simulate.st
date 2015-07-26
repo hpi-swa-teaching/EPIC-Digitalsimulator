@@ -1,2 +1,4 @@
 simulation
-simulate
+simulate 
+	
+	^self

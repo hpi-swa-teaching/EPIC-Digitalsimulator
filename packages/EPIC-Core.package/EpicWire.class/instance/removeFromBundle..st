@@ -1,4 +1,4 @@
-as yet unclassified
+deletion
 removeFromBundle: aBundle
 
 	(self includingBundles includes: aBundle) ifTrue: [

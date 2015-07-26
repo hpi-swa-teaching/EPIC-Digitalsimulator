@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 addToBundle: aBundleWire
 
 	self addBundleStartAnchorPoint: (0 @ 0) atIndex: 1.
