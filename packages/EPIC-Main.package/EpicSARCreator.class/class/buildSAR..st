@@ -8,6 +8,5 @@ buildSAR: aFileName
 	self 
 		write: (MCPackage named: 'EPIC')
 		to: stream;
-		
 		buildSAR: aFileName
 		from: stream

@@ -1,6 +1,5 @@
 method-templates
 handleMouseDown: anEvent
-	
 	"System level event handling."
 	anEvent wasHandled ifTrue:[^self]. "not interested"
 	anEvent hand removePendingBalloonFor: self.

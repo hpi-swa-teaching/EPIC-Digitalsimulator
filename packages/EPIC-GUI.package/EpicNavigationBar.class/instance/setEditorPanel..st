@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 setEditorPanel: anEditorPanel
 	self editorPanel: anEditorPanel.
 	self editorPanel

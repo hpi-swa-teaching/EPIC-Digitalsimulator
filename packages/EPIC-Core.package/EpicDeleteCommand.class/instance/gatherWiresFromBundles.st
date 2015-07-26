@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 gatherWiresFromBundles
 
 	self wiresInBundles: Dictionary new.

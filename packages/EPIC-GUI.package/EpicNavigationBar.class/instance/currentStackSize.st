@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 currentStackSize 
 	^ self editorPanel circuits size

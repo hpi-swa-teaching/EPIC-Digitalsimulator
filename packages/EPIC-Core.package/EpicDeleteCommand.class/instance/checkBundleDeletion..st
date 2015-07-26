@@ -1,4 +1,4 @@
-as yet unclassified
+execution
 checkBundleDeletion: aBundle
 
 	((self bundles includes: aBundle) not and: (self wires includesAllOf: aBundle wires)) ifTrue: [

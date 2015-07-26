@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 collectAnchorPoints
 
 	self anchorPoints: Dictionary new.

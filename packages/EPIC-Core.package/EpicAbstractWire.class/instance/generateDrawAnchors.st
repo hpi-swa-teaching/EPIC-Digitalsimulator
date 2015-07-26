@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 generateDrawAnchors
 	| inBundle section |
 	inBundle := false.

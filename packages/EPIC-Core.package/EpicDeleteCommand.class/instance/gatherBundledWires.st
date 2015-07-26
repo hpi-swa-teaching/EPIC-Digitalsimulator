@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 gatherBundledWires
 
 	self bundles: (self wires select: [ :eachWire | 
