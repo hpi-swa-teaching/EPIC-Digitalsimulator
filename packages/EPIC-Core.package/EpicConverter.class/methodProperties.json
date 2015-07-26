@@ -8,5 +8,8 @@
 		"createInputPorts" : "tg 6/18/2015 19:05",
 		"createOutputPorts" : "tg 6/18/2015 19:05",
 		"createSelectorPorts" : "tg 7/23/2015 18:59",
+		"drawAsANSIOn:" : "AK 7/26/2015 16:16",
+		"drawAsDINOn:" : "AK 7/26/2015 16:16",
 		"drawAsEPICOn:" : "tg 6/18/2015 19:09",
+		"drawAsIECOn:" : "AK 7/26/2015 16:16",
 		"simulateWith:" : "AK 7/26/2015 13:52" } }
