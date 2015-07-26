@@ -2,12 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
+		"changePortCount" : "AK 7/26/2015 17:57",
 		"connectInputPortsOn:" : "JvD 7/15/2015 00:37",
 		"connectSelectorPortsOn:" : "JvD 7/15/2015 00:39",
-		"createInputPorts" : "ME 5/17/2015 19:44",
-		"drawAsANSIOn:" : "JvD 7/15/2015 00:37",
+		"createInputPorts" : "JT 7/1/2015 00:26",
+		"drawAsANSIOn:" : "AK 7/26/2015 18:28",
 		"drawAsDINOn:" : "ME 5/19/2015 19:21",
 		"drawAsEPICOn:" : "JvD 5/16/2015 18:24",
 		"drawAsIECOn:" : "ME 5/19/2015 19:21",
 		"drawBodyOn:" : "JvD 7/15/2015 00:35",
-		"simulateWith:" : "JvD 7/15/2015 01:09" } }
+		"handlesKeyboard:" : "JT 7/26/2015 15:16",
+		"keyStroke:" : "JT 7/26/2015 15:17",
+		"simulateWith:" : "AK 7/26/2015 17:58" } }

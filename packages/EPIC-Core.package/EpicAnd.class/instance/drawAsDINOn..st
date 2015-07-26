@@ -9,17 +9,6 @@ drawAsDINOn:aCanvas
 		addPoint: self gateBoxDIN bottomLeft;
 		addPoint: self gateBoxDIN topLeft;
 		addArc: arcBox clippedBy: self gateBoxDIN.
-	
 	self drawPolygon: p on: aCanvas.
-	
-	self inputPorts do: [:eachPort |
-		aCanvas 
-			line: eachPort center 
-			to: (self gateBoxDIN left) @ (eachPort center y)
-			color: Color black
-	].
-	
-	aCanvas 
-		line: self outputPorts first center 
-		to: (self gateBoxDIN right) @ (self outputPorts first center y)
-		color: Color black
+	self drawDINInputPortsOn: aCanvas.
+	self drawDINOutputPortsOn: aCanvas

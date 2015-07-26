@@ -1,4 +1,4 @@
-simulation
+drawing
 drawAsDINOn:aCanvas
 	| p arcBox |
 	arcBox := Rectangle 
@@ -9,19 +9,11 @@ drawAsDINOn:aCanvas
 		addPoint: self gateBoxDIN bottomLeft;
 		addPoint: self gateBoxDIN topLeft;
 		addArc: arcBox clippedBy: self gateBoxDIN.
-	
 	self drawPolygon: p on: aCanvas.
 	aCanvas 
 		fillOval: self notDotDIN color: Color black;
 		frameOval:  self notDotDIN color: Color black.
-	
-	self inputPorts do: [:eachPort |
-		aCanvas 
-			line: eachPort center 
-			to: (self gateBoxDIN left) @ (eachPort center y)
-			color: Color black
-	].
-	
+	self drawDINInputPortsOn: aCanvas.	
 	aCanvas 
 		line: self outputPorts first center 
 		to: (self notDotDIN right) @ (self outputPorts first center y)

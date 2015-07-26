@@ -1,4 +1,5 @@
 initialization
-createPorts 
+createPorts
+
 	super createPorts.
 	self createSelectorPorts

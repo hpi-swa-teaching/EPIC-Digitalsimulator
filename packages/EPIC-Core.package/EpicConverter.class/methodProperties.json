@@ -2,11 +2,14 @@
 	"class" : {
 		"gateSize" : "tg 6/18/2015 19:06" },
 	"instance" : {
-		"conversionTable" : "tg 7/23/2015 19:00",
-		"conversionTable:" : "tg 7/23/2015 18:58",
+		"conversionTable" : "AK 7/26/2015 17:50",
+		"conversionTable:" : "AK 7/26/2015 17:50",
 		"createConversionTable" : "AK 7/26/2015 13:57",
-		"createInputPorts" : "tg 6/18/2015 19:05",
-		"createOutputPorts" : "tg 6/18/2015 19:05",
-		"createSelectorPorts" : "tg 7/23/2015 18:59",
-		"drawAsEPICOn:" : "tg 6/18/2015 19:09",
+		"createInputPorts" : "AK 7/26/2015 17:50",
+		"createOutputPorts" : "AK 7/26/2015 17:50",
+		"createSelectorPorts" : "AK 7/26/2015 17:50",
+		"drawAsANSIOn:" : "AK 7/26/2015 17:50",
+		"drawAsDINOn:" : "AK 7/26/2015 17:50",
+		"drawAsEPICOn:" : "AK 7/26/2015 17:51",
+		"drawAsIECOn:" : "AK 7/26/2015 17:51",
 		"simulateWith:" : "AK 7/26/2015 13:52" } }
