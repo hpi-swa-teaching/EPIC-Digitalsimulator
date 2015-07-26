@@ -3,7 +3,6 @@ gatePanel
 	^ (self new)
 		color: Color white;
 		addComponent: EpicConverter new;
-		addComponent: EpicGraphVisualiser new;
 		addComponent: EpicRegister new;
 		addComponent: EpicRSFlipFlop new;
 		addComponent: EpicTFlipFlop new;
@@ -17,8 +16,8 @@ gatePanel
 		addComponent: EpicXnor new;
 		addComponent: EpicAnd new;
 		addComponent: EpicNand new;
-		addComponent: EpicMux new;
-		addComponent: EpicDemux new;
 		addComponent: EpicHalfAdder new;
+		addComponent: EpicMux new;
+		addComponent: EpicDemux new;	
 		autoLayout;
 		yourself

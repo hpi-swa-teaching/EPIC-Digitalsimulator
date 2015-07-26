@@ -1,4 +1,4 @@
-simulation
+modify
 keyStroke: anEvent 
 	
 	(anEvent keyCharacter = $m) ifTrue: [
