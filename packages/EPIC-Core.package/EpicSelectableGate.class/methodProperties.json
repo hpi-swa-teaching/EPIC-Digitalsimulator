@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"minSelectorPorts" : "JT 7/26/2015 16:49" },
 	"instance" : {
 		"addSelectorPort:" : "JvD 5/16/2015 18:16",
 		"addUnnamedSelectorPorts:" : "JvD 5/16/2015 18:18",

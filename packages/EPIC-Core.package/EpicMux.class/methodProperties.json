@@ -1,11 +1,15 @@
 {
 	"class" : {
-		 },
+		"gateSize" : "JT 7/26/2015 17:03",
+		"maxInputPorts" : "JT 7/26/2015 16:49",
+		"minInputPorts" : "JT 7/26/2015 16:48" },
 	"instance" : {
-		"changePortCount" : "JT 7/26/2015 15:28",
+		"addMissingPorts" : "JT 7/26/2015 16:53",
+		"changePortCount" : "JT 7/26/2015 16:55",
 		"connectInputPortsOn:" : "JvD 7/15/2015 00:37",
 		"connectSelectorPortsOn:" : "JvD 7/15/2015 00:39",
 		"createInputPorts" : "JT 7/1/2015 00:26",
+		"deleteAdditionalPorts" : "JT 7/26/2015 16:54",
 		"drawAsANSIOn:" : "ME 6/9/2015 00:39",
 		"drawAsDINOn:" : "ME 5/19/2015 19:21",
 		"drawAsEPICOn:" : "JvD 5/16/2015 18:24",
