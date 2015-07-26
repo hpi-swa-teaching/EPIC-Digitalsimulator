@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"initialMillisecondsToWait" : "JT 7/26/2015 14:25",
+		"initialValue" : "JT 7/26/2015 14:20",
+		"nanoToMilliseconds" : "JT 7/26/2015 14:23" },
+	"instance" : {
+		"changeDelayTime" : "JT 7/26/2015 15:10",
+		"changedInputs" : "JT 7/26/2015 14:26",
+		"changedInputs:" : "JT 7/26/2015 13:28",
+		"createInputPorts" : "JT 7/26/2015 14:26",
+		"drawAsANSIOn:" : "JT 6/22/2015 13:21",
+		"drawAsDINOn:" : "JT 6/22/2015 13:30",
+		"drawAsEPICOn:" : "JT 6/22/2015 13:21",
+		"drawAsIECOn:" : "JT 6/22/2015 13:21",
+		"handlesKeyboard:" : "JT 7/26/2015 14:58",
+		"initialize" : "JT 7/26/2015 14:31",
+		"keyStroke:" : "JT 7/26/2015 15:05",
+		"millisecondsToWait" : "JT 7/26/2015 14:27",
+		"millisecondsToWait:" : "JT 7/26/2015 13:20",
+		"simulateWith:" : "JT 7/26/2015 14:09",
+		"step" : "JT 7/26/2015 14:28",
+		"stepTime" : "JT 7/26/2015 14:29",
+		"timeStampInMilliseconds" : "JT 7/26/2015 14:29",
+		"value" : "JT 7/26/2015 14:29",
+		"value:" : "JT 7/26/2015 14:29",
+		"wantsSteps" : "JT 7/26/2015 14:49" } }

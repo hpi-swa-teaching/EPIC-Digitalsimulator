@@ -8,6 +8,7 @@ gatePanel
 		addComponent: EpicRSFlipFlop new;
 		addComponent: EpicTFlipFlop new;
 		addComponent: EpicDFlipFlop new;
+		addComponent: EpicInputOutputDelay new;
 		addComponent: EpicNot new;
 		addComponent: EpicEqual new;
 		addComponent: EpicOr new;

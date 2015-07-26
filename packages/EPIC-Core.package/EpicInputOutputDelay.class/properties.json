@@ -1,0 +1,18 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"millisecondsToWait",
+		"stepTime",
+		"wantsSteps",
+		"changedInputs" ],
+	"name" : "EpicInputOutputDelay",
+	"pools" : [
+		 ],
+	"super" : "EpicStandardGate",
+	"type" : "normal" }

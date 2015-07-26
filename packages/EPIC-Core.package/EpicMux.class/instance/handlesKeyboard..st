@@ -1,0 +1,4 @@
+simulation
+handlesKeyboard: anEvent 
+	
+	^true
