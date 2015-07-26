@@ -12,7 +12,8 @@
 		"settingsMenu",
 		"simulator",
 		"editorBox",
-		"commandManager" ],
+		"commandManager",
+		"editMenu" ],
 	"name" : "EpicWindow",
 	"pools" : [
 		 ],

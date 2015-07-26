@@ -1,13 +1,6 @@
 wiring
 isBundleWithWires: aWireList
-	| bundleCount |
+
+	(aWireList anySatisfy: [ :eachWire | eachWire bundled]) ifTrue: [ ^ false ].
 	
-	bundleCount := 0.
-	aWireList do: [ :wire | 
-		wire isBundle ifTrue: [ bundleCount := bundleCount + 1 ].
-		wire bundled ifTrue: [  ^false ].
-	].
-	
-	((bundleCount = 1) and: (aWireList size > 1))
-		ifTrue: [ ^true ];
-		ifFalse: [ ^false ]
+	^ (aWireList count: [ :eachWire | eachWire isBundle ]) = 1

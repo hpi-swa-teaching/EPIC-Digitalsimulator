@@ -1,8 +1,5 @@
 wiring
 isUnbundledWireList: aWireList
 
-	aWireList do: [ :wire | 
-		(wire isBundle or: (wire bundled)) ifTrue: [
-			^false ]].
-	
-	^true
+	^ aWireList allSatisfy: [ :eachWire | 
+		(eachWire isBundle or: (eachWire bundled)) not]

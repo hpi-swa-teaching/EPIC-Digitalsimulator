@@ -1,6 +1,7 @@
 menu creation
 createEditMenu
-	^ (EpicMenu new)
+	self editMenu: EpicMenu new.
+	^ self editMenu
 		add: 'Copy'
 			target: self editorPanel
 			selector: #copySelectedComponents;
