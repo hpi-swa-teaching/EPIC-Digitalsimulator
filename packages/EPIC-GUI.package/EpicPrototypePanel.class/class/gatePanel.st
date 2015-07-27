@@ -3,7 +3,6 @@ gatePanel
 	^ (self new)
 		color: Color white;
 		addComponent: EpicConverter new;
-		addComponent: EpicRegister new;
 		addComponent: EpicRSFlipFlop new;
 		addComponent: EpicTFlipFlop new;
 		addComponent: EpicDFlipFlop new;
