@@ -1,3 +1,4 @@
 initialization
-createSelectorPorts 
+createSelectorPorts
+
 	self addUnnamedSelectorPorts: 0

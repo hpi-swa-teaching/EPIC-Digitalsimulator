@@ -1,4 +1,4 @@
 drawing
 drawAsANSIOn: aCanvas
 	
-	self drawAsEPICOn: aCanvas.
+	self drawAsEPICOn: aCanvas

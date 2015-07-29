@@ -17,24 +17,10 @@ drawAsANSIOn: aCanvas
 		addArc: lowerBox clippedBy: self gateBoxANSI;
 		addPoint: self gateBoxANSI bottomLeft;		
 		addReverseArc: leftBox clippedBy: self gateBoxANSI.
-	
 	q := EpicPolygon new.
 	q addArc: leftBox clippedBy: self gateBoxANSI.
 	q rotateUntilFirstIsNearestTo: q vertices min.
-	
 	self drawPolygon: p on: aCanvas.
-	
-	self drawPolyLine: q vertices - (8@0) on: aCanvas.
-	
-	self inputPorts do: [:eachPort |
-		aCanvas 
-			line: eachPort center 
-			to: (self gateBoxANSI left + 8) @ (eachPort center y)
-			color: Color black
-	].
-	
-	aCanvas 
-		line: self outputPorts first center 
-		to: (self gateBoxANSI right) @ (self outputPorts first center y)
-		color: Color black
-	
+	self drawPolyLine: q vertices - (8 @0 ) on: aCanvas.
+	self drawANSIInputPortsOn: aCanvas.
+	self drawANSIIOutputPortsOn: aCanvas

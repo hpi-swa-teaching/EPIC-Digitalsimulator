@@ -1,4 +1,4 @@
 drawing
 drawAsDINOn: aCanvas
 	
-	self drawAsEPICOn: aCanvas.
+	self drawAsEPICOn: aCanvas

@@ -5,17 +5,17 @@
 		"minOutputPorts" : "JT 7/26/2015 16:48" },
 	"instance" : {
 		"addMissingPorts" : "JT 7/26/2015 17:01",
-		"changePortCount" : "JT 7/26/2015 16:38",
+		"changePortCount" : "AK 7/26/2015 17:58",
 		"connectOutputPortsOn:" : "JvD 7/15/2015 00:32",
 		"connectSelectorPortsOn:" : "JvD 7/15/2015 00:32",
 		"createInputPorts" : "ME 5/17/2015 19:44",
 		"createOutputPorts" : "JT 7/1/2015 01:50",
 		"deleteAdditionalPorts" : "JT 7/26/2015 17:01",
-		"drawAsANSIOn:" : "ME 6/9/2015 00:35",
+		"drawAsANSIOn:" : "AK 7/26/2015 18:29",
 		"drawAsDINOn:" : "ME 6/1/2015 15:57",
-		"drawAsEPICOn:" : "AK 6/3/2015 12:06",
+		"drawAsEPICOn:" : "AK 7/26/2015 17:54",
 		"drawAsIECOn:" : "ME 6/1/2015 15:57",
-		"drawBodyOn:" : "JvD 7/15/2015 00:32",
+		"drawBodyOn:" : "AK 7/26/2015 17:55",
 		"handlesKeyboard:" : "JT 7/26/2015 15:17",
 		"keyStroke:" : "JT 7/26/2015 15:24",
-		"simulateWith:" : "JT 7/26/2015 16:42" } }
+		"simulateWith:" : "AK 7/26/2015 17:51" } }
