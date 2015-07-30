@@ -1,4 +1,4 @@
-simulation
+modify
 handlesKeyboard: anEvent 
 	
 	^true

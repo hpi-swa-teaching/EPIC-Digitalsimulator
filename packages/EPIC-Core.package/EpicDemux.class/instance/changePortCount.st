@@ -1,4 +1,4 @@
-simulation
+modify
 changePortCount
 
 	| reply |

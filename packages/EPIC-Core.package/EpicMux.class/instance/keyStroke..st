@@ -1,5 +1,7 @@
-simulation
-keyStroke: anEvent 
-	
+modify
+keyStroke: anEvent
+
 	(anEvent keyCharacter = $m) ifTrue: [
-	 	self changePortCount] 
+	 	self changePortCount].
+	(anEvent keyCharacter = Character delete) ifTrue: [
+		self  delete]
