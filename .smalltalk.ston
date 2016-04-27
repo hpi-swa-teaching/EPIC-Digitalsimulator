@@ -1,0 +1,10 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'EPIC',
+      #directory : 'packages',
+      #load : 'TravisCI',
+      #platforms : [ #squeak ]
+    }
+  ]
+}
