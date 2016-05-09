@@ -1,6 +1,6 @@
 accessing
 openInWindowLabeled: aString inWorld: aWorld
-
+	"Mostly copied from superclass."
 	| window extent |
 
 	window := (EpicSystemWindow labelled: aString) model: nil.

@@ -1,6 +1,7 @@
 as yet unclassified
 collapseOrExpand
-	"Collapse or expand the window, depending on existing state"
+	"Mostly copied from SystemWindow.
+	Collapse or expand the window, depending on existing state"
 	| cf |
 	isCollapsed
 		ifTrue: 
