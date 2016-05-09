@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"aboutContent" : "SeSc 5/6/2016 01:52",
 		"addConfiguration" : "lk 6/24/2014 22:23",
 		"addEditorBox" : "ME 6/21/2015 19:02",
 		"addMenu" : "lk 7/25/2014 15:00",
@@ -20,7 +21,7 @@
 		"connectSimulator" : "tb 6/11/2010 17:27:09.296",
 		"createEditMenu" : "ME 7/26/2015 13:36",
 		"createFileMenu" : "f.z 7/1/2010 00:10:17.143",
-		"createHelpMenu" : "f.z 6/11/2010 14:44:00.21",
+		"createHelpMenu" : "SeSc 5/6/2016 01:35",
 		"createSettingsMenu" : "GW 6/3/2013 21:21:38.923",
 		"createSimulationMenu" : "f.z 6/11/2010 16:12:32.826",
 		"createXmlMenu" : "tb 6/14/2010 00:32:18.873",
@@ -40,6 +41,7 @@
 		"menuBarFrame" : "lk 6/25/2014 14:37",
 		"open" : "ak 7/22/2010 20:36:42.622",
 		"open:" : "tb 6/25/2010 16:30:25.407",
+		"openAboutWindow" : "SeSc 5/6/2016 02:02",
 		"openFileNamed:" : "ak 7/22/2010 20:06:21.552",
 		"openInWorld:" : "lk 6/24/2014 16:14",
 		"ownerChanged" : "lk 6/8/2014 21:04",
