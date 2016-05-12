@@ -1,0 +1,17 @@
+{
+	"category" : "EPIC-Serialization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"encoding",
+		"dtd",
+		"svgElement",
+		"xmlVersion" ],
+	"name" : "EpicSVGDocument",
+	"pools" : [
+		 ],
+	"super" : "XMLNodeWithElements",
+	"type" : "normal" }

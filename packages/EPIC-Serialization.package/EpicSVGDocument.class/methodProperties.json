@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultDtd" : "eg 5/12/2016 18:52",
+		"defaultEncoding" : "eg 5/12/2016 18:33",
+		"defaultSvgAttributes" : "eg 5/12/2016 18:59",
+		"defaultXmlVersion" : "eg 5/12/2016 19:27",
+		"dtd" : "eg 5/12/2016 18:47",
+		"dtd:" : "eg 5/12/2016 18:47",
+		"encoding" : "eg 5/12/2016 18:47",
+		"encoding:" : "eg 5/12/2016 18:48",
+		"initialize" : "eg 5/12/2016 19:25",
+		"printOn:" : "eg 5/12/2016 19:16",
+		"printXMLOn:" : "eg 5/12/2016 19:11",
+		"svgElement" : "eg 5/12/2016 18:33",
+		"svgElement:" : "eg 5/12/2016 18:33",
+		"svgElementName" : "eg 5/12/2016 18:34",
+		"xmlVersion" : "eg 5/12/2016 19:25",
+		"xmlVersion:" : "eg 5/12/2016 19:27" } }
