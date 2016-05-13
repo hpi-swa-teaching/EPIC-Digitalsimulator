@@ -6,8 +6,11 @@
 		 ],
 	"commentStamp" : "GW 5/6/2013 18:28:08.594",
 	"instvars" : [
-		 ],
-	"name" : "EpicFileBrowser",
+		"fileNameInput",
+		"inputPane",
+		"saveButton",
+		"saveButtonPane" ],
+	"name" : "EpicFileManager",
 	"pools" : [
 		 ],
 	"super" : "FileChooser",

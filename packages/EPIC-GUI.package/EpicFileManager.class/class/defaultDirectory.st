@@ -1,3 +1,3 @@
 magic strings
-componentDirectoryName
+defaultDirectory
 	^ 'epic'

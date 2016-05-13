@@ -8,4 +8,5 @@ initialize
 		innerInputPorts: OrderedCollection new;
 		innerOutputPorts: OrderedCollection new;
 		fullyQualifiedName: 'circuit';
+		filePath: '';
 		initialHeight: self height
