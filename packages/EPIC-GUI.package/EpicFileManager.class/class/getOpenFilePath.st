@@ -5,4 +5,4 @@ getOpenFilePath
 		setSuffixes: {'xml'};
 		setDirectory: (FileDirectory default directoryNamed: self defaultDirectory);
 		openGetFilePath)
-			ifNotNilDo: [ :file | file fullName ]
+			ifNotNilDo: [ :file | file ]
