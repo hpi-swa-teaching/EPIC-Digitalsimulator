@@ -5,4 +5,4 @@ editorFrame
 	Vertikalen für die Menüleiste."
 	^ LayoutFrame 
 		fractions: (0@0 corner: 1@1) 
-		offsets: (200@20 corner: 0@0)
+		offsets: (275@20 corner: 0@0)

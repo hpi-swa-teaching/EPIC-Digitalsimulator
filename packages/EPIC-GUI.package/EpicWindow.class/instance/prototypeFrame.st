@@ -4,4 +4,4 @@ prototypeFrame
 	40% der Breite bis zum unteren Rand. 20 Pixel Offset für die Menüleiste."
 	^ LayoutFrame 
 		fractions: (0@0 corner: 0@1)
-		offsets: (0@20 corner: 200@0)
+		offsets: (0@20 corner: 275@0)
