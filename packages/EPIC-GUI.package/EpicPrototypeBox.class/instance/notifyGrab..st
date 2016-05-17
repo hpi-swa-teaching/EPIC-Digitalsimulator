@@ -1,3 +1,3 @@
 tab manipulation
 notifyGrab: aComponent
-	self triggerEvent: #componentGrabbed with: aComponent
+	self scrollPane scroller triggerEvent: #componentGrabbed with: aComponent
