@@ -1,4 +1,7 @@
 as yet unclassified
 testEmptySvgDocument
 
-	self assert: self emptySvgDocument equals: EpicSVGDocument new asString
+	| emptyDocument |
+	emptyDocument := EpicSVGDocument new.
+	emptyDocument svgElement addElement: (XMLElement named: 'content').
+	self assert: self emptySvgDocument equals: emptyDocument asString
