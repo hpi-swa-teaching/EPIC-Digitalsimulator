@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicTestSvgDocument",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

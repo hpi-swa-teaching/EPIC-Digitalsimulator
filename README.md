@@ -6,10 +6,8 @@
 ## Installation
 
 - `$ git clone <link to repo>`
-- `$ git submodule init` (Initializes your local configuration file)
-- `$ git submodule update` (Fetches all the data from that project and checks out the appropriate commit listed in your superproject.)
 
-- Download a new squeak 4.5 image
+- Download a new squeak image
 - Open image and open Tools > Monticello Browser
 - Click on "+Repository" and the `filetree://
 - In the following pop-up select the `package` directory in the git repository
