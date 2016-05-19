@@ -1,4 +1,5 @@
 writing xml
 endEmptyTag: tagName
-	super endEmptyTag: tagName.
+	self popTag: tagName.
+	self stream nextPutAll: '/>'.
 	self stream cr.
