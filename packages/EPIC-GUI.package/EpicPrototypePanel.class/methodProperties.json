@@ -4,11 +4,12 @@
 		"gatePanel" : "JT 7/27/2015 15:47",
 		"lampPanel" : "JT 7/26/2015 16:58",
 		"margin" : "f.z 6/1/2010 16:16:51.526",
+		"panelWidth" : "SeSc 5/20/2016 16:40",
 		"switchPanel" : "tg 7/31/2015 14:32",
 		"userPanel" : "tb 6/30/2010 18:26:32.763" },
 	"instance" : {
 		"delete" : "AK 7/26/2015 13:15",
 		"initializeEventHandlers" : "f.z 5/27/2010 16:02:17.51",
 		"registerForEvents" : "tb 5/27/2010 17:29:00.19",
-		"relayout" : "tb 6/13/2010 15:20:25.007",
-		"startDrag:onComponent:" : "tb 5/27/2010 17:29:11.039" } }
+		"relayout" : "SeSc 5/20/2016 16:40",
+		"startDrag:onComponent:" : "SeSc 5/19/2016 23:49" } }

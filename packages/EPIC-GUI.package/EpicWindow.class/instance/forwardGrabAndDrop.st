@@ -1,4 +1,4 @@
 initialization
 forwardGrabAndDrop
-	self prototypeBox
+	self prototypeBox scrollPane scroller
 		when: #componentGrabbed send: #waitForDragContainer: to: self editorPanel

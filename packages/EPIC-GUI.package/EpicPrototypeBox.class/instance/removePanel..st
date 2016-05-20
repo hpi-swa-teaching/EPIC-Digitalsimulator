@@ -1,5 +1,5 @@
 tab manipulation
 removePanel: aPanel
-	self removeMorph: aPanel.
+	self scrollPane scroller removeMorph: aPanel.
 	aPanel removeActionsWithReceiver: self
 		
