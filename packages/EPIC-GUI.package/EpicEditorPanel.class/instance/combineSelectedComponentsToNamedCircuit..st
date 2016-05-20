@@ -4,5 +4,5 @@ combineSelectedComponentsToNamedCircuit: aCircuitName
 	blackbox := self combineSelectedComponents.
 	blackbox
 		fullyQualifiedName: aCircuitName;
-		save
+		saveAsSubCircuit
 	

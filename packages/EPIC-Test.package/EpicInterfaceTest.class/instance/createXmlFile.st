@@ -1,11 +1,9 @@
 running
 createXmlFile
 	"Erstellt file, das notwendig ist, damit die Tests auch beim ersten ausführen durchlaufen"
-	| relativeDirectory |
-	relativeDirectory := EPIC translateCircuitNameToFileName: self temporaryCircuitName.
-.	
-	(FileDirectory default / (relativeDirectory copyUpToLast: FileDirectory slash asCharacter))
-		assureExistence.
-
-	FileDirectory default forceNewFileNamed: relativeDirectory do: [:stream |
+	| directory | 
+	directory := self temporaryCircuitFile containingDirectory.
+	
+	directory assureExistence.
+	directory forceNewFileNamed: self temporaryCircuitFile name do: [:stream |
 	stream nextPutAll: self xmlFileContent]
