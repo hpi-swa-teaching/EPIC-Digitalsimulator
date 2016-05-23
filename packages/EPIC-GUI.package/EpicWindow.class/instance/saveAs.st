@@ -1,7 +1,6 @@
 input/output
 saveAs
-	(EpicCircuitNamingDialog 
-		getCircuitNameWithTitle: 'Save as' 
-		label: 'Enter circuit name') ifNotNilDo: [:name |
+	EpicFileManager getSaveFilePath
+		 ifNotNilDo: [:name |
 			self saveAs: name
 		]

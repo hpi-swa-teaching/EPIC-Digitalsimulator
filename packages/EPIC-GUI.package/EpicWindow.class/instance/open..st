@@ -1,4 +1,3 @@
 input/output
-open: aCircuitName
-	self tryToOpen: 
-		(EPIC translateCircuitNameToFileName: aCircuitName)
+open: aCircuitFile
+	self tryToOpen: aCircuitFile

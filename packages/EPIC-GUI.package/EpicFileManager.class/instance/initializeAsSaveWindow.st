@@ -1,0 +1,4 @@
+initialization
+initializeAsSaveWindow
+	self initializeBasicParameters.
+	self createSaveWindowUI.

@@ -1,7 +1,7 @@
 input/output
 open
 	|filename|
-	filename:= EpicFileBrowser getCircuitFileName.
+	filename:= EpicFileManager getOpenFilePath.
 	filename ifNotNil:[
-		self openFileNamed: filename 
+		self openFileNamed: filename fullName. 
 	]
