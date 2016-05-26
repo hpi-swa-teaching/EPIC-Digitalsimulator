@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clipBy:during:" : "eg 5/21/2016 17:47",
+		"clipRect" : "eg 5/20/2016 12:36",
+		"clipRect:" : "eg 5/20/2016 12:36",
+		"contentsOfArea:into:" : "eg 5/20/2016 12:38",
+		"doesRoundedCorners" : "eg 5/20/2016 12:40",
+		"drawPolygon:color:borderWidth:borderColor:" : "eg 5/20/2016 13:06",
+		"drawString:from:to:at:font:color:" : "eg 5/21/2016 14:55",
+		"drawString:from:to:in:font:color:" : "eg 5/21/2016 14:51",
+		"fillOval:color:borderWidth:borderColor:" : "eg 5/21/2016 15:15",
+		"fillRectangle:color:" : "eg 5/21/2016 15:15",
+		"frameAndFillRectangle:fillColor:borderWidth:borderColor:" : "eg 5/21/2016 15:25",
+		"frameOval:color:" : "eg 5/21/2016 15:36",
+		"frameOval:width:color:" : "eg 5/21/2016 17:23",
+		"frameRectangle:width:color:" : "eg 5/21/2016 17:24",
+		"image:at:sourceRect:rule:" : "eg 5/21/2016 17:28",
+		"isShadowDrawing" : "eg 5/21/2016 17:33",
+		"isVisible:" : "eg 5/21/2016 17:49",
+		"line:to:color:" : "eg 5/21/2016 17:51",
+		"line:to:width:color:" : "eg 5/21/2016 17:54",
+		"origin" : "eg 5/21/2016 17:57",
+		"origin:" : "eg 5/21/2016 17:56",
+		"shadowColor" : "eg 5/21/2016 17:33",
+		"shadowColor:" : "eg 5/21/2016 17:33" } }

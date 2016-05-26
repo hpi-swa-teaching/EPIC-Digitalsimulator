@@ -1,0 +1,16 @@
+{
+	"category" : "EPIC-Serialization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"clipRect",
+		"shadowColor",
+		"origin" ],
+	"name" : "EpicSVGCanvas",
+	"pools" : [
+		 ],
+	"super" : "Canvas",
+	"type" : "normal" }
