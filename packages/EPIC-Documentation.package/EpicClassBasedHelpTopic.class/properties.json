@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Documentation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicClassBasedHelpTopic",
+	"pools" : [
+		 ],
+	"super" : "ClassBasedHelpTopic",
+	"type" : "normal" }
