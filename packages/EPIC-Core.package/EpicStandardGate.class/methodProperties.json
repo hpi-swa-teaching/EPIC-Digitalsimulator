@@ -24,6 +24,7 @@
 		"gateBoxANSI" : "tb 7/23/2010 17:53:19.441",
 		"gateBoxDIN" : "tb 7/23/2010 19:09:37.02",
 		"gateBoxIEC" : "tb 7/23/2010 20:47:21.488",
+		"helpClass" : "eg 5/28/2016 19:52",
 		"initialize" : "tb 7/23/2010 17:58:53.887",
 		"innerBounds" : "sv 7/22/2010 21:24:35.017",
 		"notDotANSI" : "tb 7/23/2010 17:53:04.523",

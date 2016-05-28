@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Documentation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicStandardGateHelp",
+	"pools" : [
+		 ],
+	"super" : "EpicComponentHelp",
+	"type" : "normal" }
