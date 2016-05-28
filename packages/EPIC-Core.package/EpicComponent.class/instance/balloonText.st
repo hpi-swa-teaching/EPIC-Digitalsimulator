@@ -1,4 +1,3 @@
 naming
 balloonText
-
-	^ self displayName
+	^ self componentName

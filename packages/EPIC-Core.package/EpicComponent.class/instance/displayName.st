@@ -1,3 +1,3 @@
 naming
 displayName
-	^ (self fullyQualifiedName splitBy: '.') last truncateWithElipsisTo: 8
+	^ self componentName truncateWithElipsisTo: 8

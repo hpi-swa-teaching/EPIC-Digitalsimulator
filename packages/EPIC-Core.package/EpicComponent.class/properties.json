@@ -9,7 +9,8 @@
 		"inputPorts",
 		"outputPorts",
 		"selected",
-		"isSimulating" ],
+		"isSimulating",
+		"label" ],
 	"name" : "EpicComponent",
 	"pools" : [
 		 ],
