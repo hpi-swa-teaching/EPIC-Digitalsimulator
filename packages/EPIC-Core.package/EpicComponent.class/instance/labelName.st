@@ -1,3 +1,3 @@
 naming
 labelName
-	^ self componentName truncateWithElipsisTo: 12
+	^ self componentName truncateWithElipsisTo: 16

@@ -1,3 +1,3 @@
 naming
 componentName
-	^ (self fullyQualifiedName splitBy: '.') last
+	^ self class componentName
