@@ -14,4 +14,6 @@ relayout
 		
 		left := eachComponent fullBounds right + self class margin.
 		newTop := newTop max: (eachComponent bottom + self class margin)		
-		]
+		].
+	self width: self class panelWidth.
+	self height: newTop

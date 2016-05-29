@@ -12,6 +12,13 @@ createFileMenu
 			target: self
 			selector: #saveAs;
 		addLine;
+		add: 'Export as png...'
+			target: self
+			selector: #exportAsPng;
+		add: 'Export as ps...'
+			target: self
+			selector: #exportAsPs;
+		addLine;
 		add: 'Close'
 			target: self
 			selector: #delete;
