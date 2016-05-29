@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "EpicStandardGateHelp",
+	"name" : "EpicGateHelp",
 	"pools" : [
 		 ],
-	"super" : "EpicGateHelp",
+	"super" : "EpicComponentHelp",
 	"type" : "normal" }

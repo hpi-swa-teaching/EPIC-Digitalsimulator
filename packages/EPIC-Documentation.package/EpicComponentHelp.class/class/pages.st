@@ -1,4 +1,4 @@
 accessing
 pages
 
-	^ #(EpicStandardGateHelp)
+	^ #(EpicGateHelp)

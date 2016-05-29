@@ -1,4 +1,4 @@
 accessing
 pages
 
-	^ #(introduction EpicGettingStarted)
+	^ #(introduction EpicGettingStarted EpicComponentHelp)
