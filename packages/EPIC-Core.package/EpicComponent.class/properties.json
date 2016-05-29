@@ -10,7 +10,8 @@
 		"outputPorts",
 		"selected",
 		"isSimulating",
-		"label" ],
+		"label",
+		"toggleLabelOnHover" ],
 	"name" : "EpicComponent",
 	"pools" : [
 		 ],

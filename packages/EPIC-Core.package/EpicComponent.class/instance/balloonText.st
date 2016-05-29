@@ -1,3 +1,0 @@
-naming
-balloonText
-	^ self componentName
