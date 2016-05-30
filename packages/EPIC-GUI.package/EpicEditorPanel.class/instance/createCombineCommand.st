@@ -1,6 +1,6 @@
 command handling
 createCombineCommand
-	"Erstellt combine command aus der aktuellen Auswahl"
+	"Creates combine command from the current selection."
 	^ (EpicCombineCommand newFor: self) 
 		components: self selectedComponents;
 		wires: self selectedWires;

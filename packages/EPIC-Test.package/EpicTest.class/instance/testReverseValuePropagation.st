@@ -1,7 +1,6 @@
 port & wire testing
 testReverseValuePropagation
-	"Stellt sicher, dass Werteveränderungen über ein Wire nicht vom Input zum Output
-	weiter gereicht werden."
+	"Ensures that value changes are not transmitted from Input to Output through a wire."
 	| input output initialValue |
 	input := EpicInputPort new.
 	output := EpicOutputPort new.

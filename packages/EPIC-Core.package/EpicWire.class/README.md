@@ -1,4 +1,4 @@
-Ich bin ein Kabel, und stelle die Verbindung zwischen zwei Ports von Komponenten her. Bei der Erstellung wird sichergestellt, dass Kabel nur zwischen Inputport und OutputPorts gezogen werden können.
+I am a wire and connect two ports between components. On creation it is ensured that wires can only be drawn between InputPorts and OutputPorts. 
 
 Instance Variables
 	endPort:				<EpicPort>
@@ -7,13 +7,13 @@ Instance Variables
 	selected:				<Boolean>
 
 endPort
-	- Verweis auf den Endport, auf den das Kabel führt
+	- reference to the Endport to which the wire leads
 
 grabbedAnchorIndex
-	- falls das Kabel gerade bearbeitet wird , wird hier der Index des aktuell ausgewählten 		Ankerpunkts gespeichert
+	- if the wire is being edited, the index of the selected anchor point is stored here
 
 lineWidth
-	- Linienstärke des Kabels
+	- line width of the wire
 
 selected
-	- falls das Kabel ausgewählt ist, ist dieser Parameter True
+	- this parameter returns true, if the wire is selected

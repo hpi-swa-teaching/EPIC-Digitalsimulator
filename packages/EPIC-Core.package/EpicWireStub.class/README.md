@@ -1,7 +1,7 @@
-Ich bin ein noch unfertiges Kabel und habe noch keinen Endport. Gebraucht werde ich bei der Erstellung des Kabels.
+I am an unfinished wire and do not yet have an end port. I am needed in the creation of a wire.
 
 Instance Variables
 	endPoint:		<Point>
 
 endPoint
-	- gibt den aktuellen Endpunkt des Kabelstumpfes
+	- returns the current end point of the wire stub

@@ -1,1 +1,1 @@
-Dummy für den EpicEditorPanelTest, damit der sich nicht auf irgendwelche echten Gatter verlassen muss. Ignoriert Simulationsaufrufe.
+Dummy for the EpicEditorPanelTest so that it doesn't have to rely on real gates. Ignores simulation calls.

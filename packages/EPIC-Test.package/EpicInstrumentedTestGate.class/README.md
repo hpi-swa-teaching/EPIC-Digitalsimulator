@@ -1,1 +1,1 @@
-Ich bin ein Mockup-Gate zum Testen und zähle deshalb unter anderem mit, wie oft bei mir die Simulation/Berechnung angestoßen wurde.
+I am a Mockup-Gate for testing and keep count how often my simulation/calculation was initiated.

@@ -1,6 +1,6 @@
 accessing
 internalSubWires
-	"Liefert die Wires, die wirklich nur innerhalb des Circuits liegen."
+	"Returns the wires, that are truly inside of the circuit."
 	| ports |
 	ports := (self subComponents gather: [:eachComponent | 
 		eachComponent ports]), self innerPorts.

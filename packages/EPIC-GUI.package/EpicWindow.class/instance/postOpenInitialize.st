@@ -1,6 +1,6 @@
 initialization
 postOpenInitialize
-	"Fortsetzung von #initialize. Musste in zwei Nachrichten aufgeteilt werden, da die Reihenfolge der hier geschickten Nachrichten sonst undefiniert das Erscheinungsbild des Fensters beeinflusst."
+	"Continuation of #initialize. Must be split into two messages, because the order of the messages that are sent here would undefined influence the appearence of the window."
 	self
 		commandExecutor: EpicCommandExecutor new;
 		addPanels;

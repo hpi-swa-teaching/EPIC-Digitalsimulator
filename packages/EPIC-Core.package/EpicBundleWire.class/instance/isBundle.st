@@ -1,4 +1,4 @@
 selection
 isBundle
 
-	^true
+	^ true

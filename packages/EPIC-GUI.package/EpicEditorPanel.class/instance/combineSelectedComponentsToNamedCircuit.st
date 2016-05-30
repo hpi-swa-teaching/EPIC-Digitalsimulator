@@ -1,7 +1,6 @@
 combining
 combineSelectedComponentsToNamedCircuit
-	"Benannte Schaltkreise werden im Paketsystem gespeichert. Dies ist das Standard-
-	verhalten, wenn mehrere Komponenten über die GUI kombiniert werden."
+	"Named circuits are saved in a package system. This is standard behaviour when several components are combined by using the GUI."
 	(self selectedComponents size < 2) 
 		ifTrue: [^self].
 	(EpicCircuitNamingDialog 

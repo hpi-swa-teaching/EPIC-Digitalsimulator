@@ -1,6 +1,6 @@
 command handling
 createBundleCommand
-	"Erstellt bundle command aus der aktuellen Auswahl"
+	"Creates bundle command from the current selection."
 	^ (EpicBundleCommand newFor: self) 
 		wires: self selectedWires;
 		yourself
