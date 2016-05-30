@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Documentation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicGettingStarted",
+	"pools" : [
+		 ],
+	"super" : "EpicHelp",
+	"type" : "normal" }
