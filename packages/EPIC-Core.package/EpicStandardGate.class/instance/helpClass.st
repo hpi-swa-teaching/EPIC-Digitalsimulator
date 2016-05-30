@@ -1,4 +1,4 @@
 constants
 helpClass
 
-	^ EpicStandardGateHelp
+	^ EpicGateHelp

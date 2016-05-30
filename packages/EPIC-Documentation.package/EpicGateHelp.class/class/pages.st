@@ -1,4 +1,4 @@
 as yet unclassified
 pages
 
-	^ #(general EpicStandardGateHelp)
+	^ #(general EpicNotHelp EpicAndHelp EpicOrHelp EpicNandHelp EpicNorHelp EpicXorHelp EpicXnorHelp EpicEqualHelp)
