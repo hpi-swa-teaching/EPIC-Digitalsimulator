@@ -6,4 +6,5 @@ initialize
 		initializePorts;
 		deselect;
 		createPorts;
-		initialSimulate
+		initialSimulate;
+		toggleLabelOnHover: true

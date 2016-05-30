@@ -1,0 +1,3 @@
+naming
+labelName
+	^ self componentName

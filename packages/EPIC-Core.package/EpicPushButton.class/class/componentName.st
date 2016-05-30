@@ -1,0 +1,3 @@
+naming
+componentName
+	^ 'push button'
