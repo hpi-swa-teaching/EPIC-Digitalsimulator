@@ -1,7 +1,7 @@
-Ich bin ein Schalter.
+I am a switch.
 
 Instance Variables
 	pressed:		<Boolean>
 
 pressed
-	- Zustand des Gedrücktseins
+	- state of being pressed

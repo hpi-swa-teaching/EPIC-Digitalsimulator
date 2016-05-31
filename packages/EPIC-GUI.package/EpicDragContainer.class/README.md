@@ -1,1 +1,1 @@
-Ich bin ein Container für diejenigen Komponenten (Gatter), die der Benutzer selektiert hat.
+I am a container for the components (gates) which the user selected.

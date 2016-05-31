@@ -1,7 +1,7 @@
-Ich speichere die Konfiguration und bin für die Anzeige der verschiedenen Komponenten verantwortlich. 
+I store the configuration and am responsible for the display of the several components.
 
 Instance Variables
 	componentStyle:		<Symbol>
 
 componentStyle
-	- Symbol zur aktuellen Konfiguration
+	- symbol for the current configuration

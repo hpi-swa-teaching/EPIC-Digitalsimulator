@@ -1,7 +1,7 @@
-Ich liefere einen Wert , sobald auf mich geklickt wird.
+I return a value when I am pressed.
 
 Instance Variables
 	pressed:		<Boolean>
 
 pressed
-	- gibt an , ob der Button gedrückt ist
+	- returns whether the button is pressed

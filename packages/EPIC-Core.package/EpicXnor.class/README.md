@@ -1,1 +1,1 @@
-Ich bin ein logisches verneintes exklusives Oder.
+I am a logical negated exclusive Or.

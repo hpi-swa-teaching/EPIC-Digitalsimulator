@@ -1,1 +1,1 @@
-Ich bin der EpicSelector. Ich erlaube es dem Nutzer, mehrere Komponenten einer Schaltung mit einem Rechteck zu markieren. Dazu speichere ich den Punkt, an dem der Benutzer die Linke Maustaste gedrückt hat.
+I am the EpicSelector. I allow the user to highlight several components of a circuit with a right click. For that I store the point at which the user is pressing the left mouse button.

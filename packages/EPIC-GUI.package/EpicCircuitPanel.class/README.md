@@ -1,4 +1,4 @@
-Ich bin die abstrakte Basisklasse für ein Panel, welches Komponenten beinhalten kann die der User draggen und droppen kann.
+I am the abstract base class for a panel which can contain components which the user can drag and drop.
 
 Instance Variables
 	componentHandler:		<Object>

@@ -1,1 +1,1 @@
-Ich liefere immer True - ich bin die Wahrheit.
+I always return True - I am the truth.

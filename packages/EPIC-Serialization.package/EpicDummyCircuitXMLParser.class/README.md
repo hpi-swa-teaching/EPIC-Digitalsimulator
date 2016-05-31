@@ -1,1 +1,1 @@
-Ich sorge dafür, dass die benutzdefinierten Schaltkreise auch im PrototypePanel bereits geladen werden können. Da dem PrototypePanel kein Simulator bekannt ist, würde es dort bei rückgekoppelten Schaltungen zu einer Endlosschleife kommen. Ich sorge dafür, dass nur das Interface des XML-Dokuments geparset wird.
+I ensure that user-defined circuits can also be loaded from the PrototypePanel. Since the PrototypePanel does not know any simulator, feedback/backlinked circuits would lead to an infinite loop. I ensure that only the interface of the XML-document is parsed.

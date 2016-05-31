@@ -8,4 +8,4 @@ commandStack
 	- xxxxx
 
 presumedCommand
-	- ein noch nicht ausgeführter Befehl, der zur Ausführung vorgemerkt ist.
+	- a not yet executed command that is noted for execution

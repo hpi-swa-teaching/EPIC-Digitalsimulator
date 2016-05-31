@@ -1,1 +1,1 @@
-Ich bin der Container für das EditorPanel und die NavigationBar und kapsele so alles, was in der rechten Fensterhälfte enthalten ist. Ich bin, neben meinem Bruder, der PrototypeBox, im Window enthalten.
+I am the container for the EditorPanel and the NavigationBar and thus encapsulate everything in the right window half. I am, aside from my brother PrototypeBox, contained in the window.

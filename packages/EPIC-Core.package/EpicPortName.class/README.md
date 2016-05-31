@@ -1,7 +1,7 @@
-Ich kann die Namen von Ports anzeigen und richte sie entsprechend der Breite des Namens neben dem Port an.
+I can display the names of ports and align them according to the width of the name next to the port.
 
 Instance Variables
 	port:		<EpicPort>
 
 port
-	- Verweis auf den Port, dessen Name ich anzeige
+	- reference to the port whose name I am displaying

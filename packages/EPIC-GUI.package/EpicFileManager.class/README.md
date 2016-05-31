@@ -1,1 +1,1 @@
-Dummy"Ich, der FileBrowser, erlaube es dem Benutzer, einen zu ladenden Schaltkreis aus dem Dateisystem auszuwählen. 
+Dummy"I, the FileManager, allow a user to select a circuit to load from the data system.

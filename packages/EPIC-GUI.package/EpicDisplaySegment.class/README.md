@@ -1,5 +1,5 @@
-Ich bin das Segment einer Sieben-Segment-Anzeige.
-Ich kann entweder an- oder ausgeschaltet sein, dies ist durch isPowered abfragbar.
+I am the segment of a seven-segment-display.
+I can be turned on or off. The state of that can be asked through isPowered.
 
 Instance Variables
 	powered:		<Boolean>

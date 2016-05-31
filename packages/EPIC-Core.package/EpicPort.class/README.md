@@ -1,4 +1,4 @@
-Ich bin ein Port und gehöre zu einer bestimmten Komponente. 
+I am a port and belong to certain component.
 
 Instance Variables
 	component:		<EpicComponent >
@@ -7,13 +7,13 @@ Instance Variables
 	wires:			<OrderedCollection >
 
 component
-	- Verweis auf die Komponente zu der der Port gehört
+	- reference to the component to which the port belongs
 
 portName
-	- Verweis auf die Anzeige des Portnamens
+	- reference to the display of the port name
 
 value
-	- hält den booleaschen Wert der gerade an dem Port anliegt
+	- contains the boolean value of the port
 
 wires
-	- Sammlung aller EpicWires die am Port anliegen
+	- collection of all wires connected to the port

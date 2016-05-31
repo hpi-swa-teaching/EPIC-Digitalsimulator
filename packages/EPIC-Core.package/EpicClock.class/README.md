@@ -1,11 +1,11 @@
-Ich bin eine Clock die zeitgesteuert, periodisch, abwechselnd True und False an meinen Ausgang sendet.
+I am a clock that sends True and false to my output timed/periodically/alternating. 
 
 Instance Variables
 	agent:		<Monitor >
 	value:		<Boolean>
 
 agent
-	- steuert die zeitliche Änderung des Wertes
+	- manages the timed change of the value
 
 value
-	- der aktuelle Wert
+	- current value

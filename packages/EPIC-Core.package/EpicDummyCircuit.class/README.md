@@ -1,7 +1,7 @@
-Ich bin nur ein Platzhalter Schaltkreis der in dem PrototypePanel angezigt werden kann. Leider habe ich keine Funktionalität wie Simulation. 
+I am only a substitute circuit in which a PrototypePanel can be shown. Unfortunately I don't have functionalities like simulation. 
 
 Instance Variables
 	xmlDocument:		<XMLDocument>
 
 xmlDocument
-	- das zum Schaltkreis gehörende XMLDokument
+	- the xml-document belonging to the circuit

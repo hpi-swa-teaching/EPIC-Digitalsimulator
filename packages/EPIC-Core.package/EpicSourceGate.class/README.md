@@ -1,1 +1,1 @@
-Ich bin ein Gatter, welches als Quelle für Werte dient. Ich habe keine InputPorts.
+I am a gate which is a source for values. I don't have InputPorts.

@@ -1,2 +1,2 @@
-EpicHalfAdder ist ein Halbaddierer..
+EpicHalfAdder is a halfadder.
 

@@ -1,4 +1,4 @@
-Ich bin ein Simulator und sorge für die korrekte (zeitliche) Ausführung der Signalverläufe zwischen den Schaltkreisen.
+I am a simulator and ensure the correct (chronological) execution of the value changes between circuits.
 
 Instance Variables
 	agent:		<EpicConcurrencyAgent>
@@ -9,19 +9,19 @@ Instance Variables
 	wires:		<OrderedCollection>
 
 agent
-	- Ein EpicConcurrencyAgent der die parallele Ausführung des Simlators kontrolliert
+	- an EpicConcurrencyAgent that controls parallel executions of the simulator
 
 components
-	- Schaltkreis-Elemente, die der Simulator simuliert (und deren Signalverläufe überwacht)
+	- circuit elements that the simulator simulates and monitors
 
 queueMutex
-	- Mutex für den synchronisierten Zugriff auf die simulationQueue.
+	- mutex for the synchronised access to the simulationQueue
 
 simulationQueue
-	- Queue aller noch ausstehenden SimulationsEvents. (ständig nach der Zeit sortiert)
+	- queue of all outstanding SimulationsEvents (always sorted by time)
 
 simulationTime
-	- aktuelle (logische) Simulationszeit die schrittweise hochzählt.
+	- current (logical) simulation time that is incremented step wise
 
 wires
-	- Kabel, deren Änderungen der Simulator zeitlich korrekt simuliert
+	- wires whose changes the simulator simulates temporally correct

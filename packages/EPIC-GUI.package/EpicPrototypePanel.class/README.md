@@ -1,4 +1,4 @@
-Ich bin ein Schaltkreispanel , dass nur Prototypen von Schaltkreisen und Komponenten enthält.
+I am a circuit panel that only contains prototypes of circuits and components.
 
 Instance Variables
 	components:		<Object>

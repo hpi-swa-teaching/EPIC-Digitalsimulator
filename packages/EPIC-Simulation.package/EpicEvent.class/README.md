@@ -1,2 +1,2 @@
-Ich bin ein abstraktes Simulationsevent.
-Man kann mich sortieren (nach meinem Zeitstempel)
+I am an abstact simulation event.
+I can be sorted (by my time stamp).

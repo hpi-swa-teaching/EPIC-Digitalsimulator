@@ -1,7 +1,7 @@
-Ich bin eine Lampe und kann, falls ein Wert anliegt leuchten.
+I am a lamp and can glow.
 
 Instance Variables
 	powered:		<Boolean>
 
 powered
-	- gibt an ob die Lampe angeschaltet ist
+	- returns if the lamp is powered
