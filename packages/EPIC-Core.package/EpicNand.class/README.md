@@ -1,1 +1,1 @@
-Ich bin ein logisches verneintes Und.
+I am a logical negated And.

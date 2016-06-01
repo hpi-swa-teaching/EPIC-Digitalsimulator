@@ -1,3 +1,3 @@
 helper messages
 temporaryCircuitName
-	^ 'epic.test.test'
+	^ 'test.test'

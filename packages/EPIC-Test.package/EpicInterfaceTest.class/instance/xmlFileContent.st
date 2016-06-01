@@ -1,6 +1,6 @@
 running
 xmlFileContent
-	"Filecontent, der notwendig ist, damit die Tests auch beim ersten ausführen durchlaufen"
+	"Creates filecontent that ensures that the tests also work in the first execution."
 	^ '<?xml  version="1.0" encoding="UTF-8" ?>
 <circuit delay="1" name="epic.test.test" xmlns="http://www.chaos-wg.net/epic/2010/07/circuitML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.chaos-wg.net/epic/2010/07/circuitML http://www.chaos-wg.net/epic/2010/07/circuitML.xsd">
 	<interface>

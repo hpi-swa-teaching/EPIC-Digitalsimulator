@@ -1,1 +1,2 @@
-Ich bin ein Dialog zum Erfragen eines Namens für einen neuen Schaltkreis. Ich erscheine, wenn der Benutzer einen neuen Schaltkreis per collapse (c) erzeugt. Das EditorPanel erzeugt mich, wenn ich gebraucht werde.
+I am a dialogue that aks for the name of a new circuit. I appear when the user creates a new circuit using collapse (c).
+The EditorPanel creates me when I am needed.

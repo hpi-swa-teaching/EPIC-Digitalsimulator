@@ -1,5 +1,4 @@
 keyboard control
 removeMatchString
-	"Wird in DockingBarMorph >> #activeSubmenu: als letzte Aktion aufgerufen und sorgt
-	dafür, dass alle Menüeinträge wieder aktiviert werden (was wir aber nicht wollen)."
+	"Is called as a last action in DockingBarMorph >> #activeSubmenu: and ensures that all menu entries are reactivated (which we don't want)."
 	^ self

@@ -1,4 +1,4 @@
-Ich repräsentiere eine Gruppe von EpicPortEvent-Objekten und fasse diese Zusammen, damit eine Komponente mit mehreren Eingängen nicht unnötig viele Signaländerungen berechnen muss, wenn diese absolut gleichzeitig eintreffen.
+I represent a group of EpicPortEvent objects and sum them up so that a component with multiple inputs does not have to calculate unneeded value changes that arrive simultaneously.
 
 Instance Variables
 	affectedComponent:		<EpicComponent>
@@ -6,10 +6,10 @@ Instance Variables
 	timeStamp:		<Number>
 
 affectedComponent
-	- Komponente, die gleichzeitig mehrere Port-Änderungen erhalten soll
+	- component that receives several changes at the same time
 
 portEvents
-	- Gruppe von EpicPortEvents, die zum selben Zeitpunkt stattfinden sollen.
+	- group of EpicPortEvents that are supposed to happen simultaneously
 
 timeStamp
-	- Zeitpunkt für die Port-Änderungen
+	- time of the changes

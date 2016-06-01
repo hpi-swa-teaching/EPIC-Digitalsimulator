@@ -1,8 +1,6 @@
 instance creation
 save: aCircuit
-	| fileName |
-	fileName := EPIC translateCircuitNameToFileName: aCircuit fullyQualifiedName.
-	self ensureDirectoryExistence: fileName.
-	(FileStream forceNewFileNamed: fileName)
+	self ensureDirectoryExistence: aCircuit filePath fullName.
+	(FileStream forceNewFileNamed: aCircuit filePath fullName)
 		print: aCircuit asXMLDocument;
 		close

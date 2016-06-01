@@ -1,5 +1,5 @@
-Ich stelle eine Sieben-Segment-Anzeige dar.
-Meine Eingangsbelegung steuert meine Segmente in folgender Reihenfolge an:
+I represent a seven-segment-display.
+My input assignment manages the segments in the following order:
 top, topRight, bottomRight, bottom, bottomLeft, topLeft, center
 
 Instance Variables

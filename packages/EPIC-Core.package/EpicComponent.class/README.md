@@ -1,4 +1,4 @@
-Ich bin die abstrakte Basisklasse aller Komponenten. Bei meiner Erstellung erzeuge ich mittels #createInput/Outputports meine Ports. Meine Schaltfunktion wird mittels #simulateWith: inputValues realisiert, indem die Werte die an meinen Inputports anliegen verarbeitet und an die Outputports weitergeleitet werden.
+I am the abstract base class of all components. During my creation I create my ports using #createInput/Outputports. My switching fuction is realised by #simulateWith: inputValues, by processing the values at my input ports and forwarding them to the output ports.
 
 Instance Variables
 	inputPorts:			<OrderedCollection>
@@ -6,10 +6,10 @@ Instance Variables
 	selected:			<Boolean>
 
 inputPorts
-	- Sammlung aller Eingangsports
+	-  collection of all input ports
 
 outputPorts
-	- Sammlung der Ausgangsports
+	- collection of all output ports
 
 selected
-	- gibt an ob die Komponenten gerade markiert ist
+	- returns if the component is currently highlighted

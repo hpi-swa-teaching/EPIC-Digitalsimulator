@@ -1,1 +1,1 @@
-ich negiere meinen Eingang.
+I negate my input.

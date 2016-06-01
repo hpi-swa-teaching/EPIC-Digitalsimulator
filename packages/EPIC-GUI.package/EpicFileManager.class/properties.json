@@ -1,0 +1,17 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 5/31/2016 11:53",
+	"instvars" : [
+		"fileNameInput",
+		"inputPane",
+		"saveButton",
+		"saveButtonPane" ],
+	"name" : "EpicFileManager",
+	"pools" : [
+		 ],
+	"super" : "FileChooser",
+	"type" : "normal" }

@@ -1,5 +1,4 @@
 keystroke helpers
 handleFiltering: anEvent
-	"Wir wollen kein Filtern durch Tastatureingabe zulassen, weil dadurch die aktivierten
-	Einträge unseres Menüs verändert werden."
+	"We don't want to allow filtering through the keyboard input because the active entries of our menu are altered by it."
 	^ self

@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "tb 7/23/2010 21:32:39.978",
+	"commentStamp" : "ek 5/30/2016 20:43",
 	"instvars" : [
 		"simulationCycles",
 		"maxSimulationCycles" ],

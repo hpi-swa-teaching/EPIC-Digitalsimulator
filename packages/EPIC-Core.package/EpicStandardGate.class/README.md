@@ -1,1 +1,1 @@
-Ich bin ein StandardGatter und kann mich auf verschiedene Arten zeichnen. Folgende Normen unterstütze ich: ANSI, DIN, IEC und EPIC.
+I am a StandardGate and can draw myself in several ways. I support the following norms: ANSI, DIN, IEC und EPIC.

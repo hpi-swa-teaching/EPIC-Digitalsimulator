@@ -1,5 +1,5 @@
-Ich bin das Hauptfenster von EPIC.
-Ich verwalte die Menubar und stelle die Boxen bereit in die das EpicEditorPanel und die EpicPrototypePanels gerendert werden. Ich trage die Menu-Punkte in die menuBar ein und halte zwei Menus bereit, falls deren Elemente ausgegraut werden müssen(settingsMenu, simulationMenu). Weiterhin wird von mir der simulator bereit gehalten.
+I am the main window of EPIC.
+I manage the MenuBar and provides the boxes in which the EpicEditorPanel and EpicPrototypePanels are redered. I enter the menu points into the MenuBar and store two menus, in case their elements have to be greyed (settingsMenu, simulationMenu). Additionally I keep the simulator ready.
 
 Instance Variables
 	editorBox:		<EpicEditorBox>

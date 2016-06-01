@@ -1,4 +1,4 @@
-Ich bin das Hauptpanel zum Bearbeiten und Simulierenn von Schaltkreisen und deren Elementen.
+I am the main panel for editing and simulating circuits and their elements.
 
 Instance Variables
 	circuits:		<Object>

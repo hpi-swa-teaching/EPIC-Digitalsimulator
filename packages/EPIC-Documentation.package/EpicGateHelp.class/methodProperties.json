@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"EpicAndBalloonText" : "eg 5/30/2016 13:27",
+		"EpicAndHelp" : "eg 5/30/2016 13:27",
+		"EpicEqualBalloonText" : "eg 5/30/2016 13:28",
+		"EpicEqualHelp" : "eg 5/30/2016 13:28",
+		"EpicNandHelp" : "eg 5/30/2016 13:28",
+		"EpicNorHelp" : "eg 5/30/2016 13:28",
+		"EpicNotHelp" : "eg 5/30/2016 13:28",
+		"EpicOrHelp" : "eg 5/30/2016 13:29",
+		"EpicXnorHelp" : "eg 5/30/2016 13:29",
+		"EpicXorHelp" : "eg 5/30/2016 13:29",
+		"bookName" : "eg 5/29/2016 13:24",
+		"general" : "eg 5/29/2016 13:30",
+		"pages" : "eg 5/30/2016 13:29" },
+	"instance" : {
+		 } }

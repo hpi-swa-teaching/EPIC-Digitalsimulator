@@ -1,1 +1,1 @@
-Ich, das EpicPolygon, bin eine Hilfsklasse zur Darstellung der verschiedenen Primitven Gatter in verschiedenen Styles (ANSI, DIN).
+I, the EpicPloygon, am a helper class for displaying the different primitive gates in different styles (ANSI, DIN).

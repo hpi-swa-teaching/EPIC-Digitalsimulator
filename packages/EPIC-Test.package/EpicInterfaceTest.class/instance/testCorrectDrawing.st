@@ -12,4 +12,4 @@ testCorrectDrawing
 		deleteSelectedComponents.
 	
 	"self assert: [ self window imageForm bits = initialForm bits ]" 
-	"Auskommentiert für continous integration, da mit full window nicht mehr funktionsfähig"
+	"this was turned into a comment for continous integration, because full window is no longer functioning with it"

@@ -1,4 +1,4 @@
 parsing
 parseImplementation: anXMLElement
-	"Die Implementierung des Circuits interessiert uns nicht, weil wir ihn ja nur nach außen hin darstellen wollen."
+	"The implementation of the circuit does not interest us, because we only want to represent it to the outside."
 	^ self

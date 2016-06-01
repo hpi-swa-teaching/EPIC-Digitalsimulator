@@ -1,4 +1,4 @@
-Ich bin ein Schaltkreis, welcher aus mehreren UnterSchaltkreisen bestehen kann. Es besteht die Möglichkeit mich als XML-Dokument zu exportieren (#asXMLDocument). Meine äußeren Ports werden auf die entsprechenden inneren Ports gemappt. 
+I am a circuit and can consist of subcircuits. I can be exported as an xml-document (#asXMLDocument). My outer ports are mapped to the corresponding inner ports.
 
 Instance Variables
 	fullyQualifiedName:			<String>
@@ -9,19 +9,19 @@ Instance Variables
 	subComponents:			<OrderedCollection>
 
 fullyQualifiedName
-	- Name der den genauen Pfad angibt, in welchem Package der Schaltkreis liegt (epic.standard.and)
+	- name of the exact path of the package in which the circuit is located (epic.standard.and)
 
 initialHeight
-	- Höhe
+	- height
 
 innerInputPorts
-	- Verweis auf die InputPorts innerhalb des Schaltkreises
+	- reference to the InputPorts inside of the circuit
 
 innerOrigin
-	- obere linke Ecke an der die Schaltung ausgerichtet wird
+	- upper left corner of where the circuit is placed
 
 innerOutputPorts
-	- Verweis auf die inneren OutputPorts
+	- reference to the OutputPorts inside of the circuit
 
 subComponents
-	- die Unterkomponenten die ich enthalte
+	- the subcomponents I contain

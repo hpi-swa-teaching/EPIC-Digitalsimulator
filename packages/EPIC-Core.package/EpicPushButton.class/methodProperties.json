@@ -1,10 +1,10 @@
 {
 	"class" : {
-		 },
+		"componentName" : "SeSc 5/28/2016 20:05" },
 	"instance" : {
 		"activate" : "tb 6/8/2010 21:38:33.796",
 		"deactivate" : "tb 6/8/2010 21:38:38.872",
-		"drawOn:" : "tb 6/8/2010 21:38:05.63",
+		"drawOn:" : "ek 5/31/2016 15:29",
 		"initialSimulate" : "tb 6/11/2010 18:50:48.264",
 		"pressed" : "tb 6/8/2010 21:36:40.507",
 		"pressed:" : "tb 6/8/2010 21:36:40.542",

@@ -1,3 +1,3 @@
-EpicMenu verhält sich wie ein DockingBarMenuMorph mit der Ausnahme, dass das Filtern der MenuItems durch Tastatureingaben abgestellt ist.
+EpicMenu acts like a DockingBarMenuMorph with the exeption that filtering of the MenuItens through keyboard input is disabled.
 
-Dies hat den Grund, dass wir im Menü des EpicWindows einige Felder selbstständig aktivieren und deaktivieren wollen (je nach Zustand einer oder mehrerer Komponenten) -- beispielsweise die Optionen zum Starten und Stoppen der Simulation.
+The reason for that is that certain panels in the menu want to activate and deactivate on their own (depending on the state or states of one or more components) - for example the option to starting and stopping the simulation.

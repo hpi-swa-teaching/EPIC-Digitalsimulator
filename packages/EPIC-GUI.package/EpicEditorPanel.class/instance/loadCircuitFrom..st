@@ -1,4 +1,6 @@
 loading
 loadCircuitFrom: anXMLDocument
-	self showReplacedCircuit: 
-		(self parseCircuitFrom: anXMLDocument)
+	| circuit |
+	circuit := self parseCircuitFrom: anXMLDocument.
+	self updatePositionOf: circuit.
+	self showReplacedCircuit: circuit

@@ -1,4 +1,4 @@
-Ich bin ein Simulationsevent, dass eine Signaländerung für ein Kabel repräsentiert.
+I am a simulation event that represents a value change of a wire.
 
 Instance Variables
 	timeStamp:		<Number>
@@ -6,10 +6,10 @@ Instance Variables
 	wire:		<EpicWire>
 
 timeStamp
-	- (logischer) Simulationszeitpunkt, zu dem die Signaländerung passieren soll
+	- (logical) simulation moment at which the value change is supposed to happen
 
 value
-	- Neuer Wert der Signaländerung
+	- new value that is assigned
 
 wire
-	- Zielkabel, das einen neuen Signalwert erhält
+	- wire that is assigned a new value

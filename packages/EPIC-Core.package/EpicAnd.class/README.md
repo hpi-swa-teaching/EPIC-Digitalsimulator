@@ -1,1 +1,1 @@
-Logisches Und.
+Logical And.

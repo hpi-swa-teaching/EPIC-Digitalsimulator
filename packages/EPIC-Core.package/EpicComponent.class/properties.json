@@ -4,12 +4,14 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ak 7/23/2010 21:50:15.714",
+	"commentStamp" : "ek 5/30/2016 20:39",
 	"instvars" : [
 		"inputPorts",
 		"outputPorts",
 		"selected",
-		"isSimulating" ],
+		"isSimulating",
+		"label",
+		"toggleLabelOnHover" ],
 	"name" : "EpicComponent",
 	"pools" : [
 		 ],

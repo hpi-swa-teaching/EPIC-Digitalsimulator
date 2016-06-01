@@ -1,5 +1,6 @@
 input/output
-saveAs: aCircuitName
+saveAs: aFilePath
 	(self editorPanel baseCircuit) 
-		fullyQualifiedName: aCircuitName;
+		fullyQualifiedName: aFilePath name;
+		filePath: aFilePath;
 		save

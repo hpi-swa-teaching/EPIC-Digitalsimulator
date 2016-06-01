@@ -1,4 +1,4 @@
-Ich erzeuge aus XML-Dokumenten, die im EPIC-XML-Format vorliegen, neue Schaltkreise.
+I create new circuits from XML-documents that are in EPIC-XML-format.
 
 Instance Variables
 	circuit:		<EpicCircuit>
@@ -6,10 +6,10 @@ Instance Variables
 	primitiveStore:		<Collection>
 
 circuit
-	- der fertige Schaltkreis
+	- the complete circuit
 
 portMap
-	- die Ports, die im <interface>-Tag des XML-Dokuments spezifiziert wurden. Diese Map wird benötigt, um beim parsen der Verbindungen die tatsächlichen Ports wiederzufinden.
+	- the ports that are specified in the <interface>-tag of the XML-document. This map is needed in the parsing of connections to find the actual connected ports
 
 primitiveStore
-	- Auf die primitiven Elemente (Subklassen von EpicGate), kann in EPIC-XML über den Namensraum epic.primitives zugegriffen werden. Diese Collection enthält alle gültigen Primitiven.
+	- The primitive elements (subclasses of EpicGates) can be accessed in EPIC-XML using name space epic.primitives. This collection contains all valid primitives.

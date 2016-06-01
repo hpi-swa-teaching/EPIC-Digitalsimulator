@@ -1,1 +1,1 @@
-Mit meiner Hilfe können einzelne Schaltkreiselemente in fixen Abständen ausgerichtet werden.
+With my help single circuit elements can be aligned in fixed intervals.

@@ -1,1 +1,1 @@
-Ich bin ein logisches exklusives Oder.
+I am a logical exclusive Or.

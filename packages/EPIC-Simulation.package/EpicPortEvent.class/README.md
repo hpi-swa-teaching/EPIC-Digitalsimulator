@@ -1,4 +1,4 @@
-Ich bin ein Simulationsevent, dass eine Signaländerung für einen Port repräsentiert.
+I am a simulation event that represents a value change for a port.
 
 Instance Variables
 	port:		<EpicPort>
@@ -6,10 +6,10 @@ Instance Variables
 	value:		<Boolean>
 
 port
-	- Zielport, der einen neuen Signalwert erhält
+	- port that is assigned a new value
 
 timeStamp
-	- (logischer) Simulationszeitpunkt, zu dem die Signaländerung passieren soll
+	- (logical) simulation moment at which the value change is supposed to happen
 
 value
-	- Neuer Wert der Signaländerung
+	- new value that is assigned

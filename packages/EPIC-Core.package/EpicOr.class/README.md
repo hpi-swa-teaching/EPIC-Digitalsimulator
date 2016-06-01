@@ -1,1 +1,1 @@
-Ich bin ein logisches Oder.
+I am a logical Or.

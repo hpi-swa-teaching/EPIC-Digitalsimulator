@@ -1,1 +1,1 @@
-Ich bin ein verneintes logisches Oder.
+I am a logical negated Or.

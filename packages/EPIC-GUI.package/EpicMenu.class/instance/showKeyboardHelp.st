@@ -1,4 +1,4 @@
 keystroke helpers
 showKeyboardHelp
-	"Unterdrückt die Helpmessage, wenn Tastatureingaben gemacht werden."
+	"Represses the help message when keyboard inputs are made."
 	^ self

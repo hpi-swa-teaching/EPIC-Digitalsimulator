@@ -4,14 +4,15 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ak 7/23/2010 22:08:33.865",
+	"commentStamp" : "ek 5/31/2016 11:12",
 	"instvars" : [
-		"fullyQualifiedName",
 		"innerInputPorts",
 		"innerOrigin",
 		"innerOutputPorts",
 		"subComponents",
-		"initialHeight" ],
+		"initialHeight",
+		"fullyQualifiedName",
+		"filePath" ],
 	"name" : "EpicCircuit",
 	"pools" : [
 		 ],

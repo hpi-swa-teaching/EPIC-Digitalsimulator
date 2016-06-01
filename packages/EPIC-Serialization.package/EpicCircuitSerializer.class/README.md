@@ -1,7 +1,7 @@
-Ich unterstützte die Schaltkreise dabei, sich als XML-Dokumente auszugeben. Dazu werden Instanzen von mir mit #for: erzeugt. Das tatsächliche XML-Dokument erhält man dann mit #asXMLDocument.
+I support the circuits function to represent themselves as XML-documents. To do that instances of me have to be created using #for:. The actual XML-document can be acquired using #asXMLDocument.
 
 Instance Variables
 	circuit:		<EpicCircuit>
 
 circuit
-	- Der Schaltkreis, den ich serialisieren soll.
+	- the circuit I am supposed serialize

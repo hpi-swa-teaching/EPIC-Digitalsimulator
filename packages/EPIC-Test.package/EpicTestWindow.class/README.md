@@ -1,12 +1,12 @@
-Ich überschreibe die Nachrichten #initialize und #postOpenInitialize des EpicWindows und stelle somit ein Fenster dar, das auch in der Testumgebung verwendet werden kann.
+I overwrite the messages #initialize and #postOpenInitialize of the EpicWindow and thus represent a window that can be used in the testing environment.
 
+Author's note:
+[wirtten by fz 07/19/2010, translated by ek 05/31/2016]
 
-Anmerkung der Autoren:
-
-Aus einem uns vollkommen unerfindlichen Grund laufen die Tests aus EpicInterfaceTest nicht, wenn dort anstelle des EpicTestWindows das "normale" EpicWindow verwendet wird.
-	Der alte Stand von EpicWindow >> #initialize war der hier enthaltene.
-	Im Rahmen des Refactorings haben wir uns jedoch dazu entschlossen, diese Nachricht ein wenig aufzuspalten und einige (nicht unmittelbar ersichtliche) Abhängigkeiten zu entfernen (siehe Kommentare in EpicTestWindow >> #initialize). Hierdurch hat sich zum Einen #initialize verkürzt und folgt nun auch dem Single Level of Abstraction Principle (jedenfalls mehr als vorher).
-	Allerdings hatte dies zur Folge dass nun bei den Testfällen das EpicWindow angezeigt wurde und die DragEvents nicht korrekt bearbeitet wurden, wodurch dementsprechend die Interfacetests fehlschlugen. Um die Tests wieder zum Laufen zu bringen, wurde diese Klasse eingefügt, deren einziger Unterschied zu EpicWindow in der Reihenfolge der Initialisierungsschritte liegt.
+Because of a to us inconceivable reason the tests in EpicInterfaceTest won't work if the "normal" EpicWindow is used insetad of the EpicTestWindow.
+	The old version of EpicWindow >> #initialize was used for this.
+	As part of the refactoring process we decided to split that message and to remove some dependencies (that are not identifiable at first glance, see also the comments in EpicTestWindow >> #initialize). This shortens #initialize and follows the Single Level of Abstraction Principle (at least more than before).
+	However, because of this in test cases the EpicWindow is displayed and the DragEvents are not processed correctly which lead to the failure of the interface tests. In order to satisfy those tests this class was created, the only difference being the order of initializationsteps.
 	
-	Wer das nachvollziehen möchte, setze in EpicTestProgram >> #startProgram anstelle von EpicTestWindow die Klasse EpicWindow ein.
+	If you want to test this put in EpicTestProgram >> #startProgram the class EpicTestWindow in place of EpicWindow.
 	

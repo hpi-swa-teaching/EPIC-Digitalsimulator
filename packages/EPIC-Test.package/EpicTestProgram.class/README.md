@@ -1,1 +1,1 @@
-Ich starte für die Integrations- und Akzeptanztests das EpicTestWindow.
+I start the EpicTestWindow for the integration and acceptance tests.

@@ -5,6 +5,6 @@ duplicate
 	duplicate 
 		xmlDocument: self xmlDocument;
 		fullyQualifiedName: self fullyQualifiedName.
-	"eachPort copy dauert zu lange."
+	"eachPort copy takes too long"
 	self ports do: [ :eachPort | duplicate addPort: eachPort class new ].
 	^ duplicate

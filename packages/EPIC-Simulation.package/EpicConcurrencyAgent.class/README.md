@@ -1,7 +1,7 @@
-Ich bin ein Agent, der die Verwendung von parallel laufenden Aufgaben vereinfacht.
-Ich kümmere mich um einen neuen Prozess, der unterbrechbar und fortführbar ist. Mein aktuellen Zustand wird durch #running, #waiting, #aborting, ... beschreiben.
+I am an agent who makes the usage of parallel working tasks easier.
+I take care of a new process that is interruptible and continueable. My current statt is described by #running, #waiting, #aborting, etc.
 
-Die parallel laufende Aufgabe ist optimalerweise eine Endlosschleife. Der Rumpf der Schleife wird mir als Block übergeben. Dies geschieht mittels #startConcurrentInLoop:.
-Vor jedem Ausführen prüfe ich, ob ein Abbruch/Pausieren signalisiert wurde.
+The parallel working task is ideally an infinite loop. The body of the loop is given to me as a block. This is done via #startConcurrentInLoop:..
+Before every execution I check if a breack was signalised.
 
-Zudem sollte der mir übergebene Block keine externen Wait-Objekte verwenden. Wenn er blockierend warten möchte, sollte er meine wait*-Methoden verwenden, damit bei einem Abbruch auch "höflich" und nicht "brutal" beendet wird. 
+The given block should not use external wait objects. If the block wants to wait blocking other tasks it should use my wait*-methods so that other taks are stopped "politely" by me and not "brutally".

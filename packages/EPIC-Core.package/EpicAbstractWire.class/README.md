@@ -1,11 +1,11 @@
-Ein EpicAbstractWire stellt ein abstraktes Kabel dar. Es besitzt einen Start-, Endport und Ankerpunkte auf denen das Kabel liegt.
+An EpicAbstractWire represents an abstract wire. It has a start port, end port and anchor points on which the wire is placed.
 
 Instance Variables
 	anchorPoints:		<OrderedCollection>
 	startPort:			<EpicPort>
 
 anchorPoints
-	- Sammlung aller Ankerpunkte auf denen das Kabel liegt
+	- collection of all points on which the wire is placed
 
 startPort
-	- den StartPort bei dem das Kabel anfängt
+	- the StartPort on which the wire begins

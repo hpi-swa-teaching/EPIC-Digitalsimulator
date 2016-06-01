@@ -1,1 +1,1 @@
-Ich bin ein spezieller Port der nur als Ausgang für Signale genutzt wird. Meine Kabel können nur an InputPorts andocken.
+I am a special port that can only be used as an exit for signals. I only accept wires leading to InputPorts.

@@ -1,8 +1,7 @@
 geometry
 editorFrame
-	"Frame für das EditorPanel. Geht bei 40% der Fensterbreite los und erstreckt sich
-	von dort aus zur unteren rechten Ecke des Fensters. Offset von 20 Pixel in den
-	Vertikalen für die Menüleiste."
+	"Frame for the EditorPanel. Extends to the lower right corner of the window.
+	Offset of 20 pixel vertically for the menu bar."
 	^ LayoutFrame 
 		fractions: (0@0 corner: 1@1) 
-		offsets: (200@20 corner: 0@0)
+		offsets: ((self class prototypeFrameWidth)@20 corner: 0@0)

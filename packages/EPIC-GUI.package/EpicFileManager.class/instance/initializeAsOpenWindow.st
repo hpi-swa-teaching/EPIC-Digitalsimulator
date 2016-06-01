@@ -1,0 +1,4 @@
+initialization
+initializeAsOpenWindow
+	self initializeBasicParameters.
+	self createOpenWindowUI.
