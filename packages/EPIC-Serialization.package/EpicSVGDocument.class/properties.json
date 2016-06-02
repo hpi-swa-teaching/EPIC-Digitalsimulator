@@ -9,7 +9,10 @@
 		"encoding",
 		"dtd",
 		"svgElement",
-		"xmlVersion" ],
+		"defsElement",
+		"xmlVersion",
+		"targetElement",
+		"nextId" ],
 	"name" : "EpicSVGDocument",
 	"pools" : [
 		 ],

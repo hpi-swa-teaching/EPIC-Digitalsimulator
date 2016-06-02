@@ -2,13 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"clipBy:during:" : "eg 5/21/2016 17:47",
+		"clipBy:during:" : "eg 6/1/2016 18:46",
 		"clipRect" : "eg 5/20/2016 12:36",
 		"clipRect:" : "eg 5/20/2016 12:36",
 		"contentsOfArea:into:" : "eg 5/20/2016 12:38",
 		"doesRoundedCorners" : "eg 5/20/2016 12:40",
-		"drawPolygon:color:borderWidth:borderColor:" : "eg 5/20/2016 13:06",
-		"drawString:from:to:at:font:color:" : "eg 5/21/2016 14:55",
+		"drawPolygon:color:borderWidth:borderColor:" : "eg 6/1/2016 18:47",
+		"drawString:from:to:at:font:color:" : "eg 6/2/2016 13:31",
 		"drawString:from:to:in:font:color:" : "eg 5/21/2016 14:51",
 		"fillOval:color:borderWidth:borderColor:" : "eg 5/21/2016 15:15",
 		"fillRectangle:color:" : "eg 5/21/2016 15:15",
@@ -24,4 +24,12 @@
 		"origin" : "eg 5/21/2016 17:57",
 		"origin:" : "eg 5/21/2016 17:56",
 		"shadowColor" : "eg 5/21/2016 17:33",
-		"shadowColor:" : "eg 5/21/2016 17:33" } }
+		"shadowColor:" : "eg 5/21/2016 17:33",
+		"stencil:at:sourceRect:color:" : "eg 6/1/2016 17:23",
+		"svgFontFamilyNameFor:" : "eg 6/2/2016 13:33",
+		"target:" : "eg 6/1/2016 18:53",
+		"transformBy:clippingTo:during:smoothing:" : "eg 6/1/2016 18:07",
+		"transformBy:during:" : "eg 6/1/2016 18:48",
+		"translateBy:clippingTo:during:" : "eg 6/1/2016 18:13",
+		"translateBy:during:" : "eg 6/1/2016 18:15",
+		"warpImage:transform:at:sourceRect:cellSize:" : "eg 6/1/2016 18:18" } }

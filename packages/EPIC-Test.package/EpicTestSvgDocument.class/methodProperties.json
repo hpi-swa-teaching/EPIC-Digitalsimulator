@@ -2,5 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"basicSvgDocument" : "eg 5/19/2016 19:54",
-		"testBasicSvgDocument" : "eg 5/19/2016 19:55" } }
+		"basicClipGroup" : "eg 6/1/2016 20:18",
+		"basicSvgDocument" : "eg 6/1/2016 19:46",
+		"basicText" : "eg 6/2/2016 16:24",
+		"document" : "eg 6/2/2016 13:55",
+		"document:" : "eg 6/2/2016 13:55",
+		"setUp" : "eg 6/2/2016 13:56",
+		"testBasicClipGroup" : "eg 6/2/2016 13:56",
+		"testBasicSvgDocument" : "eg 6/2/2016 13:57",
+		"testBasicText" : "eg 6/2/2016 14:01" } }

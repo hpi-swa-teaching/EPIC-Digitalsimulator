@@ -1,0 +1,4 @@
+constants
+clipPathElementName
+
+	^ 'clipPath'

@@ -1,14 +1,14 @@
 {
-	"category" : "EPIC-Test",
+	"category" : "EPIC-Serialization",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"document" ],
-	"name" : "EpicTestSvgDocument",
+		 ],
+	"name" : "EpicXMLStringNewlineNode",
 	"pools" : [
 		 ],
-	"super" : "TestCase",
+	"super" : "XMLStringNode",
 	"type" : "normal" }

@@ -1,11 +1,12 @@
 accessing
 drawString: aString from: firstIndex to: lastIndex at: aPoint font: fontOrNil color: aColor
 
-	| fillColor font |
+	| fillColor fontInfo font |
 	fillColor := self shadowColor ifNil: [aColor].
-	font := self svgFontFor: (fontOrNil ifNil: [self defaultFont]).
+	font := fontOrNil ifNil: [TextStyle defaultFont].
+	fontInfo := {self svgFontFamilyNameFor: font . font pointSize} asOrderedCollection.
 	self target
 		drawString: (aString asString copyFrom: firstIndex to: lastIndex)
 		at: aPoint
-		font: font
+		fontInfo: fontInfo
 		color: fillColor
