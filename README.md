@@ -22,7 +22,7 @@
 	To be able to reset the image make sure to save if before the lockdown.
 	(And deactivate the flag to save it afterwards!)
 	
-	Execute `EPICLockDownScript new lockDown.` in a workspace window.
+	Execute `EpicLockDownScript new lockDown.` in a workspace window.
 	
 	In detail this will …
 	
