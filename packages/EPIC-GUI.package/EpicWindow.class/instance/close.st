@@ -1,3 +1,3 @@
 as yet unclassified
 close
-	^ Smalltalk runAndQuit: []
+	^ Smalltalk snapshot: false andQuit: true
