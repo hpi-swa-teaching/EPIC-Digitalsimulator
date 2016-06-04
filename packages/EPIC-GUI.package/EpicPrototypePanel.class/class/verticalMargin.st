@@ -1,4 +1,4 @@
 magic numbers
 verticalMargin
-	"zusätzlicher Platz, welcher vor allem für die Labels der Komponenten benötigt wird"
+	"Additional margin that is needed in order to display the component labels."
 	^ 20
