@@ -5,7 +5,7 @@ drawString: aString at: aPoint fontInfo: aFontInfo color: aColor
 	textElement := XMLElement named: self textElementName.
 	textElement
 		attributeAt: 'x' put: aPoint x asString;
-		attributeAt: 'y' put: aPoint y asString;
+		attributeAt: 'y' put: (aPoint y + aFontInfo second) asString;
 		attributeAt: 'font-family' put: aFontInfo first;
 		attributeAt: 'font-size' put: aFontInfo second asString;
 		attributeAt: 'fill' put: aColor asHTMLColor;
