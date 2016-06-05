@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Documentation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicDisplayHelp",
+	"pools" : [
+		 ],
+	"super" : "EpicComponentHelp",
+	"type" : "normal" }
