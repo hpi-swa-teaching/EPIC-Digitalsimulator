@@ -1,0 +1,4 @@
+accessing
+clipRect
+	
+	^ clipRect

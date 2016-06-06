@@ -1,0 +1,4 @@
+accessing
+doesRoundedCorners
+
+	^ false

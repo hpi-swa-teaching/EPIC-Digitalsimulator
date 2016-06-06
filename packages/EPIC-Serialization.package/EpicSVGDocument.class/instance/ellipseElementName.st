@@ -1,0 +1,4 @@
+constants
+ellipseElementName
+
+	^ 'ellipse'

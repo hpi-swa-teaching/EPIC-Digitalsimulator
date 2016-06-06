@@ -1,0 +1,4 @@
+accessing
+shadowColor
+	
+	^ shadowColor

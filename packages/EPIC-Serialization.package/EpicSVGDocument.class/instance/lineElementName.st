@@ -1,0 +1,4 @@
+constants
+lineElementName 
+
+	^ 'line'

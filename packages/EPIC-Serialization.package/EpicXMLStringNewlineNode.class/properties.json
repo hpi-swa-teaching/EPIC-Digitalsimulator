@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Serialization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicXMLStringNewlineNode",
+	"pools" : [
+		 ],
+	"super" : "XMLStringNode",
+	"type" : "normal" }

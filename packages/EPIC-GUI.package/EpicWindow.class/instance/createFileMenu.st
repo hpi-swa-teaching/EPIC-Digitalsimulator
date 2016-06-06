@@ -18,6 +18,9 @@ createFileMenu
 		add: 'Export as ps...'
 			target: self
 			selector: #exportAsPs;
+		add: 'Export as svg...'
+			target: self
+			selector: #exportAsSvg;
 		addLine;
 		add: 'Close'
 			target: self
