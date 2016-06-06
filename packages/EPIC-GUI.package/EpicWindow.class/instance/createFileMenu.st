@@ -21,5 +21,5 @@ createFileMenu
 		addLine;
 		add: 'Close'
 			target: self
-			selector: #delete;
+			selector: #close;
 		yourself
