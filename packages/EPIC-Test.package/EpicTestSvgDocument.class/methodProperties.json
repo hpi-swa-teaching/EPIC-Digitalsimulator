@@ -15,6 +15,7 @@
 		"frameEllipse" : "eg 6/5/2016 20:49",
 		"frameRectangle" : "eg 6/5/2016 20:49",
 		"setUp" : "eg 6/2/2016 13:56",
+		"svgDocumentCoordinatesTest" : "eg 6/6/2016 14:00",
 		"svgHeader" : "eg 6/5/2016 14:16",
 		"testBasicClipGroup" : "eg 6/2/2016 13:56",
 		"testBasicLine" : "eg 6/5/2016 14:33",
@@ -25,4 +26,5 @@
 		"testFillFrameRectangle" : "eg 6/4/2016 21:18",
 		"testFillRectangle" : "eg 6/4/2016 21:11",
 		"testFrameEllipse" : "eg 6/4/2016 21:26",
-		"testFrameRectangle" : "eg 6/4/2016 21:25" } }
+		"testFrameRectangle" : "eg 6/4/2016 21:25",
+		"testSvgDocumentCoordinates" : "eg 6/6/2016 13:51" } }
