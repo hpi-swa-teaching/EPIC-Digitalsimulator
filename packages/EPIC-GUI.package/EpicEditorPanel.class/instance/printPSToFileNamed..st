@@ -8,7 +8,6 @@ printPSToFileNamed: aString
 		'portrait (tall)' translated.
 		'landscape (wide)' translated.
 	} title: 'Choose orientation...' translated) = 2.
-	self halt.
 	((FileStream newFileNamed: aString) converter: TextConverter defaultSystemConverter)
 		nextPutAll: (psCanvasType morphAsPostscript: self rotated: rotateFlag);
 		 close
