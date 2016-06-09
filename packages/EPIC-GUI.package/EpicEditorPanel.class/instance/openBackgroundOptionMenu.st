@@ -1,8 +1,9 @@
 option menu
-openOptionMenu
+openBackgroundOptionMenu
 	| menu |
 	menu := MenuMorph new defaultTarget: self.
 	self addMenuTitle: menu.
-	self addMenuItems: menu.
+	self addUndoItem: menu.
+	self addCopyPasteItem: menu.
 	menu invokeModal.
 	
