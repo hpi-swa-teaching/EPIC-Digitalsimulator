@@ -6,6 +6,4 @@ mouseDown: anEvent onObject: anObject
 	
 	anEvent shiftPressed 
 		ifTrue: [anObject toggleSelected]
-		ifFalse: [anObject select].
-	
-	anEvent yellowButtonPressed ifTrue: [ self openOptionMenu ]
+		ifFalse: [anObject select]

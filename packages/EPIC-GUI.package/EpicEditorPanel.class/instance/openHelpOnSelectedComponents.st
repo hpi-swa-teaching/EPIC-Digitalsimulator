@@ -5,6 +5,8 @@ openHelpOnSelectedComponents
 	selectedComponents := self selectedComponents.
 	helpBrowser := EPIC help.
 	
-	(selectedComponents size > 1) & (selectedComponents size > 0)
-		ifTrue: [ ^ self ].
-	helpBrowser searchTerm: selectedComponents first componentName
+	(selectedComponents size > 1) | (selectedComponents size < 1)
+		ifTrue: [ | helpTerm |
+			helpTerm := self askForHelpTerm.
+			helpTerm ifNotNil: [ helpBrowser searchTerm: helpTerm ] ]
+		ifFalse: [ helpBrowser searchTerm: selectedComponents first componentName ]

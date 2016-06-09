@@ -1,6 +1,10 @@
 option menu
 openWireOptionMenu
+	
 	| menu |
 	menu := MenuMorph new defaultTarget: self.
-	self addDeleteItem: menu.
+	self
+		addUndoItem: menu;
+		addWireItems: menu;
+		addDeleteItem: menu.
 	menu invokeModal.
