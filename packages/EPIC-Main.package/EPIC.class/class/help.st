@@ -1,6 +1,7 @@
 instance creation
 help
 
-	EpicHelpBrowser new
+	^ EpicHelpBrowser new
 		rootTopic: EpicHelp;
-		open
+		open;
+		yourself
