@@ -8,7 +8,8 @@
 	"instvars" : [
 		"circuit",
 		"portMap",
-		"primitiveStore" ],
+		"primitiveStore",
+		"componentMap" ],
 	"name" : "EpicCircuitXMLParser",
 	"pools" : [
 		 ],

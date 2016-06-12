@@ -4,7 +4,6 @@ wiresAsXMLElement
 	connections := XMLElement named: 'connections'.
 	
 	self circuit internalSubWires do: [:eachWire |
-		connections addElement: (self wireAsXMLElement: eachWire)
-	].
+		connections addElement: (self wireAsXMLElement: eachWire) ].
 	
 	^ connections

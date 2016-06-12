@@ -19,5 +19,6 @@ gatePanel
 		addComponent: EpicHalfAdder new;
 		addComponent: EpicMux new;
 		addComponent: EpicDemux new;	
+		addComponent: EpicTunnelOpening new;
 		autoLayout;
 		yourself

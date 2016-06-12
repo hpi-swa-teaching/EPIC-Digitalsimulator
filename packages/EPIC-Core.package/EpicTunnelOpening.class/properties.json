@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 6/8/2016 21:22",
+	"instvars" : [
+		"tunnelEnds" ],
+	"name" : "EpicTunnelOpening",
+	"pools" : [
+		 ],
+	"super" : "EpicSinkGate",
+	"type" : "normal" }

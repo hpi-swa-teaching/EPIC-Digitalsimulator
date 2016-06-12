@@ -11,4 +11,5 @@ parseComponent: anXMLElement
 	self circuit addSubComponent: component.
 	self 
 		registerPortsOf: component named: name;
+		registerComponent: component named: name;
 		triggerComponentParsed: component

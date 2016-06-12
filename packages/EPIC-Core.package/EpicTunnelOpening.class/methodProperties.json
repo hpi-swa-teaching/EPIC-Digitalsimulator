@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"componentName" : "ek 6/12/2016 20:28" },
+	"instance" : {
+		"addTunnelEnd:" : "ek 6/8/2016 13:17",
+		"createInputPorts" : "ek 6/7/2016 21:10",
+		"createTunnelEnd" : "ek 6/8/2016 13:40",
+		"delete" : "ek 6/8/2016 14:23",
+		"deleteTunnelEnd:" : "ek 6/8/2016 13:18",
+		"drawOn:" : "ek 6/7/2016 21:11",
+		"initialSimulate" : "ek 6/8/2016 14:18",
+		"initialize" : "ek 6/8/2016 13:13",
+		"isTunnelOpening" : "ek 6/8/2016 13:43",
+		"simulateWith:" : "ek 6/8/2016 14:18",
+		"tunnelEnds" : "ek 6/8/2016 13:12",
+		"tunnelEnds:" : "ek 6/8/2016 13:12" } }

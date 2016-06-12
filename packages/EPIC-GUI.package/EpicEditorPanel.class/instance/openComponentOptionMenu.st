@@ -7,5 +7,6 @@ openComponentOptionMenu
 		addHelpItem: menu;
 		addCopyPasteItem: menu;
 		addComponentItems: menu;
+		addCreateTunnelEndItem: menu;
 		addDeleteItem: menu.
 	menu invokeModal.

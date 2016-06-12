@@ -16,8 +16,8 @@
 		"circuitAsXMLElement" : "f.z 7/23/2010 19:09:08.134",
 		"componentAsXMLElement:" : "f.z 6/24/2010 19:30:43.029",
 		"componentIDFor:" : "f.z 6/24/2010 17:12:43.769",
-		"componentsAsXMLElement" : "f.z 6/24/2010 17:01:17.637",
-		"diagramAsXMLElement" : "f.z 6/24/2010 16:35:27.62",
+		"componentsAsXMLElement" : "SeSc 6/8/2016 22:48",
+		"diagramAsXMLElement" : "SeSc 6/8/2016 23:05",
 		"implementationAsXMLElement" : "f.z 6/24/2010 16:35:27.652",
 		"inputPortsAsXMLElement" : "f.z 6/24/2010 17:15:05.084",
 		"interfaceAsXMLElement" : "f.z 6/24/2010 16:35:27.715",
@@ -29,5 +29,8 @@
 		"pointAsXMLElement:" : "f.z 6/24/2010 17:08:11.875",
 		"portAsXMLElement:" : "f.z 7/23/2010 14:20:21.964",
 		"portIDFor:" : "f.z 6/24/2010 17:30:10.664",
+		"tunnelAssociationAsXMLElement:withTunnelEnd:" : "SeSc 6/8/2016 23:07",
+		"tunnelAssociationsAsXMLElement" : "SeSc 6/8/2016 23:07",
+		"tunnelAssociationsForTunnelOpeningAsXMLElement:" : "SeSc 6/8/2016 23:06",
 		"wireAsXMLElement:" : "f.z 6/24/2010 17:32:39.26",
-		"wiresAsXMLElement" : "tb 6/25/2010 18:13:47.341" } }
+		"wiresAsXMLElement" : "SeSc 6/8/2016 22:56" } }

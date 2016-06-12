@@ -4,4 +4,7 @@ handleSelectionSequences: anEvent
 		ifTrue: [ self selectAllComponentsAndWires ].
 	(self deleteSequenceIsPressed: anEvent)
 		ifTrue: [ 
-			self commandExecutor executeCommand: self createDeleteCommand ]
+			self commandExecutor executeCommand: self createDeleteCommand ].
+	(self addTunnelEndSequenceIsPressed: anEvent)
+		ifTrue: [ 
+			self commandExecutor executeCommand: self createAddTunnelEndCommand ]

@@ -1,4 +1,4 @@
 helper messages
 extractPortFrom: anXMLElement prefixed: aString
-	^ self portMap 
+	^ self portMap
 		at: (self extractPortNameFrom: anXMLElement prefixed: aString)
