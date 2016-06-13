@@ -1,4 +1,5 @@
-as yet unclassified
+deletion
 delete
-	self tunnelOpening deleteTunnelEnd: self.
+	self tunnelOpening ifNotNilDo: [
+		self tunnelOpening deleteTunnelEnd: self].
 	super delete
