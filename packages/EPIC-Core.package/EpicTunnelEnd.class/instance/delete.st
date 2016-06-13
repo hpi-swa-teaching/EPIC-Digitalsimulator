@@ -1,5 +1,5 @@
 deletion
 delete
-	self tunnelOpening ifNotNilDo: [
+	(self tunnelOpening) ifNotNil: [
 		self tunnelOpening deleteTunnelEnd: self].
 	super delete
