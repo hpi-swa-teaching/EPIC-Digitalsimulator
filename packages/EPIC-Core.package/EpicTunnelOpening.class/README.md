@@ -2,6 +2,9 @@ I am the opening of a tunnel from where the given value is forwarded to the ends
 
 Instance Variables
 	tunnelEnds:		<Object>
+	number:		<Object>
 
 tunnelEnds
 	- a collection of the connected tunnel ends
+number
+	- number of a specific tunnel opening

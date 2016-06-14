@@ -1,0 +1,3 @@
+instance creation
+reset
+	EpicTunnelOpening resetCounter

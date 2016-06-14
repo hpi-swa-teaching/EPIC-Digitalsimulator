@@ -3,10 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
-	"commentStamp" : "ek 6/8/2016 21:22",
+		"TunnelCounter" ],
+	"commentStamp" : "ek 6/14/2016 13:50",
 	"instvars" : [
-		"tunnelEnds" ],
+		"tunnelEnds",
+		"number" ],
 	"name" : "EpicTunnelOpening",
 	"pools" : [
 		 ],
