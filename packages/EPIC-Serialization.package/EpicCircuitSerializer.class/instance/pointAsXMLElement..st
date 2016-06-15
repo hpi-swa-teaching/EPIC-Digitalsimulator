@@ -1,10 +1,12 @@
 serialization
-pointAsXMLElement: aPoint
-	| point |
-	point := XMLElement named: 'point'.
+pointAsXMLElement: anEpicAnchor
+	| point pointElement |
+	pointElement := XMLElement named: 'point'.
 	
-	point attributes
-		at: 'x' put: (aPoint - self circuit innerOrigin) x asString;
-		at: 'y' put: (aPoint - self circuit innerOrigin) y asString.
+	point := anEpicAnchor point.
+	
+	pointElement attributes
+		at: 'x' put: (point - self circuit innerOrigin) x asString;
+		at: 'y' put: (point - self circuit innerOrigin) y asString.
 		
-	^ point
+	^ pointElement
