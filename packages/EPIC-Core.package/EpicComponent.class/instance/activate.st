@@ -1,3 +1,0 @@
-visual properties
-activate
-	^ self

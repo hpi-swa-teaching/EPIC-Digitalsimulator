@@ -1,3 +1,0 @@
-combining
-reconnectIncomingWires
-	self reconnectWires: self borderCrossingIncomingWires using: EpicInputPort

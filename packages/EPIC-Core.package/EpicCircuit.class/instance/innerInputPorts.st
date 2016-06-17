@@ -1,3 +1,0 @@
-accessing ports
-innerInputPorts
-	^ innerInputPorts

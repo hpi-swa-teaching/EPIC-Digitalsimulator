@@ -1,4 +1,0 @@
-drawing
-bundleOffset 
-
-	^15

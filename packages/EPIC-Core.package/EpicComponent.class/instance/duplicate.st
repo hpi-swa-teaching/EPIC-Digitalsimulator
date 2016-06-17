@@ -1,3 +1,0 @@
-duplication
-duplicate
-	^ self subclassResponsibility 

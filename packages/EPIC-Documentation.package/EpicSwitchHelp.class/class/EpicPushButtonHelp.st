@@ -1,9 +1,11 @@
-as yet unclassified
+pages
 EpicPushButtonHelp
 
-	^ EpicHelpTopic
+	^ HelpTopic
 		title: 'Push Button'
-		contents:
+		contents: (EpicHelp showHTML: 
 '<h1>Push Button</h1>
-
-<p>A source whose output is only true if it is clicked by the user, otherwise the output is false.</p>'
+'), 
+(EpicHelp showImage: 'source_pushbutton'),
+(EpicHelp showHTML: '
+<p>A source whose output is only true if it is clicked by the user, otherwise the output is false.</p>')

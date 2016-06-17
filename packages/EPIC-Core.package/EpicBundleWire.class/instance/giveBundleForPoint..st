@@ -1,4 +1,0 @@
-accessing
-giveBundleForPoint: aPoint
-
-	^ self

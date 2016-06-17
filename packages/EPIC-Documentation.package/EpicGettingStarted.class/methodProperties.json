@@ -1,7 +1,11 @@
 {
 	"class" : {
 		"bookName" : "eg 5/29/2016 13:43",
-		"pages" : "eg 5/27/2016 17:22",
-		"userInterface" : "eg 5/27/2016 17:30" },
+		"combinedComponentsHelp" : "tb 6/16/2016 18:58",
+		"componentHelp" : "tb 6/17/2016 22:34",
+		"createYourFirstProgramHelp" : "tb 6/17/2016 21:38",
+		"pages" : "tb 6/17/2016 22:34",
+		"shortcutsHelp" : "tb 6/16/2016 18:06",
+		"userInterfaceHelp" : "tb 6/16/2016 18:06" },
 	"instance" : {
 		 } }

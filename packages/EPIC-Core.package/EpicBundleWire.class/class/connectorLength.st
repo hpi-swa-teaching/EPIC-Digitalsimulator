@@ -1,3 +1,0 @@
-drawing
-connectorLength
-	^20

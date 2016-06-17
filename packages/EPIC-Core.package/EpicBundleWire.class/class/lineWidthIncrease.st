@@ -1,3 +1,0 @@
-drawing
-lineWidthIncrease 
-	^2

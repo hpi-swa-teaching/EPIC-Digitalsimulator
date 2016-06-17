@@ -1,9 +1,11 @@
-as yet unclassified
+pages
 EpicClockHelp
 
-	^ EpicHelpTopic
+	^ HelpTopic
 		title: 'Clock'
-		contents:
+		contents: (EpicHelp showHTML: 
 '<h1>Clock</h1>
-
-<p>A source whose output changes periodically.</p>'
+'), 
+(EpicHelp showImage: 'source_clock'),
+(EpicHelp showHTML: '
+<p>A source whose output changes periodically every second (1000ms).</p>')

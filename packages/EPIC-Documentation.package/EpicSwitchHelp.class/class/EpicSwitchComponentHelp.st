@@ -1,9 +1,11 @@
-as yet unclassified
+pages
 EpicSwitchComponentHelp
 
-	^ EpicHelpTopic
+	^ HelpTopic
 		title: 'Switch'
-		contents:
+		contents: (EpicHelp showHTML: 
 '<h1>Switch</h1>
-
-<p>A source whose output can be switched by clicking the button.</p>'
+'), 
+(EpicHelp showImage: 'source_switch'),
+(EpicHelp showHTML: '
+<p>A source whose output can be switched by clicking the button.</p>')

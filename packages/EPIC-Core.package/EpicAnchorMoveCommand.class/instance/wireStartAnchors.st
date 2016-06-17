@@ -1,4 +1,0 @@
-accessing
-wireStartAnchors
-
-	^ wireStartAnchors

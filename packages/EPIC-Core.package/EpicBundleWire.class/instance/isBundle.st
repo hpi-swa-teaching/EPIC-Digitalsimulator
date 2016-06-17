@@ -1,4 +1,0 @@
-selection
-isBundle
-
-	^ true

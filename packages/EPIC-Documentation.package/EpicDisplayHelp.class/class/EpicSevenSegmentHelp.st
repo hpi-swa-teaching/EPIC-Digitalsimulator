@@ -1,9 +1,12 @@
-as yet unclassified
+pages
 EpicSevenSegmentHelp
 
-	^ EpicHelpTopic
+	^ HelpTopic
 		title: 'Seven Segment Display'
-		contents:
-'<h1>Seven Segment Display</h1>
-
-<p>A display that interprets the input values as binary number, and displays the respective number.</p>'
+		contents: (EpicHelp showHTML: 
+'<h1>Seven Segement Display</h1>
+'), 
+(EpicHelp showImage: 'display_segmentdisplay'),
+(EpicHelp showHTML: '
+<p>A display that can show the hexadecimal numbers from 0 to F. Each input port represent a segment of the display. The mapping is shown in the graphics below. To drive the seven segment display from binary numbers you can use the converter compent (see GATE-tab). </p>'),
+(EpicHelp showImage: 'display_segmentdisplay_mapping')

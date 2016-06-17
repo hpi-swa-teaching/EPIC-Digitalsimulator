@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 pages
 
 	^ #(general EpicGraphVisualiserHelp EpicSevenSegmentHelp EpicLampHelp)

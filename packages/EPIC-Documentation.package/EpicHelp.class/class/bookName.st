@@ -1,4 +1,4 @@
 accessing
 bookName
 
-	^ 'Epic Digitalsimulator Help'
+	^ 'Epic: Program for Integrated Circuits Help'

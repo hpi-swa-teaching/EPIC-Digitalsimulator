@@ -1,8 +1,11 @@
 {
 	"class" : {
 		"asHelpTopic" : "eg 5/27/2016 17:10",
-		"bookName" : "eg 5/27/2016 17:15",
-		"introduction" : "eg 5/27/2016 17:30",
-		"pages" : "eg 5/29/2016 13:31" },
+		"bookName" : "tb 6/14/2016 11:50",
+		"icon" : "tb 6/16/2016 20:46",
+		"introduction" : "tb 6/16/2016 12:58",
+		"pages" : "eg 5/29/2016 13:31",
+		"showHTML:" : "tb 6/16/2016 12:47",
+		"showImage:" : "tb 6/16/2016 12:45" },
 	"instance" : {
 		 } }

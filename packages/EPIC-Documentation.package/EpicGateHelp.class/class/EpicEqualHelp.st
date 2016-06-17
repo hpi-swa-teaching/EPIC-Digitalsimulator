@@ -1,9 +1,11 @@
-as yet unclassified
+pages
 EpicEqualHelp
 
-	^ EpicHelpTopic
-		title: 'Equal Gate'
-		contents:
+	^ HelpTopic
+		title: 'EQUAL'
+		contents: (EpicHelp showHTML: 
 '<h1>Equal Gate</h1>
-
-<p>Simply forwards the signal</p>'
+'), 
+(EpicHelp showImage: 'gate_equal'),
+(EpicHelp showHTML: '
+<p>The Equal-gate simply forwards the signal it gets form the input port to the output port.</p>')

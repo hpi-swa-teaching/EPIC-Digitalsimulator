@@ -1,12 +1,12 @@
 {
 	"class" : {
-		"EpicClockHelp" : "SeSc 6/5/2016 20:06",
-		"EpicHexKeyboardHelp" : "SeSc 6/5/2016 20:07",
-		"EpicOneHelp" : "SeSc 6/5/2016 20:04",
-		"EpicPushButtonHelp" : "SeSc 6/5/2016 20:09",
-		"EpicSwitchComponentHelp" : "SeSc 6/5/2016 20:10",
+		"EpicClockHelp" : "tb 6/17/2016 21:45",
+		"EpicHexKeyboardHelp" : "tb 6/17/2016 21:18",
+		"EpicPushButtonHelp" : "tb 6/17/2016 21:19",
+		"EpicSwitchComponentHelp" : "tb 6/17/2016 21:19",
+		"EpicTrueHelp" : "tb 6/17/2016 21:57",
 		"bookName" : "SeSc 6/5/2016 19:07",
-		"general" : "SeSc 6/5/2016 19:25",
-		"pages" : "SeSc 6/5/2016 20:09" },
+		"general" : "tb 6/16/2016 12:52",
+		"pages" : "tb 6/17/2016 21:57" },
 	"instance" : {
 		 } }

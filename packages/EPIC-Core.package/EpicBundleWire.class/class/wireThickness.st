@@ -1,3 +1,0 @@
-drawing
-wireThickness
-	^4

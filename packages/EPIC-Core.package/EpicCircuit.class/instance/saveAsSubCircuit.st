@@ -1,3 +1,0 @@
-serialization
-saveAsSubCircuit
-	EpicCircuitSerializer saveAsSubCircuit: self

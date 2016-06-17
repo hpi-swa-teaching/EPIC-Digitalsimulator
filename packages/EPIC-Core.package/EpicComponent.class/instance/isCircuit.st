@@ -1,3 +1,0 @@
-testing
-isCircuit
-	^self subclassResponsibility 

@@ -1,3 +1,0 @@
-geometry
-adaptAnchorPointsTo: aRectangle
-	^ self

@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 pages
 
-	^ #(general EpicDemuxHelp EpicMuxHelp EpicNotHelp EpicAndHelp EpicOrHelp EpicNandHelp EpicNorHelp EpicXorHelp EpicXnorHelp EpicEqualHelp EpicDFlipFlopHelp EpicTFlipFlopHelp EpicRSFlipFlopHelp EpicRegisterHelp)
+	^ #(general EpicDemuxHelp EpicMuxHelp EpicNotHelp EpicAndHelp EpicOrHelp EpicNandHelp EpicNorHelp EpicXorHelp EpicXnorHelp EpicHalfAdderHelp EpicEqualHelp EpicWaitHelp EpicDFlipFlopHelp EpicTFlipFlopHelp EpicRSFlipFlopHelp EpicRegisterHelp EpicConverterHelp EpicTunnelHelp)

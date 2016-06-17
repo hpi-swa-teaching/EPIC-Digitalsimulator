@@ -1,4 +1,4 @@
 accessing
 pages
 
-	^ #(userInterface)
+	^ #(createYourFirstProgramHelp userInterfaceHelp componentHelp combinedComponentsHelp shortcutsHelp)

@@ -1,9 +1,11 @@
-as yet unclassified
+pages
 EpicHexKeyboardHelp
 
-	^ EpicHelpTopic
+	^ HelpTopic
 		title: 'Hex Keyboard'
-		contents:
+		contents: (EpicHelp showHTML: 
 '<h1>Hex Keyboard</h1>
-
-<p>A source whose output represents the binary number of the button clicked by the user.</p>'
+'), 
+(EpicHelp showImage: 'source_hexkeyboard'),
+(EpicHelp showHTML: '
+<p>A source whose output represents the binary number of the button clicked by the user.</p>')

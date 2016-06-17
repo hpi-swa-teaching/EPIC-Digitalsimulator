@@ -1,9 +1,11 @@
-as yet unclassified
+pages
 EpicLampHelp
 
-	^ EpicHelpTopic
+	^ HelpTopic
 		title: 'Lamp'
-		contents:
+		contents: (EpicHelp showHTML: 
 '<h1>Lamp</h1>
-
-<p>A display that shows if the input is true.</p>'
+'), 
+(EpicHelp showImage: 'display_lamp'),
+(EpicHelp showHTML: '
+<p>A display that shows if the input is true.</p>')
