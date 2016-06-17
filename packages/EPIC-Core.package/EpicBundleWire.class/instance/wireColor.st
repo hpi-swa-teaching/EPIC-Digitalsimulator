@@ -1,0 +1,4 @@
+drawing
+wireColor
+
+	^Color black

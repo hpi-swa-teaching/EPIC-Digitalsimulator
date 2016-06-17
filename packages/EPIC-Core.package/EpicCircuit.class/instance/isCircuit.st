@@ -1,0 +1,3 @@
+testing
+isCircuit 
+	^true

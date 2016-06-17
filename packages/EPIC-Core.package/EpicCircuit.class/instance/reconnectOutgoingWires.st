@@ -1,0 +1,3 @@
+combining
+reconnectOutgoingWires
+	self reconnectWires: self borderCrossingOutgoingWires using: EpicOutputPort

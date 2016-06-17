@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"point" ],
+	"name" : "EpicAnchor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

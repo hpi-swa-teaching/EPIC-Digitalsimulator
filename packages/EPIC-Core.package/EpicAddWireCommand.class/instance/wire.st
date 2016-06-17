@@ -1,0 +1,4 @@
+accessing
+wire
+
+	^ wire

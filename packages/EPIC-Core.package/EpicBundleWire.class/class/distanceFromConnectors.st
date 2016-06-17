@@ -1,0 +1,3 @@
+drawing
+distanceFromConnectors
+	^10

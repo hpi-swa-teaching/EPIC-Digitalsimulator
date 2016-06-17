@@ -1,0 +1,4 @@
+accessing
+startPoint
+
+	^self startBundlePoint 

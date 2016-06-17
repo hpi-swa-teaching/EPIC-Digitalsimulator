@@ -1,0 +1,18 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"wires",
+		"startWires",
+		"endWires",
+		"startBundlePoint",
+		"endBundlePoint" ],
+	"name" : "EpicBundleWire",
+	"pools" : [
+		 ],
+	"super" : "EpicWire",
+	"type" : "normal" }

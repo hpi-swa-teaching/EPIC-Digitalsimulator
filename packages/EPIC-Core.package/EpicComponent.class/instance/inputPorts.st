@@ -1,0 +1,3 @@
+accessing ports
+inputPorts
+	^ inputPorts

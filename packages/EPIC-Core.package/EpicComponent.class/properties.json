@@ -1,0 +1,19 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ek 5/30/2016 20:39",
+	"instvars" : [
+		"inputPorts",
+		"outputPorts",
+		"selected",
+		"isSimulating",
+		"label",
+		"toggleLabelOnHover" ],
+	"name" : "EpicComponent",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

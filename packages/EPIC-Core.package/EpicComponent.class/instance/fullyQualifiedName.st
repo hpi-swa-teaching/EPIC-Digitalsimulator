@@ -1,0 +1,3 @@
+naming
+fullyQualifiedName
+	^ self subclassResponsibility

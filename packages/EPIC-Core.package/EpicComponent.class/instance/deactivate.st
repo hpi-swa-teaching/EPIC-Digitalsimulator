@@ -1,0 +1,3 @@
+visual properties
+deactivate
+	 ^ self

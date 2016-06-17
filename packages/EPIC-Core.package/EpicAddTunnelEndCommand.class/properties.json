@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"components" ],
+	"name" : "EpicAddTunnelEndCommand",
+	"pools" : [
+		 ],
+	"super" : "EpicUndoableCommand",
+	"type" : "normal" }

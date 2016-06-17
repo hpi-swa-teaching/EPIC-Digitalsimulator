@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"conversionTable" ],
+	"name" : "EpicConverter",
+	"pools" : [
+		 ],
+	"super" : "EpicSelectableGate",
+	"type" : "normal" }

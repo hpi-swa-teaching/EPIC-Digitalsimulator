@@ -1,0 +1,4 @@
+selection
+isBundle
+
+	^ true

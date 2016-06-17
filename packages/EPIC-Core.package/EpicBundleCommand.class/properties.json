@@ -1,0 +1,16 @@
+{
+	"category" : "EPIC-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"wires",
+		"anchorPoints",
+		"bundledWire" ],
+	"name" : "EpicBundleCommand",
+	"pools" : [
+		 ],
+	"super" : "EpicUndoableCommand",
+	"type" : "normal" }
