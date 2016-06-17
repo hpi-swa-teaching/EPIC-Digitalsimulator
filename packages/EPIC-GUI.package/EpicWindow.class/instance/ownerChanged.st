@@ -1,4 +1,4 @@
-as yet unclassified
+change reporting
 ownerChanged
 	
 	self bounds: World bounds.

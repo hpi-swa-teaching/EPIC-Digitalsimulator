@@ -2,6 +2,6 @@ accessing
 labelName
 	| label |
 	label := super labelName.
-	(self number > 0) ifTrue: [
+	(self number > self class resetCounterValue) ifTrue: [
 		label := label, self number].
 	^ label

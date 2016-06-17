@@ -1,6 +1,5 @@
 initialization
 initialize
 	super initialize.
-	self number: self class tunnelCounter.
-	self class increaseCounter.
+	self setInitialNumber.
 	self tunnelEnds: OrderedCollection new

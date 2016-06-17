@@ -1,4 +1,4 @@
-as yet unclassified
+drawing
 line: point1 to: point2 width: aWidth color: aColor
 
 	self target

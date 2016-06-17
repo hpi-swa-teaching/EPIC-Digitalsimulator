@@ -1,4 +1,4 @@
-as yet unclassified
+tunneling
 createTunnelEnd
 	^ EpicTunnelEnd newFrom: self.
 	

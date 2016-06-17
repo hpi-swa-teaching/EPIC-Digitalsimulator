@@ -1,4 +1,4 @@
 simulation
 simulate 
 	
-	^self
+	^ self

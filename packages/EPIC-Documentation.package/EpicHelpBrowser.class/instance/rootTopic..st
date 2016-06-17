@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 rootTopic: aHelpTopic
 
 	rootTopic := aHelpTopic asHelpTopic.

@@ -1,0 +1,3 @@
+accessing
+resetCounterValue
+	^ 0

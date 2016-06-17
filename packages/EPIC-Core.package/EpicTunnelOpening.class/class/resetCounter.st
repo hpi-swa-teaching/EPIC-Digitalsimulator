@@ -1,3 +1,3 @@
 accessing
 resetCounter
-	self tunnelCounter: 0
+	self tunnelCounter: self resetCounterValue

@@ -1,6 +1,5 @@
 option menu
 askForHelpTerm
-
 	^ FillInTheBlankMorph
 		request: 'Help for what?'
 		initialAnswer: ''
