@@ -12,6 +12,8 @@
 		"addComponent:" : "SeSc 5/30/2016 00:08",
 		"delete" : "ek 5/30/2016 20:14",
 		"initializeEventHandlers" : "f.z 5/27/2010 16:02:17.51",
-		"registerForEvents" : "tb 5/27/2010 17:29:00.19",
+		"mouseDown:onComponent:" : "eg 6/19/2016 16:25",
+		"openComponentOptionMenuOn:" : "eg 6/19/2016 16:26",
+		"registerForEvents" : "eg 6/19/2016 16:24",
 		"relayout" : "SeSc 5/28/2016 19:12",
 		"startDrag:onComponent:" : "SeSc 5/19/2016 23:49" } }
