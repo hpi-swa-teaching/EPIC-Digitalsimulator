@@ -1,4 +1,4 @@
-pages
+as yet unclassified
 EpicWaitHelp
 
 	^ HelpTopic

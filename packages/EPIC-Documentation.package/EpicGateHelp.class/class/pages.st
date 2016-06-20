@@ -1,4 +1,4 @@
 accessing
 pages
 
-	^ #(general EpicDemuxHelp EpicMuxHelp EpicNotHelp EpicAndHelp EpicOrHelp EpicNandHelp EpicNorHelp EpicXorHelp EpicXnorHelp EpicHalfAdderHelp EpicEqualHelp EpicWaitHelp EpicDFlipFlopHelp EpicTFlipFlopHelp EpicRSFlipFlopHelp EpicRegisterHelp EpicConverterHelp EpicTunnelHelp)
+	^ #(general EpicNotHelp EpicAndHelp EpicOrHelp EpicNandHelp EpicNorHelp EpicXorHelp EpicXnorHelp)

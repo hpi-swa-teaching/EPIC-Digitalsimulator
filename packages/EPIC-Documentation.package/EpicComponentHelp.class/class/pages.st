@@ -1,4 +1,4 @@
 accessing
 pages
 
-	^ #(EpicGateHelp)
+	^ #(EpicGateHelp EpicDisplayHelp EpicSwitchHelp EpicFlipFlopHelp EpicComplexComponentHelp)

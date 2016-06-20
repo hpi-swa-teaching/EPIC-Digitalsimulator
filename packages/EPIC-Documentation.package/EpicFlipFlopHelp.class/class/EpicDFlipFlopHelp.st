@@ -1,10 +1,10 @@
-pages
+as yet unclassified
 EpicDFlipFlopHelp
 
 	^ HelpTopic
 		title: 'D Flip-Flop'
 		contents: (EpicHelp showHTML: 
-'<h1>Delay Flip-Flop</h1>
+'<h1>Delay/Data Flip-Flop</h1>
 '), 
 (EpicHelp showImage: 'gate_dflipflop'),
 (EpicHelp showHTML: '
@@ -15,4 +15,4 @@ Input D | Input C | Output Q
 -----------------------------------------
      X     |      0    |     Save 
      1     |      1    |     Set 1 
-     0     |      0    |     Set 0')
+     0     |      1    |     Set 0')

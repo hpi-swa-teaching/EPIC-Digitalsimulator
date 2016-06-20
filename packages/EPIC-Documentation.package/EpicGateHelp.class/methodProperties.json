@@ -1,25 +1,14 @@
 {
 	"class" : {
 		"EpicAndHelp" : "tb 6/17/2016 22:36",
-		"EpicConverterHelp" : "tb 6/17/2016 21:51",
-		"EpicDFlipFlopHelp" : "tb 6/17/2016 11:25",
-		"EpicDemuxHelp" : "tb 6/17/2016 21:52",
-		"EpicEqualHelp" : "tb 6/17/2016 22:53",
-		"EpicHalfAdderHelp" : "tb 6/17/2016 22:49",
-		"EpicMuxHelp" : "tb 6/17/2016 21:48",
 		"EpicNandHelp" : "tb 6/17/2016 22:36",
 		"EpicNorHelp" : "tb 6/17/2016 22:36",
 		"EpicNotHelp" : "tb 6/17/2016 22:36",
 		"EpicOrHelp" : "tb 6/17/2016 22:36",
-		"EpicRSFlipFlopHelp" : "tb 6/17/2016 11:27",
-		"EpicRegisterHelp" : "tb 6/17/2016 11:27",
-		"EpicTFlipFlopHelp" : "tb 6/17/2016 11:28",
-		"EpicTunnelHelp" : "tb 6/17/2016 22:04",
-		"EpicWaitHelp" : "tb 6/17/2016 22:41",
 		"EpicXnorHelp" : "tb 6/17/2016 22:36",
 		"EpicXorHelp" : "tb 6/17/2016 22:36",
 		"bookName" : "eg 5/29/2016 13:24",
 		"general" : "tb 6/16/2016 12:51",
-		"pages" : "tb 6/17/2016 22:52" },
+		"pages" : "eg 6/20/2016 14:11" },
 	"instance" : {
 		 } }
