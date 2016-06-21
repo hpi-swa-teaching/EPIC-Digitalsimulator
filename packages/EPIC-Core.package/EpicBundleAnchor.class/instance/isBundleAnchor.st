@@ -1,3 +1,3 @@
 testing
 isBundleAnchor 
-	^true
+	^ true

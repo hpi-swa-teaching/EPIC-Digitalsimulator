@@ -1,4 +1,4 @@
 simulation
 wantsSteps 
 
-	^true
+	^ true

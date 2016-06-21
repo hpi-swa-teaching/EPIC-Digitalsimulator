@@ -4,12 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "ek 6/21/2016 14:18",
 	"instvars" : [
 		"value",
 		"millisecondsToWait",
-		"stepTime",
-		"wantsSteps",
 		"changedInputs" ],
 	"name" : "EpicInputOutputDelay",
 	"pools" : [

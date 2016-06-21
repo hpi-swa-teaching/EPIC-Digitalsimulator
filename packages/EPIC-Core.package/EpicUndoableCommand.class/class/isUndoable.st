@@ -1,3 +1,3 @@
 Constants
 isUndoable
-	^true
+	^ true
