@@ -1,3 +1,3 @@
 naming
 componentName
-	^ 'XOR'
+	^ 'XNOR'
