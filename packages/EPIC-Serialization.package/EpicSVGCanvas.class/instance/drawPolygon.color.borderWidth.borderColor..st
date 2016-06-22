@@ -1,5 +1,8 @@
 accessing
 drawPolygon: vertices color: aColor borderWidth: aWidth borderColor: aBorderColor
-	"Not implemented"
 	
-	self shouldNotImplement
+	self target
+		fillPolygon: vertices
+		fillColor: aColor
+		borderWidth: aWidth
+		borderColor: aBorderColor
