@@ -11,7 +11,8 @@
 		"selected",
 		"isSimulating",
 		"label",
-		"toggleLabelOnHover" ],
+		"toggleLabelOnHover",
+		"customLabelName" ],
 	"name" : "EpicComponent",
 	"pools" : [
 		 ],
