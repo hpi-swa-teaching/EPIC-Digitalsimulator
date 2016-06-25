@@ -1,7 +1,7 @@
 copy/paste
 pasteComponents
 	| blackbox |
-	self deselectAllComponents.
+	self deselectAllComponents.	
 	blackbox:= self parseCircuitFrom: 
 		(XMLDOMParser parseDocumentFrom: (Clipboard clipboardText readStream)).
 	self updatePositionOf: blackbox.

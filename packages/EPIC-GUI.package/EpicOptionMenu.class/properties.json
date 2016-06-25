@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicOptionMenu",
+	"pools" : [
+		 ],
+	"super" : "MenuMorph",
+	"type" : "normal" }

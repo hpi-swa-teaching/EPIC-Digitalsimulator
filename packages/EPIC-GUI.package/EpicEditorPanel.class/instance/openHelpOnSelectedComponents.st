@@ -1,6 +1,5 @@
-option menu
+component help
 openHelpOnSelectedComponents
-	
 	| selectedComponents helpBrowser |
 	selectedComponents := self selectedComponents.
 	helpBrowser := EPIC help.

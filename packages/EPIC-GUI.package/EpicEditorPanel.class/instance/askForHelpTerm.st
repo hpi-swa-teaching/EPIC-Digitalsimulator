@@ -1,4 +1,4 @@
-option menu
+component help
 askForHelpTerm
 	^ FillInTheBlankMorph
 		request: 'Help for what?'

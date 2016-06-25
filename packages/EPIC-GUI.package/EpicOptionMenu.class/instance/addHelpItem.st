@@ -1,4 +1,5 @@
-option menu
-addHelpItem: aMenu
-	aMenu
+items
+addHelpItem
+	self
+		addLine;
 		add: 'Help On...' translated action: #openHelpOnSelectedComponents
