@@ -1,4 +1,4 @@
-file names
+filename
 askForFilePath
 	^(self new
 		initializeAsSaveWindow;

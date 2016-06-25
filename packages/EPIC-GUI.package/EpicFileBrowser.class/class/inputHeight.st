@@ -1,0 +1,3 @@
+constants
+inputHeight
+	^ 33

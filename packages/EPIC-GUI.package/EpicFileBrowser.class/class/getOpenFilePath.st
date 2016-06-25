@@ -1,4 +1,4 @@
-file names
+filename
 getOpenFilePath
 	^ (self new
 		initializeAsOpenWindow;

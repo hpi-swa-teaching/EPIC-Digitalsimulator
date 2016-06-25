@@ -1,4 +1,4 @@
-file names
+filename
 getSaveFilePath
 	| filePath |
 	filePath := self askForFilePath.

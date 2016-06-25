@@ -1,3 +1,3 @@
-magic strings
+constants
 defaultDirectory
 	^ 'epic'

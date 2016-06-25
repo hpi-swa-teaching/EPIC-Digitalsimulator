@@ -1,6 +1,5 @@
 input/output
 exportAsSvg
-	EpicFileManager getSaveFilePath
+	EpicFileBrowser getSaveFilePath
 		 ifNotNilDo: [:name |
-			self editorBox editorPanel exportAsSVGNamed: name fullName
-		]
+			self editorBox editorPanel exportAsSVGNamed: name fullName ]
