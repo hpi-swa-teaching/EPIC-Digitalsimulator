@@ -1,7 +1,7 @@
 option menu
 optionsOn: aMenu
-	aMenu
-		addBasicItems;
-		addHelpItem;
-		addComponentItem.
+	aMenu addBasicItems.
+	self
+		addComponentItemTo: aMenu;
+		addHelpItemTo: aMenu.
 		

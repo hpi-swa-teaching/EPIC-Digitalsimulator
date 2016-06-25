@@ -1,5 +1,4 @@
 option menu
 optionsOn: aMenu
-	aMenu
-		addBasicItems;
-		addWireItem.
+	aMenu addBasicItems.
+	self addWireItemTo: aMenu.

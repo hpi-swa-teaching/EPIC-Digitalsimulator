@@ -3,13 +3,10 @@
 		 },
 	"instance" : {
 		"addBasicItems" : "tb 6/25/2016 13:52",
-		"addComponentItem" : "tb 6/25/2016 13:52",
 		"addCopyPasteItem" : "tb 6/25/2016 13:37",
 		"addCreateTunnelEndItem" : "tb 6/25/2016 13:37",
 		"addDeleteItem" : "tb 6/25/2016 14:31",
-		"addHelpItem" : "tb 6/25/2016 13:39",
 		"addUndoItem" : "tb 6/25/2016 13:59",
-		"addWireItem" : "tb 6/25/2016 13:52",
 		"initialize" : "tb 6/25/2016 13:43",
 		"on:" : "tb 6/25/2016 14:02",
 		"on:with:" : "tb 6/25/2016 14:12" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EpicConfigurationPanel",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
