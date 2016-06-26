@@ -1,6 +1,5 @@
-accessing
+drawing-support
 transformBy: aDisplayTransform during: aBlock
-
 	| transformGroup oldTargetElement |
 	transformGroup := self target tranformGroupWith: aDisplayTransform asMatrixTransform2x3.
 	oldTargetElement := self target targetElement.

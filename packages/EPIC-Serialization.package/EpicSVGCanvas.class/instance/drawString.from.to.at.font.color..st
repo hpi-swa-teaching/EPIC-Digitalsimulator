@@ -1,6 +1,5 @@
-accessing
+drawing-text
 drawString: aString from: firstIndex to: lastIndex at: aPoint font: fontOrNil color: aColor
-
 	| fillColor fontInfo font |
 	fillColor := self shadowColor ifNil: [aColor].
 	font := fontOrNil ifNil: [TextStyle defaultFont].

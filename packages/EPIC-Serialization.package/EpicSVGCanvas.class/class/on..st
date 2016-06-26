@@ -1,4 +1,3 @@
-as yet unclassified
+creation
 on: anSvgDocument
-
 	^ self new target: anSvgDocument

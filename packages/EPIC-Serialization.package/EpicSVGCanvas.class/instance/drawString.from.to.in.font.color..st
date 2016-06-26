@@ -1,6 +1,5 @@
-accessing
+drawing-text
 drawString: aString from: firstIndex to: lastIndex in: boundsRect font: fontOrNil color: aColor
-	
 	| clipGroup oldClipRect oldTargetElement |
 	clipGroup := self target clipGroupWith: boundsRect.
 	oldTargetElement := self target targetElement.

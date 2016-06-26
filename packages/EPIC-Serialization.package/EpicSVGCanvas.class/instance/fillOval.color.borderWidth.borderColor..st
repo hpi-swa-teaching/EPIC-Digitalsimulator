@@ -1,6 +1,5 @@
-accessing
+drawing-ovals
 fillOval: aRectangle color: aColor borderWidth: aWidth borderColor: aBorderColor
-
 	| radius |
 	radius := aRectangle extent / 2.
 	self target

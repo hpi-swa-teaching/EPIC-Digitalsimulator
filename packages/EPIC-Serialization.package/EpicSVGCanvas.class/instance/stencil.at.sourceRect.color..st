@@ -1,4 +1,4 @@
-accessing
+drawing-images
 stencil: stencilForm at: aPoint sourceRect: sourceRect color: aColor
 	"Not implemented yet"
 	

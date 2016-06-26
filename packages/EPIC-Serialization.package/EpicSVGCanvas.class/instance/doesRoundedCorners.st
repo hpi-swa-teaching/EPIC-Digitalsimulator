@@ -1,4 +1,3 @@
-accessing
+testing
 doesRoundedCorners
-
 	^ false
