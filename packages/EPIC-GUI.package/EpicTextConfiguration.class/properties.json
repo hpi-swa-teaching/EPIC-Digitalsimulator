@@ -1,0 +1,15 @@
+{
+	"category" : "EPIC-GUI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"textMorph" ],
+	"name" : "EpicTextConfiguration",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

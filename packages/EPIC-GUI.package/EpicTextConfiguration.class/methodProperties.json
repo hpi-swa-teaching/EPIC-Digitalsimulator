@@ -1,0 +1,6 @@
+{
+	"class" : {
+		"on:getTextSelector:setTextSelector:label:" : "eg 6/26/2016 16:18" },
+	"instance" : {
+		"initialize" : "eg 6/26/2016 21:11",
+		"on:getTextSelector:setTextSelector:label:" : "eg 6/26/2016 21:07" } }
