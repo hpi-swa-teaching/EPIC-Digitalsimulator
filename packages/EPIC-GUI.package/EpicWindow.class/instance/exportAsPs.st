@@ -1,5 +1,6 @@
 input/output
 exportAsPs
-	EpicFileBrowser getSaveFilePath
+	EpicFileManager getSaveFilePath
 		ifNotNilDo: [:name |
-			self editorBox editorPanel printPSToFileNamed: name fullName ]
+			self editorBox editorPanel printPSToFileNamed: name fullName
+		]

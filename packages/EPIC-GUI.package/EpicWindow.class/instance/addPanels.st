@@ -2,5 +2,5 @@ initialization
 addPanels 
 	self
 		addEditorBox;
-		addPrototypeBox;
+		addToolbarBox;
 		connectPanels

@@ -1,5 +1,6 @@
 input/output
 saveAs
-	EpicFileBrowser getSaveFilePath
+	EpicFileManager getSaveFilePath
 		 ifNotNilDo: [:name |
-			self saveAs: name ]
+			self saveAs: name
+		]

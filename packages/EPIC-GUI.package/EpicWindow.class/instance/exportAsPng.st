@@ -1,5 +1,6 @@
 input/output
 exportAsPng
-	EpicFileBrowser getSaveFilePath
+	EpicFileManager getSaveFilePath
 		 ifNotNilDo: [:name |
-			self editorBox editorPanel exportAsPNGNamed: name fullName ]
+			self editorBox editorPanel exportAsPNGNamed: name fullName
+		]
