@@ -1,12 +1,13 @@
-as yet unclassified
+initialization
 initialize
 	super initialize.
-	self layoutPolicy: TableLayout new;
+	self
+		layoutPolicy: TableLayout new;
 		beTransparent;
 		layoutInset: 10;
 		cellInset: 10;
 		listCentering: #topLeft;
 		cellPositioning: #center;
 		listDirection: #leftToRight;
-		hResizing: #fillSpace;
+		hResizing: #shrinkWrap;
 		vResizing: #shrinkWrap

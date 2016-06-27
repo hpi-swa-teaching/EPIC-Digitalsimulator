@@ -6,7 +6,7 @@
 	"instance" : {
 		"activate" : "tb 6/13/2010 22:46:06.481",
 		"addComponentItemTo:" : "tb 6/25/2016 18:43",
-		"addConfigurationOn:" : "eg 6/26/2016 21:16",
+		"addConfigurationOn:" : "eg 6/27/2016 14:27",
 		"addHelpItemTo:" : "tb 6/25/2016 18:43",
 		"addInputPort:" : "f.z 6/24/2010 15:45:36.537",
 		"addLabel" : "ek 6/23/2016 13:47",
@@ -33,6 +33,7 @@
 		"fillColor" : "sv 6/4/2010 16:52:32.015",
 		"fullyQualifiedName" : "f.z 6/24/2010 19:30:17.404",
 		"handlesMouseOver:" : "eg 5/30/2016 13:36:26.634105",
+		"height:" : "eg 6/27/2016 14:30",
 		"helpClass" : "eg 5/28/2016 19:48",
 		"initialSimulate" : "tb 6/11/2010 11:29:41.128",
 		"initialize" : "eg 5/28/2016 19:32",
@@ -77,4 +78,5 @@
 		"stopSimulating" : "JvD 7/1/2015 14:43",
 		"toggleLabelOnHover" : "SeSc 5/30/2016 00:07",
 		"toggleLabelOnHover:" : "SeSc 5/30/2016 00:07",
-		"toggleSelected" : "tb 5/27/2010 17:12:06.453" } }
+		"toggleSelected" : "tb 5/27/2010 17:12:06.453",
+		"width:" : "eg 6/27/2016 14:30" } }

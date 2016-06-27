@@ -1,3 +1,3 @@
 accessing
 clear
-	self submorphs first removeAllMorphs
+	self configurationPanel removeAllMorphs

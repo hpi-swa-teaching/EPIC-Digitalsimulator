@@ -2,5 +2,16 @@
 	"class" : {
 		"on:getTextSelector:setTextSelector:label:" : "eg 6/26/2016 16:18" },
 	"instance" : {
-		"initialize" : "eg 6/26/2016 21:11",
-		"on:getTextSelector:setTextSelector:label:" : "eg 6/26/2016 21:07" } }
+		"createView" : "eg 6/27/2016 14:39",
+		"getter" : "eg 6/27/2016 14:02",
+		"getter:" : "eg 6/27/2016 14:02",
+		"initialize" : "eg 6/27/2016 14:41",
+		"label" : "eg 6/27/2016 14:07",
+		"label:" : "eg 6/27/2016 14:07",
+		"on:getTextSelector:setTextSelector:label:" : "eg 6/27/2016 14:05",
+		"setter" : "eg 6/27/2016 14:02",
+		"setter:" : "eg 6/27/2016 14:02",
+		"target" : "eg 6/27/2016 14:02",
+		"target:" : "eg 6/27/2016 14:02",
+		"targetValue" : "eg 6/27/2016 14:08",
+		"targetValue:" : "eg 6/27/2016 14:08" } }

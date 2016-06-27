@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"configurationPanel",
-		"list" ],
-	"name" : "EpicConfigurationBox",
+		 ],
+	"name" : "EpicNumericTextConfiguration",
 	"pools" : [
 		 ],
-	"super" : "ScrollPane",
+	"super" : "EpicTextConfiguration",
 	"type" : "normal" }

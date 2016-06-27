@@ -2,7 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		"clear" : "eg 6/26/2016 21:14",
-		"initialize" : "SeSc 6/27/2016 14:30",
+		"clear" : "eg 6/27/2016 14:22",
+		"configurationPanel" : "eg 6/27/2016 14:13",
+		"configurationPanel:" : "eg 6/27/2016 14:13",
+		"createConfigurationPanel" : "eg 6/27/2016 14:23",
+		"initialize" : "eg 6/27/2016 15:05",
 		"list" : "tb 6/26/2016 02:22",
 		"list:" : "tb 6/26/2016 02:22" } }

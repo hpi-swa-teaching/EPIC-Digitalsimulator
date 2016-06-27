@@ -6,4 +6,6 @@ mouseDown: anEvent onObject: anObject
 	
 	anEvent shiftPressed 
 		ifTrue: [anObject toggleSelected]
-		ifFalse: [anObject select]
+		ifFalse: [anObject select].
+		
+	self mainWindow toolbarBox configurationBox clear

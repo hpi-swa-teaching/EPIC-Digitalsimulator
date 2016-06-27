@@ -1,3 +1,5 @@
 accessing
 initialize
-	super initialize
+	super initialize.
+	self createConfigurationPanel.
+	self scroller addMorphBack: self configurationPanel
