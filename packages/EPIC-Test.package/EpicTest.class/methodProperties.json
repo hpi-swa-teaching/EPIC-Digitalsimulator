@@ -49,6 +49,7 @@
 		"testStoppingAgent" : "ME 5/18/2015 12:47",
 		"testStoppingSimulation" : "f.z 6/11/2010 17:49:00.768",
 		"testTFlipFlop" : "AK 6/2/2015 15:15",
+		"testTunnel" : "ek 6/29/2016 13:40",
 		"testValidParsingWithLabelAttributes" : "f.z 7/23/2010 17:48:00.188",
 		"testValidParsingWithoutLabelAttributes" : "f.z 7/23/2010 17:47:55.227",
 		"testValuePropagation" : "f.z 6/11/2010 19:23:07.673",
