@@ -1,8 +1,12 @@
 combining
 combineSelectedComponentsToNamedCircuit: aCircuitName
-	| blackbox |
+	| blackbox userPanel |
 	blackbox := self combineSelectedComponents.
 	blackbox
 		fullyQualifiedName: aCircuitName;
-		saveAsSubCircuit
+		saveAsSubCircuit.
+	userPanel := self mainWindow prototypeBox userPanel.
+	userPanel
+		removeAllMorphs;
+		addComponents: EpicPrototypePanel customComponents
 	

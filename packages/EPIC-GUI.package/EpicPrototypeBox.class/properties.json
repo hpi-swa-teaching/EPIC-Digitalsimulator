@@ -8,7 +8,8 @@
 	"instvars" : [
 		"activePanel",
 		"tabBar",
-		"scrollPane" ],
+		"scrollPane",
+		"userPanel" ],
 	"name" : "EpicPrototypeBox",
 	"pools" : [
 		 ],
