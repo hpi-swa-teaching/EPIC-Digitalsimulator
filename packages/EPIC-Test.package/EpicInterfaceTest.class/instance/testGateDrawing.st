@@ -1,6 +1,6 @@
 gate testing
 testGateDrawing
-	EpicGate allSubclasses 
+	EpicBaseComponent allSubclasses 
 		select: [ :eachSubclass | eachSubclass allSubclasses isEmpty ]
 		thenDo: [ :eachSubclass | | gate |
 			gate := eachSubclass new.

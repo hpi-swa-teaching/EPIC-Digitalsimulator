@@ -11,5 +11,5 @@
 	"name" : "EpicTunnelOpening",
 	"pools" : [
 		 ],
-	"super" : "EpicSinkGate",
+	"super" : "EpicDisplay",
 	"type" : "normal" }

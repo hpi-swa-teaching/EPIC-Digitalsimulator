@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	self circuit: EpicDummyCircuit new.
+	self circuit: EpicDummyCustomCircuit new.

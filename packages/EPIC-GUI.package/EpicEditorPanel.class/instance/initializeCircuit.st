@@ -1,3 +1,3 @@
 initialization
 initializeCircuit
-	self circuits add: EpicCircuit new
+	self circuits add: EpicCustomCircuit new

@@ -1,5 +1,5 @@
 initialization
 createPrimitiveStore
-	self primitiveStore: (EpicGate allSubclasses select: [:eachSubclass | 
+	self primitiveStore: (EpicBaseComponent allSubclasses select: [:eachSubclass | 
 		eachSubclass allSubclasses isEmpty
 	])

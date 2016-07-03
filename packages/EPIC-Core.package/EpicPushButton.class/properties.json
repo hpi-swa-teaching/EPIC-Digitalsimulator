@@ -10,5 +10,5 @@
 	"name" : "EpicPushButton",
 	"pools" : [
 		 ],
-	"super" : "EpicSourceGate",
+	"super" : "EpicSource",
 	"type" : "normal" }

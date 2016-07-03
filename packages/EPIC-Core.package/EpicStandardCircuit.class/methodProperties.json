@@ -3,7 +3,7 @@
 		"circleDiameter" : "sv 7/22/2010 22:19:49.305",
 		"gateSize" : "tb 7/23/2010 18:57:03.904" },
 	"instance" : {
-		"createInputPorts" : "tb 6/11/2010 11:23:40.685",
+		"createInputPorts" : "ek 7/3/2016 20:30",
 		"createOutputPorts" : "tb 6/11/2010 11:23:43.14",
 		"drawANSIIOutputPortsOn:" : "AK 7/26/2015 16:39",
 		"drawANSIInputPortsOn:" : "AK 7/26/2015 16:45",

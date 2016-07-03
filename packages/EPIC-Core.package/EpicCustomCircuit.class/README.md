@@ -1,4 +1,4 @@
-I am a circuit and can consist of subcircuits. I can be exported as an xml-document (#asXMLDocument). My outer ports are mapped to the corresponding inner ports.
+I am a custom circuit and can consist of subcircuits. I can be exported as an xml-document (#asXMLDocument). My outer ports are mapped to the corresponding inner ports. I am usually created by the user.
 
 Instance Variables
 	fullyQualifiedName:			<String>

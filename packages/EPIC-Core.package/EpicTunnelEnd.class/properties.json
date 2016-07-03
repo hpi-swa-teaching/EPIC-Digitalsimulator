@@ -10,5 +10,5 @@
 	"name" : "EpicTunnelEnd",
 	"pools" : [
 		 ],
-	"super" : "EpicSourceGate",
+	"super" : "EpicSource",
 	"type" : "normal" }

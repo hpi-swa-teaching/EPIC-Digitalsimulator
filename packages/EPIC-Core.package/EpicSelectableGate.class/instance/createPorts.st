@@ -1,5 +1,4 @@
 initialization
 createPorts
-
-	super createPorts.
+	super createPorts .
 	self createSelectorPorts

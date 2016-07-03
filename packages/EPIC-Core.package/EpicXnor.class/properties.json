@@ -10,5 +10,5 @@
 	"name" : "EpicXnor",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicGate",
 	"type" : "normal" }

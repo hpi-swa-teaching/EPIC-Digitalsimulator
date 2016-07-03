@@ -10,5 +10,5 @@
 	"name" : "EpicLamp",
 	"pools" : [
 		 ],
-	"super" : "EpicSinkGate",
+	"super" : "EpicDisplay",
 	"type" : "normal" }

@@ -12,5 +12,5 @@
 	"name" : "EpicInputOutputDelay",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicStandardCircuit",
 	"type" : "normal" }

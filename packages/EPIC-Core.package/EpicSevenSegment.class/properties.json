@@ -16,5 +16,5 @@
 	"name" : "EpicSevenSegment",
 	"pools" : [
 		 ],
-	"super" : "EpicSinkGate",
+	"super" : "EpicDisplay",
 	"type" : "normal" }

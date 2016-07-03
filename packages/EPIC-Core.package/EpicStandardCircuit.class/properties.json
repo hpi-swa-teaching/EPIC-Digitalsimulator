@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "ek 5/31/2016 11:30",
+	"commentStamp" : "ek 5/31/2016 11:28",
 	"instvars" : [
 		 ],
-	"name" : "EpicNand",
+	"name" : "EpicStandardCircuit",
 	"pools" : [
 		 ],
-	"super" : "EpicGate",
+	"super" : "EpicBaseComponent",
 	"type" : "normal" }

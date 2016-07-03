@@ -10,5 +10,5 @@
 	"name" : "EpicGraphVisualiser",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicStandardCircuit",
 	"type" : "normal" }

@@ -1,1 +1,3 @@
-I am a gate.
+I am a Gate.
+
+Instance Variables

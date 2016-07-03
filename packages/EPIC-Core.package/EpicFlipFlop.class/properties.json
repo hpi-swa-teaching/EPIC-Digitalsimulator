@@ -11,5 +11,5 @@
 	"name" : "EpicFlipFlop",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicStandardCircuit",
 	"type" : "normal" }

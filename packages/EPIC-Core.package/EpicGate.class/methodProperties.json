@@ -1,9 +1,5 @@
 {
 	"class" : {
-		"fullyQualifiedTypeName" : "f.z 6/24/2010 20:13:49.589",
-		"namespace" : "f.z 6/24/2010 19:31:45.549",
-		"typeName" : "f.z 6/24/2010 20:14:08.478" },
+		 },
 	"instance" : {
-		"duplicate" : "tb 6/30/2010 18:05:01.211",
-		"fullyQualifiedName" : "f.z 6/24/2010 20:13:19.437",
-		"isCircuit" : "ak 6/17/2010 20:52:53.263" } }
+		"createInputPorts" : "ek 7/3/2016 20:22" } }

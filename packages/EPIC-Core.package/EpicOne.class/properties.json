@@ -10,5 +10,5 @@
 	"name" : "EpicOne",
 	"pools" : [
 		 ],
-	"super" : "EpicSourceGate",
+	"super" : "EpicSource",
 	"type" : "normal" }

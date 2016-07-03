@@ -1,7 +1,7 @@
 combining
 combineComponents: aCollectionOfComponents
 	| blackbox |
-	blackbox := EpicCircuit new.	
+	blackbox := EpicCustomCircuit new.	
 	blackbox
 		innerOrigin: self position;
 		center: (self centerOfComponents: aCollectionOfComponents).

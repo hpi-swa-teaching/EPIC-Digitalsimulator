@@ -1,7 +1,7 @@
 initialization
 initialize
 	self 
-		circuit: EpicCircuit new;
+		circuit: EpicCustomCircuit new;
 		portMap: Dictionary new;
 		createPrimitiveStore;
 		componentMap: Dictionary new

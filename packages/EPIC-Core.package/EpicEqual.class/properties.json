@@ -10,5 +10,5 @@
 	"name" : "EpicEqual",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicStandardCircuit",
 	"type" : "normal" }

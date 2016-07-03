@@ -2,7 +2,7 @@ port & wire testing
 testPortLabelPropagation
 	| circuit label |
 	label := 'portLabel'.
-	circuit := EpicCircuit new.
+	circuit := EpicCustomCircuit new.
 	circuit addPort: EpicInputPort new.
 	circuit allPorts do: [ :eachPort | 
 		self assert: [ eachPort label = '' ]

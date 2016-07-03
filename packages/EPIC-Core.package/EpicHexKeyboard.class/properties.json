@@ -10,5 +10,5 @@
 	"name" : "EpicHexKeyboard",
 	"pools" : [
 		 ],
-	"super" : "EpicSourceGate",
+	"super" : "EpicSource",
 	"type" : "normal" }

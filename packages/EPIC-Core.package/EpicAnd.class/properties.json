@@ -10,5 +10,5 @@
 	"name" : "EpicAnd",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicGate",
 	"type" : "normal" }

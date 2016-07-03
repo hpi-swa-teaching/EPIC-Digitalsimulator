@@ -10,5 +10,5 @@
 	"name" : "EpicSelectableGate",
 	"pools" : [
 		 ],
-	"super" : "EpicStandardGate",
+	"super" : "EpicStandardCircuit",
 	"type" : "normal" }

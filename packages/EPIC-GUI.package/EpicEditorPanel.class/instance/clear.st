@@ -1,6 +1,6 @@
 deletion
 clear
 	| circuit |
-	circuit := EpicCircuit new.
+	circuit := EpicCustomCircuit new.
 	self updatePositionOf: circuit.
 	self showReplacedCircuit: circuit.

@@ -3,7 +3,7 @@ copySelectedComponents
 	|blackbox|
 	self selectedComponents ifEmpty: [^self].
 	
-	blackbox := EpicCircuit new.
+	blackbox := EpicCustomCircuit new.
 	blackbox innerOrigin: self position.
 	
 	self selectedComponents do: [:eachComponent| 

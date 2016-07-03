@@ -2,6 +2,7 @@
 	"class" : {
 		"componentName" : "SeSc 5/28/2016 20:10" },
 	"instance" : {
+		"createInputPorts" : "ek 7/3/2016 20:23",
 		"createOutputPorts" : "AK 5/18/2015 12:22",
 		"drawANSIInputPortsOn:" : "AK 7/26/2015 18:18",
 		"drawANSIOutputPortsOn:" : "AK 7/26/2015 18:19",

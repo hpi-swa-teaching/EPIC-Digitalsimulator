@@ -1,7 +1,7 @@
 serialization testing
 createComplexCircuit
 	| circuit lamp or not1 not2 xnor switch clock|
-	circuit := EpicCircuit new.
+	circuit := EpicCustomCircuit new.
 	lamp := EpicLamp new.
 	or := EpicOr new.
 	not1 := EpicNot new.

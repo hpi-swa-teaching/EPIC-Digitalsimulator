@@ -10,5 +10,5 @@
 	"name" : "EpicTestGate",
 	"pools" : [
 		 ],
-	"super" : "EpicGate",
+	"super" : "EpicBaseComponent",
 	"type" : "normal" }
