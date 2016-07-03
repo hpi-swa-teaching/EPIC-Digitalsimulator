@@ -1,6 +1,6 @@
 instance creation
-lampTab 
+displayTab 
 	^ self new
-		panel: EpicPrototypePanel lampPanel ;
+		panel: EpicPrototypePanel displayPanel ;
 		label: 'Display';
 		yourself

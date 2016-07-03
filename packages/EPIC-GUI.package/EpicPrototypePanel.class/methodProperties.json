@@ -2,11 +2,11 @@
 	"class" : {
 		"circuitPanel" : "ek 7/3/2016 20:43",
 		"customComponents" : "f.z 7/1/2010 19:31:28.252",
+		"displayPanel" : "ek 7/3/2016 21:26",
 		"gatePanel" : "ek 7/3/2016 20:44",
-		"lampPanel" : "JT 7/26/2015 16:58",
 		"margin" : "f.z 6/1/2010 16:16:51.526",
 		"panelWidth" : "SeSc 5/20/2016 16:40",
-		"switchPanel" : "tg 7/31/2015 14:32",
+		"sourcePanel" : "ek 7/3/2016 21:26",
 		"userPanel" : "tb 6/30/2010 18:26:32.763",
 		"verticalMargin" : "SeSc 6/5/2016 00:50" },
 	"instance" : {

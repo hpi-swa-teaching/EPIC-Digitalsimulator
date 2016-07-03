@@ -1,5 +1,5 @@
 instance creation
-lampPanel
+displayPanel
 	^ (self new)
 		color: Color white;
 		addComponent: EpicLamp new;

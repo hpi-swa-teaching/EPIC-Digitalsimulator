@@ -1,9 +1,9 @@
 {
 	"class" : {
 		"circuitTab" : "ek 7/3/2016 20:44",
+		"displayTab" : "ek 7/3/2016 21:26",
 		"gateTab" : "ek 7/3/2016 20:40",
-		"lampTab" : "ek 7/3/2016 20:46",
-		"switchTab" : "ek 7/3/2016 20:46",
+		"sourceTab" : "ek 7/3/2016 21:26",
 		"userTab" : "tb 6/30/2010 18:11:46.504" },
 	"instance" : {
 		"delete" : "f.z 6/11/2010 15:23:24.571",

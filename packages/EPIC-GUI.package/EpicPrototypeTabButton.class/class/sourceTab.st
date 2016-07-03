@@ -1,6 +1,6 @@
 instance creation
-switchTab  
+sourceTab  
 	^ self new
-		panel: EpicPrototypePanel switchPanel ;
+		panel: EpicPrototypePanel sourcePanel ;
 		label: 'Source';
 		yourself

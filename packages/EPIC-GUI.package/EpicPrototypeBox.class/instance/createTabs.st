@@ -5,8 +5,8 @@ createTabs
 	self tabBar 
 		addTab: gateTab;
 		addTab: EpicPrototypeTabButton circuitTab;
-		addTab: EpicPrototypeTabButton switchTab;
-		addTab: EpicPrototypeTabButton lampTab;
+		addTab: EpicPrototypeTabButton sourceTab;
+		addTab: EpicPrototypeTabButton displayTab;
 		addTab: EpicPrototypeTabButton userTab.
 	self setActiveTab: gateTab
 	

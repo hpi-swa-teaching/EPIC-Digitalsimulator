@@ -1,5 +1,5 @@
 instance creation
-switchPanel
+sourcePanel
 	^ (self new)
 		color: Color white;
 		addComponent: EpicHexKeyboard  new;

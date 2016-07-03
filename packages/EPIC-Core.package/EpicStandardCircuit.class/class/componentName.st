@@ -1,0 +1,3 @@
+magic numbers
+componentName
+	^ 'Circuit'
