@@ -1,7 +1,9 @@
 modify
 addMissingPorts
+	| difference |
+	difference := ((2 raisedTo: self portCounter) - self outputPorts size) abs.
 
-	(self inputPorts size == self class minInputPorts) ifTrue: [	
-		self  addUnnamedInputPorts:  self class minInputPorts.
-		self  addUnnamedSelectorPorts: 1].
-	self simulate. 
+	(difference ~= 0) ifTrue: [
+		self addUnnamedInputPorts: difference.
+		self addUnnamedSelectorPorts: (self selectorPorts size - self portCounter) abs ].
+	self simulate.

@@ -1,4 +1,4 @@
 initialization
 createSelectorPorts 
 
-	self addUnnamedSelectorPorts: 2
+	self addUnnamedSelectorPorts: self class minSelectorPorts.

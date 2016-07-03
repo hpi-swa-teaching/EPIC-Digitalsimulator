@@ -1,3 +1,3 @@
 initialization
 createOutputPorts 
-	self addUnnamedOutputPorts: 4
+	self addUnnamedOutputPorts: (2 raisedTo: self class minSelectorPorts)

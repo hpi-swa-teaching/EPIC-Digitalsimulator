@@ -1,4 +1,3 @@
 modify
 handlesKeyboard: anEvent 
-	
-	^true
+	^ true

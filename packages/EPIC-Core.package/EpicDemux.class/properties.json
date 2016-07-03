@@ -6,7 +6,7 @@
 		"NumberOfOutputports" ],
 	"commentStamp" : "ek 6/21/2016 14:54",
 	"instvars" : [
-		 ],
+		"portCounter" ],
 	"name" : "EpicDemux",
 	"pools" : [
 		 ],

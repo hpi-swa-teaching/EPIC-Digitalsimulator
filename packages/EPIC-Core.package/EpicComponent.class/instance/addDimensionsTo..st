@@ -1,11 +1,6 @@
-as yet unclassified
-addConfigurationOn: aConfigurationBox
+configuration menu
+addDimensionsTo: aConfigurationBox
 	aConfigurationBox configurationPanel
-		addMorphBack: (EpicTextConfiguration
-			on: self
-			getTextSelector: #labelName
-			setTextSelector: #customLabelName:
-			label: 'Component Label:');
 		addMorphBack: (EpicNumericTextConfiguration
 			on: self
 			getTextSelector: #width

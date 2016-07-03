@@ -1,7 +1,7 @@
 modify
-keyStroke: anEvent
-
+keyStroke: anEvent 
+	
 	(anEvent keyCharacter = $m) ifTrue: [
-	 	self changePortCount].
+	 	self togglePortCount ].
 	(anEvent keyCharacter = Character delete) ifTrue: [
-		self  delete]
+		self  delete ]
