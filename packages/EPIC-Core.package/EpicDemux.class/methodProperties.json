@@ -5,7 +5,6 @@
 		"maxSelectorPorts" : "tb 7/3/2016 02:29",
 		"minSelectorPorts" : "tb 7/3/2016 01:21" },
 	"instance" : {
-		"addMissingPorts" : "tb 7/3/2016 02:07",
 		"addPortToggleTo:" : "tb 7/3/2016 01:23",
 		"addSelectorPortCountTo:" : "tb 7/3/2016 02:42",
 		"configurationsOn:" : "tb 7/3/2016 02:43",
@@ -14,7 +13,6 @@
 		"createInputPorts" : "ME 5/17/2015 19:44",
 		"createOutputPorts" : "tb 7/3/2016 02:57",
 		"createSelectorPorts" : "tb 7/3/2016 02:55",
-		"deleteAdditionalPorts" : "tb 7/3/2016 02:11",
 		"drawAsANSIOn:" : "AK 7/26/2015 18:29",
 		"drawAsDINOn:" : "ME 6/1/2015 15:57",
 		"drawAsEPICOn:" : "AK 7/26/2015 17:54",
@@ -25,6 +23,7 @@
 		"optionsOn:" : "tb 7/3/2016 01:24",
 		"portCounter" : "tb 7/3/2016 01:24",
 		"portCounter:" : "tb 7/3/2016 02:48",
+		"resetPorts" : "tb 7/3/2016 03:03",
 		"simulateWith:" : "AK 7/26/2015 17:51",
 		"togglePortCount" : "tb 7/3/2016 02:47",
-		"updatePortCount" : "tb 7/3/2016 02:49" } }
+		"updatePortCount" : "tb 7/3/2016 03:04" } }

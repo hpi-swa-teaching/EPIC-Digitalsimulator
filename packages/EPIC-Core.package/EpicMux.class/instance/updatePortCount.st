@@ -1,5 +1,7 @@
 modify
 updatePortCount
-	(self selectorPorts size < self portCounter)
-	ifTrue: [ self addMissingPorts ]
-	ifFalse: [ self deleteAdditionalPorts ]
+	self 
+		resetPorts;
+		addUnnamedInputPorts:  (2 raisedTo: self portCounter);
+		addUnnamedSelectorPorts: self portCounter;
+		simulate
