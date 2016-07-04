@@ -5,9 +5,9 @@ addConfigurationOn: aConfigurationBox
 			on: self
 			getTextSelector: #width
 			setTextSelector: #updateWidth:
-			label: 'Component width:');
+			label: 'Canvas width:');
 		addMorphBack: (EpicNumericTextConfiguration
 			on: self
 			getTextSelector: #height
 			setTextSelector: #updateHeight:
-			label: 'Component height:')
+			label: 'Canvas height:')

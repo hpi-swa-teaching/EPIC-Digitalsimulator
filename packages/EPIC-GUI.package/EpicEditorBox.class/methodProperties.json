@@ -4,8 +4,9 @@
 	"instance" : {
 		"connectNavigationBar" : "tb 7/22/2010 21:07:53.57",
 		"content" : "SeSc 7/2/2016 20:06",
-		"createEditorPanel" : "SeSc 7/2/2016 20:07",
+		"createEditorPanel" : "SeSc 7/4/2016 15:46",
 		"createNavigationBar" : "tb 7/22/2010 21:08:34.48",
+		"defaultEditorsize" : "SeSc 7/4/2016 15:46",
 		"editorPanel" : "tb 7/22/2010 19:28:38.093",
 		"editorPanel:" : "tb 7/22/2010 19:28:48.396",
 		"initialize" : "SeSc 7/2/2016 20:02",
