@@ -1,13 +1,14 @@
 {
 	"class" : {
-		"circuitPanel" : "ek 7/3/2016 20:43",
-		"customComponents" : "f.z 7/1/2010 19:31:28.252",
-		"displayPanel" : "ek 7/3/2016 21:26",
-		"gatePanel" : "ek 7/3/2016 20:44",
+		"circuitPanel" : "eg 6/29/2016 18:35:22.807089",
+		"customComponents" : "eg 6/29/2016 17:27",
+		"displayPanel" : "eg 6/29/2016 18:35:22.807089",
+		"gatePanel" : "ek 6/8/2016 12:31",
 		"margin" : "f.z 6/1/2010 16:16:51.526",
 		"panelWidth" : "SeSc 5/20/2016 16:40",
 		"sourcePanel" : "ek 7/3/2016 21:26",
 		"userPanel" : "tb 6/30/2010 18:26:32.763",
+		"validXmlSuffixes" : "eg 6/29/2016 17:28",
 		"verticalMargin" : "SeSc 6/5/2016 00:50" },
 	"instance" : {
 		"addComponent:" : "SeSc 5/30/2016 00:08",
