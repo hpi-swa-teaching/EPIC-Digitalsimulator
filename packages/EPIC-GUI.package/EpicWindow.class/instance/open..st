@@ -1,3 +1,4 @@
 input/output
-open: aCircuitFile
-	self tryToOpen: aCircuitFile
+open: aFileStream
+	self editorPanel loadCircuitFrom: 
+		(XMLDOMParser parseDocumentFrom: aFileStream)

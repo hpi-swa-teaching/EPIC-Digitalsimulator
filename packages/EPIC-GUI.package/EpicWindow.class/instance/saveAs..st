@@ -1,6 +1,5 @@
 input/output
-saveAs: aFilePath
+saveAs: aFileStream
 	(self editorPanel baseCircuit) 
-		fullyQualifiedName: aFilePath name;
-		filePath: aFilePath;
-		save
+		fullyQualifiedName: aFileStream baseName;
+		saveTest: aFileStream

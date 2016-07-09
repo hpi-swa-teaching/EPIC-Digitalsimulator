@@ -1,3 +1,3 @@
-magic strings
-defaultDirectory
-	^ 'epic'
+constants
+defaultDirectory 
+	^ FileDirectory default directoryNamed: 'epic'

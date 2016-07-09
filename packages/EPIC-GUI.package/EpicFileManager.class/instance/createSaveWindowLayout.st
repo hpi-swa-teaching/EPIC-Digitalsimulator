@@ -1,32 +1,14 @@
-ui creation
+initialization
 createSaveWindowLayout
-	"Create a standard OpenWindow Layout for the file chooser."
-
-	| buttonsHeight inputHeight |
-
-	buttonsHeight := 33.
-	inputHeight := 33.
-
-	self addFullPanesTo: self morphicView
-		from: {
-				{
-					(self directoryPane).
-					(0 @ 0 corner: 0.5 @ 1).
-					(0 @ 0 corner: 0 @ ((buttonsHeight + inputHeight) negated))
-				}.
-				{
-					(self filePane).
-					(0.5 @ 0 corner: 1 @ 1).
-					(0 @ 0 corner: 0 @ ((buttonsHeight + inputHeight) negated))
-				}.
-				{
-					(self inputPane).
-					(0 @ 1 corner: 1 @ 1).
-					(0 @ ((buttonsHeight + inputHeight) negated) corner: 0 @ (buttonsHeight negated))
-				}.
-				{
-					(self buttonPane).
-					(0 @ 1 corner: 1 @ 1).
-					(0 @ (buttonsHeight negated) corner: 0 @ 0)
-				}.
-			}
+	
+	self addFullPanesTo: self morphicView from: {
+		self addPane: self directoryPane 
+			from:  0 @ 0 to: 0.5 @ (1 - (2 * EpicFileManager panelHeight)).
+		self addPane: self filePane 
+			from: 0.5 @ 0 to: 1 @ (1 - (2 * EpicFileManager panelHeight)).
+		self addPane: self inputPane 
+			from: 0 @ (1 - (2 * EpicFileManager panelHeight)) 
+			to: 1 @ (1 - EpicFileManager panelHeight).
+		self addPane: self buttonPane 
+			from: 0 @ (1 - EpicFileManager panelHeight) to: 1 @ 1
+	}

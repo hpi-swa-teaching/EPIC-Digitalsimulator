@@ -1,7 +1,6 @@
 input/output
 open
-	|filename|
-	filename:= EpicFileManager getOpenFilePath.
-	filename ifNotNil:[
-		self openFileNamed: filename fullName. 
-	]
+	| types |
+	types := Dictionary new.
+	types add: 'xml' -> #open:.
+	EpicFileManager openFileFor: self with: types.
