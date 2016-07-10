@@ -2,9 +2,4 @@
 	"class" : {
 		"componentName" : "ek 7/3/2016 21:18" },
 	"instance" : {
-		"createInputPorts" : "ek 7/3/2016 20:22",
-		"fillFrameDownArc:diameter:on:" : "eg 7/9/2016 13:46",
-		"fillFrameLeftArc:diameter:on:" : "eg 7/9/2016 13:46",
-		"fillFrameOval:clipBy:on:" : "eg 7/9/2016 13:46",
-		"fillFrameRightArc:diameter:on:" : "eg 7/9/2016 13:47",
-		"fillFrameUpArc:diameter:on:" : "eg 7/9/2016 13:47" } }
+		"createInputPorts" : "ek 7/3/2016 20:22" } }

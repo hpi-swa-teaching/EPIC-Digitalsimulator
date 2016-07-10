@@ -1,6 +1,6 @@
 drawing
 drawAsANSIOn: aCanvas
-	| p upperBox lowerBox v leftBox|
+	| upperBox lowerBox v leftBox|
 	v := ((1 - (3 sqrt / 2)) * self gateBoxANSI width) rounded asInteger.
 	upperBox := Rectangle 
 				center: self gateBoxANSI bottomLeft 
@@ -11,14 +11,11 @@ drawAsANSIOn: aCanvas
 	leftBox := Rectangle 
 				center: self gateBoxANSI leftCenter - ((self gateBoxANSI width - v ) @ 0)
 				extent: (self gateBoxANSI extent + (v@0)) * 2.
-	p := EpicPolygon new.
-	p 
-		addArc: upperBox clippedBy: self gateBoxANSI;
-		addArc: lowerBox clippedBy: self gateBoxANSI;
-		addPoint: self gateBoxANSI bottomLeft;		
-		addReverseArc: leftBox clippedBy: self gateBoxANSI..
 	
-	self drawPolygon: p on: aCanvas.
+	self fillFrameOval: upperBox clipBy: (Rectangle origin: self gateBoxANSI origin extent: self gateBoxANSI extent / (1@2)) on: aCanvas.
+	self fillFrameOval: lowerBox clipBy: (Rectangle origin: self gateBoxANSI origin + (0 @ (self gateBoxANSI extent y / 2)) extent: self gateBoxANSI extent / (1@2)) on: aCanvas.
+	self fillFrameOval: leftBox color: Color white clipBy: self gateBoxANSI on: aCanvas.
+	
 	aCanvas 
 		fillOval: self notDotANSI color: self fillColor;
 		frameOval:  self notDotANSI color: Color black.
