@@ -1,25 +1,4 @@
 drawing
-drawAsDINOn:aCanvas
-	self
-		fillFrameRightArc: (Rectangle origin: self gateBoxDIN origin + (1@0) extent: self gateBoxDIN extent - (1@0))
-		diameter: (self gateBoxDIN extent - (1@0)) * (2@1)
-		on: aCanvas.
-	
-	aCanvas 
-		clipBy: (Rectangle origin: self gateBoxDIN origin - (1@1) extent: (2@ (self gateBoxDIN extent y + 2)))
-		during: [ :sameCanvas |
-			sameCanvas
-				fillRectangle: self gateBoxDIN color: self fillColor;
-				frameRectangle: self gateBoxDIN color: Color black].
-	
-	self inputPorts do: [:eachPort |
-		aCanvas 
-			line: eachPort center 
-			to: (self gateBoxDIN left + 18) @ (eachPort center y)
-			color: Color black
-	].
-	
-	aCanvas 
-		line: self outputPorts first center 
-		to: (self gateBoxDIN right) @ (self outputPorts first center y)
-		color: Color black
+drawAsDINOn: aCanvas
+	self drawDINBaseOn: aCanvas.
+	self drawDINInputPortLinesOn: aCanvas
