@@ -1,5 +1,5 @@
 drawing
 drawAsANSIOn: aCanvas
 	self drawANSIXorBaseShapeOn: aCanvas.
-	self drawANSIInputPortsOn: aCanvas.
+	self drawANSIOrInputPortsOn: aCanvas.
 	self drawANSIIOutputPortsOn: aCanvas
