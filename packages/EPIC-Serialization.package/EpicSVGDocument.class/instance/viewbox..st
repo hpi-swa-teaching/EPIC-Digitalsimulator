@@ -3,5 +3,5 @@ viewbox: aRectangle
 
 	self svgElement
 		attributeAt: 'viewBox' put:
-			aRectangle left asString, ' ', aRectangle top asString,
-			' ', aRectangle extent x asString, ' ', aRectangle extent y asString
+			aRectangle left asFloat asString, ' ', aRectangle top asFloat asString,
+			' ', aRectangle extent x asFloat asString, ' ', aRectangle extent y asFloat asString

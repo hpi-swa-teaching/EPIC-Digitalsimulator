@@ -4,10 +4,10 @@ drawEllipseAt: aCenterPoint radius: aRadius style: aStyle
 	| ellipseElement |
 	ellipseElement := XMLElement named: self ellipseElementName.
 	ellipseElement
-		attributeAt: 'cx' put: aCenterPoint x asString;
-		attributeAt: 'cy' put: aCenterPoint y asString;
-		attributeAt: 'rx' put: aRadius x asString;
-		attributeAt: 'ry' put: aRadius y asString;
+		attributeAt: 'cx' put: aCenterPoint x asFloat asString;
+		attributeAt: 'cy' put: aCenterPoint y asFloat asString;
+		attributeAt: 'rx' put: aRadius x asFloat asString;
+		attributeAt: 'ry' put: aRadius y asFloat asString;
 		attributeAt: 'style' put: aStyle.
 		
 	self targetElement addElement: ellipseElement

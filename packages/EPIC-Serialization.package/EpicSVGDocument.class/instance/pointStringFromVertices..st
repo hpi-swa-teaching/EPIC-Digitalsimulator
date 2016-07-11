@@ -4,6 +4,6 @@ pointStringFromVertices: vertices
 	string := ''.
 	
 	vertices do: [ :each |
-		string := string, ' ', each x asString, ',', each y asString ].
+		string := string, ' ', each x asFloat asString, ',', each y asFloat asString ].
 	^ string withBlanksTrimmed
 	
