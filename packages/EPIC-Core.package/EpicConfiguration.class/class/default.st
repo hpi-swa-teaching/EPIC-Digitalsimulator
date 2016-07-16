@@ -1,4 +1,5 @@
 instance creation
 default
 	^ EpicConfiguration new
-		componentStyle: #epic
+		componentStyle: #epic;
+		snapToGrid: true

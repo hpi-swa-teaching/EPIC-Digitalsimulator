@@ -1,3 +1,3 @@
 magic numbers
 gridSize
-	^ self class gridSize
+	^ 30

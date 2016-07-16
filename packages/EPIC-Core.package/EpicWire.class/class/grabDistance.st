@@ -1,3 +1,3 @@
 magic numbers
 grabDistance
-	^ 10
+	^ 20
