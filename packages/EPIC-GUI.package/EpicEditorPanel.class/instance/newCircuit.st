@@ -4,5 +4,5 @@ newCircuit
 	circuit := EpicCustomCircuit new.
 	self updatePositionOf: circuit.
 	self circuits add: circuit.
-	self triggerEvent: #updateNavigationBar.
 	self showCircuit.
+	self triggerEvent: #updateNavigationBar.
