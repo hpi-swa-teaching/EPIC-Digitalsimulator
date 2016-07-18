@@ -1,4 +1,4 @@
-circuit stacking
+circuit tabbing
 hideCurrentlyShownCircuit
 	self submorphs allButLast copy do: [:morph | 
 		self removeMorph: morph. 
