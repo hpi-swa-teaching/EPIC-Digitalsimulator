@@ -1,3 +1,3 @@
 accessing
 stepTime
-	^1000
+	^100

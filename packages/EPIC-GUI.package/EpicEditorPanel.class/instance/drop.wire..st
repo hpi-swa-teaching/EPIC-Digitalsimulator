@@ -1,5 +1,5 @@
 event handling
 drop: anEvent wire: aWire
 
-	aWire dropGrabbedAnchor.
+	aWire dropGrabbedAnchorWith: self snapToGrid.
 	self commandExecutor executePresumedCommand
