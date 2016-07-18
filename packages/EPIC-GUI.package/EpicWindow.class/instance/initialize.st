@@ -1,6 +1,6 @@
 initialization
 initialize
 	super initialize.
-	self extent: 600@600.
+	self extent: 1000@600.
 	self layoutPolicy: ProportionalLayout new.
 	self postOpenInitialize.

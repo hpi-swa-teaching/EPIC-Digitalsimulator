@@ -3,7 +3,7 @@ createFileMenu
 	^ (EpicMenu new)
 		add: 'New'
 			target: self editorPanel
-			selector: #clear;
+			selector: #newCircuit;
 		addLine;
 		add: 'Open...'
 			target: self 

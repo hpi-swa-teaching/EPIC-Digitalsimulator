@@ -1,6 +1,7 @@
-execution
+initialization
 createNewTabButton
 	^ PluggableButtonMorphPlus new
-		label: 'new';
-		action: [self getCreateNewTabFunction];
+		label: '+';
+		action: [self createNewTab ];
+		update: self;
 		yourself

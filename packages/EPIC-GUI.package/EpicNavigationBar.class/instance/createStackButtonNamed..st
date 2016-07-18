@@ -1,4 +1,4 @@
-execution
+execution old
 createStackButtonNamed: aString
 	| currentStackSize |
 	currentStackSize := self currentStackSize.

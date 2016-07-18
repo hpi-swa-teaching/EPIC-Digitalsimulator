@@ -1,4 +1,4 @@
-accessing
-initialize
+initialization
+initialize 
 	super initialize.
-	self addNewTabButton
+	self tabs: OrderedCollection new.

@@ -1,3 +1,3 @@
 accessing
 circuit
-	^ self circuits last
+	^ circuit

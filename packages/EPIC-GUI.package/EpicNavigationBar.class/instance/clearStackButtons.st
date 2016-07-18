@@ -1,3 +1,3 @@
-execution
+execution old
 clearStackButtons
 	self removeAllMorphs
