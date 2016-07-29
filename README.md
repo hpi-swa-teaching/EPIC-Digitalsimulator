@@ -2,8 +2,6 @@
 
 [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/EPIC-Digitalsimulator.svg?branch=developer)](https://travis-ci.org/HPI-SWA-Teaching/EPIC-Digitalsimulator)
 
-<p align="center"><img src="./epic_logo_02_black.svg" width="50%"></p>
-
 **EPIC: Program for Integrated Circuits** is a tool that allows the user to create, edit, simulate and export digital circuits.
 
 ## Getting started
