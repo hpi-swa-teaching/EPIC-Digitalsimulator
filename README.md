@@ -20,7 +20,7 @@ To start using EPIC, you can either download the EPIC stand alone image from our
 
 - open your squeak image image
 - open Tools > Monticello Browser
-- click on "+Repository" and select the `filetree://` entry
+- click on `+Repository` and select the `filetree://` entry
 - in the following pop-up select the `package` directory inside the cloned git repository
 - select the newly created filetree entry and click on "open"
 - go through the packages and click load for each
