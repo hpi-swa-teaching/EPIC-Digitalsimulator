@@ -58,7 +58,7 @@ Execute `EpicLockDownScript new lockDown.` in a workspace window.
 > This will modify your image and delete code!
 > To be able to reset the image make sure to save if before the lockdown (and deactivate the flag to save it afterwards).
 
-Execute `EpicLockDownScript new lockDownAndShowSaveDialog: true.` in a workspace window.
+Execute `EpicLockDownScript new lockDownAndShowSaveDialog: true.` in a workspace window, and choose `yes` when asked if you wish to save the Smalltalk session.
 
 ## Credits
 
