@@ -5,6 +5,6 @@ initialize
 		layoutPolicy: ProportionalLayout new;
 		color: Color orange lighter;
 		scrollPane: ScrollPane new;
-		createNavigationBar;
 		createEditorPanel;
-		connectNavigationBar
+		createNavigationBar;
+		connectPanels.

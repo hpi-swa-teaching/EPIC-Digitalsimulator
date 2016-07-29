@@ -3,6 +3,10 @@ testWireReconnection
 	| panel firstNot lastNot|
 	panel := EpicEditorPanel new.
 	panel commandExecutor: EpicCommandExecutor new.
+	panel 
+		circuit: EpicCustomCircuit new;
+		postOpenInitialize.	
+	
 	1 to: 4 do: [ :I |
 		panel addComponent: EpicNot new
 	].

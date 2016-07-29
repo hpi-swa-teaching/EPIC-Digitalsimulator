@@ -7,7 +7,6 @@
 	"commentStamp" : "ek 5/31/2016 11:45",
 	"instvars" : [
 		"isSnappingSet",
-		"circuits",
 		"circuit",
 		"expectedMorph",
 		"grid",
@@ -16,7 +15,8 @@
 		"orthogonalWires",
 		"wireStub",
 		"commandExecutor",
-		"mainWindow" ],
+		"mainWindow",
+		"navigationBar" ],
 	"name" : "EpicEditorPanel",
 	"pools" : [
 		 ],

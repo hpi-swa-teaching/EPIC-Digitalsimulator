@@ -1,4 +1,4 @@
 deletion
 delete
 	self removeWireStub.
-	self baseCircuit delete
+	self circuit delete

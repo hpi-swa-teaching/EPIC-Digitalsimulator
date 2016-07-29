@@ -1,5 +1,5 @@
 input/output
 saveAs: aFileStream
-	(self editorPanel baseCircuit) 
+	(self editorPanel circuit) 
 		fullyQualifiedName: aFileStream baseName;
-		saveTest: aFileStream
+		save: aFileStream

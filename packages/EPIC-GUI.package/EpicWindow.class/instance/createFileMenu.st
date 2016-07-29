@@ -2,8 +2,8 @@ menu creation
 createFileMenu
 	^ (EpicMenu new)
 		add: 'New'
-			target: self editorPanel
-			selector: #newCircuit;
+			target: self editorBox navigationBar
+			selector: #createNewTab;
 		addLine;
 		add: 'Open...'
 			target: self 

@@ -1,3 +1,0 @@
-execution old
-clearStackButtons
-	self removeAllMorphs

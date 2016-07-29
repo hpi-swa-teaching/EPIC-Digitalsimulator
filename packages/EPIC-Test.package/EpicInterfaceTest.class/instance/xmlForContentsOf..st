@@ -1,7 +1,8 @@
 helper messages
 xmlForContentsOf: aCircuit
-	| xml |
-	self editorPanel showStackedCircuit: aCircuit.
+	| xml circuit |
+	circuit := self editorPanel circuit.
+	self editorPanel showCircuit: aCircuit.
 	xml := self editorPanel circuit asXMLDocument asString.
-	self editorPanel eventuallyExitCurrentCircuit.
+	self editorPanel showCircuit: circuit.
 	^ xml

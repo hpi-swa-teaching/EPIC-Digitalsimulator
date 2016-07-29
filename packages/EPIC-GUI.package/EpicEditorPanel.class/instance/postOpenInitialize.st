@@ -1,5 +1,5 @@
 initialization
-initializeGrid
+postOpenInitialize
 	self 
 		snapToGrid: true;
 		grid: EpicGrid new;

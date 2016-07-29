@@ -2,7 +2,7 @@ Xml menu
 printXml
 	| window position xml |
 	xml := TextStream on: (Text new).
-	(self editorPanel baseCircuit asXMLDocument) printOn: xml.
+	(self editorPanel circuit asXMLDocument) printOn: xml.
 	window := UIManager default
 		edit: xml contents
 		label: 'Xml'.
