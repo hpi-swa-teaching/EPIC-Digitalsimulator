@@ -1,12 +1,12 @@
 # EPIC-Digitalsimulator
 
-[![Build Status](https://travis-ci.org/HPI-SWA-Teaching/EPIC-Digitalsimulator.svg?branch=developer)](https://travis-ci.org/HPI-SWA-Teaching/EPIC-Digitalsimulator)
+[![Build Status](https://travis-ci.org/hpi-swa-teaching/EPIC-Digitalsimulator.svg?branch=developer)](https://travis-ci.org/hpi-swa-teaching/EPIC-Digitalsimulator)
 
 **EPIC: Program for Integrated Circuits** is a tool that allows the user to create, edit, simulate and export digital circuits.
 
 ## Getting started
 
-To start using EPIC, you can either download the EPIC stand alone image from our [latest release](https://github.com/HPI-SWA-Teaching/EPIC-Digitalsimulator/releases/latest), or install it manually into your own Squeak image.
+To start using EPIC, you can either download the EPIC stand alone image from our [latest release](https://github.com/hpi-swa-teaching/EPIC-Digitalsimulator/releases/latest), or install it manually into your own Squeak image.
 
 ## Manual installation
 
@@ -14,7 +14,7 @@ To start using EPIC, you can either download the EPIC stand alone image from our
 
 #### download repository
 
-- `$ git clone git@github.com:HPI-SWA-Teaching/EPIC-Digitalsimulator.git`
+- `$ git clone git@github.com:hpi-swa-teaching/EPIC-Digitalsimulator.git`
 
 #### import code
 
@@ -31,7 +31,7 @@ To start using EPIC, you can either download the EPIC stand alone image from our
 
 ### via SAR file:
 
-- download the SAR file from our [latest release](https://github.com/HPI-SWA-Teaching/EPIC-Digitalsimulator/releases/latest)
+- download the SAR file from our [latest release](https://github.com/hpi-swa-teaching/EPIC-Digitalsimulator/releases/latest)
 - open your Squeak image
 - drag the downloaded SAR file into your image and choose `install SAR`
 
